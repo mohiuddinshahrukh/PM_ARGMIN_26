@@ -33,6 +33,7 @@ Optional: Ignore the raw corpus if you don't want to re-upload it
 (Uncomment the line below if you want to skip the corpus folder)
 
 corpus/
+arg-microtexts/
 
 --- IDE & System Files ---
 
