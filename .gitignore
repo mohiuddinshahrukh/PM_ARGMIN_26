@@ -1,0 +1,42 @@
+--- Python Basics ---
+
+pycache/
+*.py[cod]
+*$py.class
+
+--- Virtual Environments ---
+
+Common names for virtual env folders
+
+env/
+venv/
+.env/
+.venv/
+.anaconda/
+
+--- Large Models & Downloads ---
+
+Ignore the downloaded AMR model directory (500MB+)
+
+amr_model/
+*.tar.gz
+*.zip
+
+--- Data & Outputs ---
+
+Ignore the generated CSV files
+
+*.csv
+
+Optional: Ignore the raw corpus if you don't want to re-upload it
+
+(Uncomment the line below if you want to skip the corpus folder)
+
+corpus/
+
+--- IDE & System Files ---
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
