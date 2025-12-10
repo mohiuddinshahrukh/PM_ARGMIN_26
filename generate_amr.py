@@ -17,7 +17,7 @@ def main():
     # Keep only Major Claims (the main conclusions)
     # AND remove rows where the topic is missing (the 'd' teaching examples)
     df_filtered = df[
-        (df['is_major_claim'] == True) &
+        (df['is_major_claim'] == False) &
         (df['topic_id'] != 'MISSING_TOPIC')
         ].copy()
 
@@ -37,7 +37,7 @@ def main():
     df_filtered['amr_penman'] = stog.parse_sents(df_filtered['text'].tolist())
 
     # 5. Save Results
-    output_file = "microtext_major_claims_amr.csv"
+    output_file = "microtext_major_claims_amr_is_major_claim_False.csv"
     df_filtered.to_csv(output_file, index=False)
 
     print("------------------------------------------------")
