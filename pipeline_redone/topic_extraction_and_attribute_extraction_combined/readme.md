@@ -44,7 +44,7 @@ python unified_extractor.py <input_dir> <output_file> --units <unit_types>
 Extract only **objections**, group them by topic, and save as an XML file.
 
 ```bash
-python unified_extractor.py .\arg-microtexts\corpus\en\ results\output_objections.xml --units objections
+python 3_unified_extractor.py .\arg-microtexts\corpus\en\ results\output_objections.xml --units objections
 
 ```
 
@@ -55,7 +55,7 @@ python unified_extractor.py .\arg-microtexts\corpus\en\ results\output_objection
 Extract only **premises** and save as a CSV file.
 
 ```bash
-python unified_extractor.py ./data/corpus results/all_premises.csv --units premises
+python 3_unified_extractor.py ./data/corpus results/all_premises.csv --units premises
 
 ```
 
@@ -66,7 +66,7 @@ python unified_extractor.py ./data/corpus results/all_premises.csv --units premi
 Extract **claims, premises, and objections** together into one CSV.
 
 ```bash
-python unified_extractor.py ./data/corpus results/full_corpus.csv --units claims premises objections
+python 3_unified_extractor.py ./data/corpus results/full_corpus.csv --units claims premises objections
 
 ```
 
