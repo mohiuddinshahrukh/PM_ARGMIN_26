@@ -1,0 +1,25 @@
+--- SUMMARY STATISTICS ---
+Total Files in Directory,336
+Total XML Files,112
+Files containing 'topic_id',89
+Unique 'topic_id' values,18
+
+topic_id,Found In Files
+waste_separation,micro_b001.xml
+higher_dog_poo_fines,"micro_b002.xml, micro_b007.xml, micro_b011.xml, micro_b032.xml, micro_b040.xml, micro_b061.xml, micro_k008.xml, micro_k024.xml, micro_k031.xml"
+health_insurance_cover_complementary_medicine,"micro_b003.xml, micro_b010.xml, micro_b013.xml, micro_b018.xml, micro_b025.xml, micro_b026.xml, micro_b035.xml, micro_b053.xml"
+public_broadcasting_fees_on_demand,"micro_b004.xml, micro_b014.xml, micro_b029.xml, micro_k001.xml, micro_k010.xml, micro_k019.xml, micro_k027.xml"
+stricter_regulation_of_intelligence_services,"micro_b005.xml, micro_b041.xml, micro_b046.xml, micro_k014.xml"
+introduce_capital_punishment,"micro_b006.xml, micro_b023.xml, micro_b027.xml, micro_b031.xml, micro_k006.xml, micro_k009.xml, micro_k020.xml, micro_k025.xml"
+over_the_counter_morning_after_pill,"micro_b008.xml, micro_b037.xml, micro_b042.xml, micro_b047.xml, micro_b055.xml, micro_k029.xml"
+cap_rent_increases,"micro_b009.xml, micro_b017.xml, micro_b024.xml, micro_b059.xml, micro_k011.xml, micro_k021.xml"
+school_uniforms,"micro_b012.xml, micro_b030.xml, micro_b038.xml"
+allow_shops_to_open_on_holidays_and_sundays,"micro_b015.xml, micro_b051.xml, micro_b060.xml, micro_k004.xml, micro_k007.xml, micro_k013.xml, micro_k018.xml, micro_k022.xml"
+increase_weight_of_BA_thesis_in_final_grade,"micro_b016.xml, micro_b049.xml, micro_k003.xml, micro_k023.xml"
+buy_tax_evader_data_from_dubious_sources,"micro_b019.xml, micro_b045.xml"
+make_video_games_olympic,"micro_b020.xml, micro_b036.xml, micro_b058.xml"
+charge_tuition_fees,"micro_b021.xml, micro_b028.xml, micro_b034.xml, micro_b048.xml, micro_k002.xml, micro_k012.xml"
+keep_retirement_at_63,"micro_b022.xml, micro_b050.xml, micro_b052.xml, micro_b057.xml, micro_b062.xml, micro_k017.xml"
+partial_housing_development_at_Tempelhofer_Feld,"micro_b033.xml, micro_b054.xml"
+EU_influence_on_political_events_in_Ukraine,"micro_b039.xml, micro_b056.xml, micro_k016.xml"
+TXL_airport_remain_operational_after_BER_opening,"micro_b044.xml, micro_b064.xml, micro_k015.xml"
