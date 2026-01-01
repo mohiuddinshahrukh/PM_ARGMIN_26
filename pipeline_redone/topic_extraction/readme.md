@@ -1,6 +1,3 @@
-Here is a clean, professional `README.md` file tailored to your code. You can copy-paste this directly into a file named `README.md` in your project folder.
-
----
 
 ```markdown
 # XML Attribute Extractor
