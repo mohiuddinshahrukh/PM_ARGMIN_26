@@ -1,0 +1,4323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<similarities>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.945</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.8</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The universities in Germany should not under any circumstanc</text_A>
+    <text_B>German universities should on no account charge tuition fees</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.789</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavem</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.778</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore universities should not charge tuition fees in Ger</text_A>
+    <text_B>German universities should on no account charge tuition fees</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.75</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Therefore universities should not charge tuition fees in Ger</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.727</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.712</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.71</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>There should be much higher fines for dog dirt left on pavem</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.7</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The universities in Germany should not under any circumstanc</text_A>
+    <text_B>Therefore universities should not charge tuition fees in Ger</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.683</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not </text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence c</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.677</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.645</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities</text_A>
+    <text_B>Therefore universities should not charge tuition fees in Ger</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.632</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counte</text_A>
+    <text_B>No one should have the possibility to pick up the morning-af</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.629</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The universities in Germany should not under any circumstanc</text_A>
+    <text_B>Tuition fees should not generally be charged by universities</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.625</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>German universities should on no account charge tuition fees</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.622</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should naturally cover alternativ</text_A>
+    <text_B>The statutory health insurance companies should also cover t</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.615</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore universities should not charge tuition fees in Ger</text_A>
+    <text_B>Actually it would be justified if all German universities ch</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.615</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually it would be justified if all German universities ch</text_A>
+    <text_B>German universities should on no account charge tuition fees</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.583</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Opening on Sundays and holidays would therefore help both cu</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.571</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternativ</text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.571</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Actually it would be justified if all German universities ch</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.556</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>The universities in Germany should not under any circumstanc</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.549</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Opening on Sundays and holidays would therefore help both cu</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.545</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavem</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.541</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>I am not of the opinion that the retirement age should be se</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.533</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>The statutory health insurance companies should also cover t</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.529</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightl</text_A>
+    <text_B>Intelligence services should be more closely regulated by pa</text_B>
+  </pair>
+  <pair>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <type>claim</type>
+    <score>0.52</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>The EU should exert influence on the political events in Ukr</text_A>
+    <text_B>the EU should not intervene in local politics.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.516</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.512</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The universities in Germany should not under any circumstanc</text_A>
+    <text_B>Actually it would be justified if all German universities ch</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.511</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The morning-after pill should only be prescribed after couns</text_A>
+    <text_B>No one should have the possibility to pick up the morning-af</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.51</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>Health insurance companies should naturally cover alternativ</text_B>
+  </pair>
+  <pair>
+    <topic>make_video_games_olympic</topic>
+    <type>claim</type>
+    <score>0.5</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>computer games should also not be recognized as Olympic even</text_A>
+    <text_B>Video games ought to be included in the ranks of Olympic eve</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.492</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be much higher fines for dog dirt left on pavem</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.491</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The statutory health insurance companies should also cover t</text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.489</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.488</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counte</text_A>
+    <text_B>The morning-after pill should only be prescribed after couns</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.482</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.473</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both cu</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.472</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.471</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The statutory health insurance companies should also cover t</text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.465</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Opening on Sundays and holidays would therefore help both cu</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and publ</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.462</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The prototype of Audi's new sports car has car lovers raving</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.458</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternativ</text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.457</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why we should not allow any additional bank rescues.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.456</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.452</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.45</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.449</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be much higher fines for dog dirt left on pavem</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.448</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>school_uniforms</topic>
+    <type>claim</type>
+    <score>0.444</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>School uniforms should not be worn in our schools.</text_A>
+    <text_B>School uniforms should be introduced in our schools again.</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.444</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightl</text_A>
+    <text_B>Secret services must be more tightly regulated in order to p</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.444</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Tuition fees should not generally be charged by universities</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.444</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizen</text_A>
+    <text_B>Not everyone should be obliged to pay the TV &amp; radio licence</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.444</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.441</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.433</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be much higher fines for dog dirt left on pavem</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.433</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.429</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counte</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availabi</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.423</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.419</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.413</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>One should not re-introduce capital punishment in Germany,</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.412</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities</text_A>
+    <text_B>Actually it would be justified if all German universities ch</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.41</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>That's why Germany should not introduce capital punishment!</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.41</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not </text_A>
+    <text_B>If there must be rent increases, there should also be a cap </text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's i</text_A>
+    <text_B>The implementation of retirement at 63 is no longer socially</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>The EU should exert influence on the political events in Ukr</text_A>
+    <text_B>the EU should intervene right away.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>The death penalty should be abandoned everywhere.</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.4</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.394</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence f</text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.393</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.393</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.393</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Due to the many random factors the bachelor thesis should no</text_A>
+    <text_B>The BA dissertation should, if not make up the entire grade,</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.39</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A stop must be put to exorbitant rents by imposing a limit o</text_A>
+    <text_B>A cap on rent increases upon tenant change is therefore not </text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.389</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.388</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>charge_tuition_fees</topic>
+    <type>claim</type>
+    <score>0.387</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities</text_A>
+    <text_B>German universities should on no account charge tuition fees</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.387</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.385</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.383</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturop</text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.383</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and publ</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.383</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.381</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.379</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Considering what's on television these days, it would be app</text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.37</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The health insurance companies ought to be enabled to recogn</text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.37</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizen</text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.368</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.368</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Opening on Sundays and holidays would therefore help both cu</text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.368</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Raising the relative retirement age on the basis of the phys</text_A>
+    <text_B>I am not of the opinion that the retirement age should be se</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.367</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's i</text_A>
+    <text_B>I am not of the opinion that the retirement age should be se</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.364</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A stop must be put to exorbitant rents by imposing a limit o</text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence c</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.364</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.364</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change</text_A>
+    <text_B>A cap on rent increases upon tenant change is therefore not </text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.36</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and publ</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.36</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturop</text_A>
+    <text_B>The statutory health insurance companies should also cover t</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.357</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.356</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.355</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>dispensing it without medical advice would be inappropriate.</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availabi</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.353</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.353</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Secret services must be more tightly regulated in order to p</text_A>
+    <text_B>Intelligence services should be more closely regulated by pa</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.35</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <type>claim</type>
+    <score>0.349</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>the EU should intervene right away.</text_A>
+    <text_B>the EU should not intervene in local politics.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.347</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence f</text_A>
+    <text_B>Considering what's on television these days, it would be app</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.341</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavem</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.341</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternativ</text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturop</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.34</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all m</text_B>
+  </pair>
+  <pair>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <type>claim</type>
+    <score>0.34</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>As a central airport Berlin Tegel is particularly attractive</text_A>
+    <text_B>After the new BER Airport has been commissioned, Tegel shoul</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.34</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturop</text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.339</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>One should not re-introduce capital punishment in Germany,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>It was clearly a mistake to include Tom in our football team</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and publ</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why intelligence services must be regulated in the fr</text_A>
+    <text_B>Intelligence services should be more closely regulated by pa</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change</text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence c</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>If there must be rent increases, there should also be a cap </text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence c</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit o</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We urgently need a midfield replacement for the coming match</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I argue categorically in favour of over-the-counter availabi</text_A>
+    <text_B>No one should have the possibility to pick up the morning-af</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>make_video_games_olympic</topic>
+    <type>claim</type>
+    <score>0.333</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Video games ought to be included in the ranks of Olympic eve</text_A>
+    <text_B>It would be fair to make them into an Olympic event.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.327</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.324</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Hence it is good when shops are not open on Sundays and publ</text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.324</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.323</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Today I will delete my Facebook account.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.323</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.323</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.323</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.323</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.321</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturop</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.32</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty should be abandoned everywhere.</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.32</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>Especially now, as there is a lack of skilled labour, it's i</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.318</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A reduction in the amount of chemically produced medication </text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.318</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.312</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It would therefore be wise to adjust the required effort for</text_A>
+    <text_B>Current regulations for the calculation of the total grade s</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.311</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence</text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.31</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence f</text_A>
+    <text_B>The TV/radio licence fee can only be required of all citizen</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.308</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.308</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.308</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.308</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>the statutory retirement age should in the future not remain</text_A>
+    <text_B>Especially now, as there is a lack of skilled labour, it's i</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.308</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The death penalty should be abandoned everywhere.</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>partial_housing_development_at_Tempelhofer_Feld</topic>
+    <type>claim</type>
+    <score>0.306</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>I find the peripheral housing development at Tempelhofer Fel</text_A>
+    <text_B>If however one could find a compromise between green space a</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.306</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>That's why the statutory health insurance companies should n</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We urgently need a midfield replacement for the coming match</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.303</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>make_video_games_olympic</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>computer games should also not be recognized as Olympic even</text_A>
+    <text_B>It would be fair to make them into an Olympic event.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.298</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Current regulations for the calculation of the total grade s</text_A>
+    <text_B>The BA dissertation should, if not make up the entire grade,</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.298</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Hence it is good when shops are not open on Sundays and publ</text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.297</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.296</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Today I will delete my Facebook account.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.296</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.295</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightl</text_A>
+    <text_B>That's why intelligence services must be regulated in the fr</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change</text_A>
+    <text_B>If there must be rent increases, there should also be a cap </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>It was clearly a mistake to include Tom in our football team</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.294</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.293</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.293</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Due to the many random factors the bachelor thesis should no</text_A>
+    <text_B>Current regulations for the calculation of the total grade s</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.293</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>It would therefore be wise to adjust the required effort for</text_A>
+    <text_B>Due to the many random factors the bachelor thesis should no</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.293</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>That's why everyone should have an anti-virus programme on h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.293</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.292</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.292</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Opening on Sundays and holidays would therefore help both cu</text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.29</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>The statutory health insurance companies should also cover t</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.29</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence f</text_A>
+    <text_B>Not everyone should be obliged to pay the TV &amp; radio licence</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why there ought to be one day a week when supermarket</text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>A stop must be put to exorbitant rents by imposing a limit o</text_A>
+    <text_B>If there must be rent increases, there should also be a cap </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Secret services must be more tightly regulated in order to p</text_A>
+    <text_B>That's why intelligence services must be regulated in the fr</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.286</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should n</text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.282</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.281</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.281</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pave</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.281</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.278</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.276</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.276</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The prototype of Audi's new sports car has car lovers raving</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.276</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizen</text_A>
+    <text_B>Considering what's on television these days, it would be app</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.275</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>The morning-after pill should only be prescribed after couns</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availabi</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.275</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why they should be taken off the market,</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.273</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.273</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay </text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence c</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.273</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.273</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>We don't need it.</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.271</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.27</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.27</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.27</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <type>claim</type>
+    <score>0.269</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>After the new BER Airport has been commissioned, Tegel shoul</text_A>
+    <text_B>BER should be re-conceptualized from scratch,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.269</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.269</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.269</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I am not of the opinion that the retirement age should be se</text_A>
+    <text_B>The implementation of retirement at 63 is no longer socially</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>Germany should by no means introduce capital punishment.</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>Health insurance companies should naturally cover alternativ</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open </text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Berlin's basketball team has just come out of a sobering sea</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.264</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Today I will delete my Facebook account.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.263</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Peter should close his snack bar as soon as possible.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.261</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.261</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>We don't need it.</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.261</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.259</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why we should not allow any additional bank rescues.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.259</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Germany should by no means introduce capital punishment.</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Today I will delete my Facebook account.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.257</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.256</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.256</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>Peter should close his snack bar as soon as possible.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.256</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>Raising the relative retirement age on the basis of the phys</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.255</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.255</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.254</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.254</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>buy_tax_evader_data_from_dubious_sources</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>Tax data that are not made available for free should therefo</text_A>
+    <text_B>Acquiring CDs with tax data of tax delinquents is therefore </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.25</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>the statutory retirement age should in the future not remain</text_A>
+    <text_B>The implementation of retirement at 63 is no longer socially</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.246</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>the statutory retirement age should in the future not remain</text_A>
+    <text_B>I am not of the opinion that the retirement age should be se</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.246</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.245</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.245</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence</text_A>
+    <text_B>Considering what's on television these days, it would be app</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.244</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>That's why everyone should have an anti-virus programme on h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.244</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.244</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <type>claim</type>
+    <score>0.243</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>As a central airport Berlin Tegel is particularly attractive</text_A>
+    <text_B>BER should be re-conceptualized from scratch,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.242</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.242</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.242</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.242</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.242</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.241</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>dispensing it without medical advice would be inappropriate.</text_A>
+    <text_B>No one should have the possibility to pick up the morning-af</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.24</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>We don't need it.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.24</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>Alternative treatments should be subsidized in the same way </text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.239</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>everyone should chip in.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.239</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Raising the relative retirement age on the basis of the phys</text_A>
+    <text_B>the statutory retirement age should in the future not remain</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.238</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why we should not allow any additional bank rescues.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.238</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.238</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.238</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Peter should close his snack bar as soon as possible.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.237</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The death penalty should be abandoned everywhere.</text_A>
+    <text_B>We don't need it.</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>The implementation of retirement at 63 is no longer socially</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>Not everyone should be obliged to pay the TV &amp; radio licence</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.233</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturop</text_A>
+    <text_B>A reduction in the amount of chemically produced medication </text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.233</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently p</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all m</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.233</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.231</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence f</text_A>
+    <text_B>everyone should chip in.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.231</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counte</text_A>
+    <text_B>dispensing it without medical advice would be inappropriate.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.23</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>dispensing it without medical advice would be inappropriate.</text_A>
+    <text_B>The morning-after pill should only be prescribed after couns</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.229</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.229</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.229</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.228</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.226</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.225</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>For these reasons supermarkets and shopping centres should n</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay </text_A>
+    <text_B>A cap on rent increases upon tenant change is therefore not </text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why a visit to the doctor and professional advice sho</text_A>
+    <text_B>The morning-after pill should only be prescribed after couns</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.218</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.218</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty should be abandoned everywhere.</text_A>
+    <text_B>One should not re-introduce capital punishment in Germany,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.217</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.217</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>That's why a visit to the doctor and professional advice sho</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availabi</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.217</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.216</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>That's why everyone should have an anti-virus programme on h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.216</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We urgently need a midfield replacement for the coming match</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.216</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.216</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.215</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturop</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.214</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.214</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>That's why a visit to the doctor and professional advice sho</text_A>
+    <text_B>dispensing it without medical advice would be inappropriate.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.213</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A reduction in the amount of chemically produced medication </text_A>
+    <text_B>The statutory health insurance companies should also cover t</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.213</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.212</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay </text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit o</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.212</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>the statutory retirement age should in the future not remain</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.211</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.211</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.211</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.211</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Health insurance companies should naturally cover alternativ</text_A>
+    <text_B>A reduction in the amount of chemically produced medication </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.208</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.208</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.207</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.205</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.204</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.204</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Peter should close his snack bar as soon as possible.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.204</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.204</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open </text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>That's why causing such obstacles must to be more urgently p</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A reduction in the amount of chemically produced medication </text_A>
+    <text_B>The health insurance companies ought to be enabled to recogn</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.197</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.197</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizen</text_A>
+    <text_B>everyone should chip in.</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.197</score>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>everyone should chip in.</text_A>
+    <text_B>The TV license fee should only be collected from those who a</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.197</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>The prototype of Audi's new sports car has car lovers raving</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.196</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.196</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.196</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.195</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>The current tour of Tokio Hotel is breaking all records.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.195</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way </text_A>
+    <text_B>A reduction in the amount of chemically produced medication </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.192</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.192</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence</text_A>
+    <text_B>everyone should chip in.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.192</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.192</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.192</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.19</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why a visit to the doctor and professional advice sho</text_A>
+    <text_B>No one should have the possibility to pick up the morning-af</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.19</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Peter should close his snack bar as soon as possible.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.19</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and publ</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.19</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.188</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.188</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>Considering what's on television these days, it would be app</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.187</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay </text_A>
+    <text_B>If there must be rent increases, there should also be a cap </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.187</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.187</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.186</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both cu</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.185</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Considering what's on television these days, it would be app</text_A>
+    <text_B>everyone should chip in.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.185</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all m</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We don't need it.</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.179</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.178</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.176</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.174</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.174</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements</text_B>
+  </pair>
+  <pair>
+    <topic>cap_rent_increases</topic>
+    <type>claim</type>
+    <score>0.172</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay </text_A>
+    <text_B>Rent prices should be limited by a cap when there's a change</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.171</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We should go to the Baltic Sea on the weekend.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It would therefore be wise to adjust the required effort for</text_A>
+    <text_B>The BA dissertation should, if not make up the entire grade,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>That's why there ought to be one day a week when supermarket</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.169</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.167</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>The TV/radio licence fee can only be required of all citizen</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.167</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.167</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>The state ought to prevent murder - not avenge it.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.167</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.164</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.164</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to h</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.164</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.163</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>We urgently need a midfield replacement for the coming match</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.163</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.163</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <type>claim</type>
+    <score>0.162</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to </text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.161</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.16</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.159</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.158</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.157</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.157</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>Raising the relative retirement age on the basis of the phys</text_A>
+    <text_B>Especially now, as there is a lack of skilled labour, it's i</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.157</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against neglige</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavem</text_B>
+  </pair>
+  <pair>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <type>claim</type>
+    <score>0.156</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of </text_A>
+    <text_B>Actually only those people should pay a TV &amp; radio licence f</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.156</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.156</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.156</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>you should buy IBM shares if you want to invest.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.156</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.154</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.154</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.154</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We urgently need a midfield replacement for the coming match</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <type>claim</type>
+    <score>0.151</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Health insurance companies should not cover treatment in com</text_A>
+    <text_B>A reduction in the amount of chemically produced medication </text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.15</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>Nevertheless the head of government, Merkel, had better rest</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.148</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.145</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.145</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>keep_retirement_at_63</topic>
+    <type>claim</type>
+    <score>0.145</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Raising the relative retirement age on the basis of the phys</text_A>
+    <text_B>The implementation of retirement at 63 is no longer socially</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.145</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.145</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.143</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why they should be taken off the market,</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.143</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.14</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.138</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I think Fritz has never been in a fight in his life.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.138</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.138</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It was clearly a mistake to include Tom in our football team</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.136</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.133</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>school_uniforms</topic>
+    <type>claim</type>
+    <score>0.133</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A simply designed practical outfit would even out the overal</text_A>
+    <text_B>School uniforms should be introduced in our schools again.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.131</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.13</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>This is why we need more police presence in public transport</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.129</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why we should not allow any additional bank rescues.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.129</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.129</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>We urgently need a midfield replacement for the coming match</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.129</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.125</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.125</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>That's why we should not allow any additional bank rescues.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.123</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.123</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>We should thus all limit our consumption of meat rigorously.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.123</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>I can only recommend the new smartphone XYZ-123 to everyone.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.123</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>I think Fritz has never been in a fight in his life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.121</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>That's why they should be taken off the market,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.118</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Freddy and I must be siblings.</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.115</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>We don't need it.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.115</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.114</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The prototype of Audi's new sports car has car lovers raving</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.114</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Today I will delete my Facebook account.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <type>claim</type>
+    <score>0.111</score>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why a visit to the doctor and professional advice sho</text_A>
+    <text_B>The morning-after pill ought to be available over-the-counte</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.111</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.111</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pave</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.111</score>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why everyone should have an anti-virus programme on h</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.11</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Peter should close his snack bar as soon as possible.</text_A>
+    <text_B>In a few decades our society will have a disproportionate nu</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.109</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>You should watch less television,</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.108</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The current tour of Tokio Hotel is breaking all records.</text_A>
+    <text_B>Thus one of his ex-girlfriends must have been there.</text_B>
+  </pair>
+  <pair>
+    <topic>school_uniforms</topic>
+    <type>claim</type>
+    <score>0.102</score>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A simply designed practical outfit would even out the overal</text_A>
+    <text_B>School uniforms should not be worn in our schools.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.097</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>In a few decades our society will have a disproportionate nu</text_A>
+    <text_B>We should go to the Baltic Sea on the weekend.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.095</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>This is why we need more police presence in public transport</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.091</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Nevertheless the head of government, Merkel, had better rest</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>introduce_capital_punishment</topic>
+    <type>claim</type>
+    <score>0.071</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The death penalty is a legal means that as such is not pract</text_A>
+    <text_B>We don't need it.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.069</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We should thus all limit our consumption of meat rigorously.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.069</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Berlin's basketball team has just come out of a sobering sea</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.069</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>I can only recommend the new smartphone XYZ-123 to everyone.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.068</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>you should buy IBM shares if you want to invest.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.061</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Thus one of his ex-girlfriends must have been there.</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.043</score>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Hence the Mayor of Berlin ought to keep the hurdles for orga</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+  <pair>
+    <topic>MISSING_TOPIC</topic>
+    <type>claim</type>
+    <score>0.04</score>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>You should watch less television,</text_A>
+    <text_B>Tomorrow I will skydive for the first time in my life.</text_B>
+  </pair>
+</similarities>
