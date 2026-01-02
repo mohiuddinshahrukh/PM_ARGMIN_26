@@ -40,7 +40,6 @@ class SmatchScorer:
             return 0.0
 
         # 4. Compute F-Score with Safety Clamp
-        # Avoid division by zero
         if test_total == 0 or gold_total == 0:
             return 0.0
 
@@ -49,7 +48,6 @@ class SmatchScorer:
 
         if precision + recall > 0:
             f_score = 2 * (precision * recall) / (precision + recall)
-            # FORCE SCORE TO BE MAX 1.0
             return min(1.0, f_score)
 
         return 0.0
@@ -60,8 +58,7 @@ def main():
     parser.add_argument("--input", required=True, help="Path to optimized XML/CSV (must contain 'amr_penman')")
     parser.add_argument("--type", choices=['claim', 'premise', 'objection', 'all'], default='all',
                         help="Filter analysis to a specific argument type.")
-    parser.add_argument("--output", default="similarity_results.csv",
-                        help="Output filename (e.g. results.xml or results.csv)")
+    parser.add_argument("--output", default="similarity_results.csv", help="Output filename")
 
     args = parser.parse_args()
 
@@ -80,7 +77,6 @@ def main():
     # 2. Critical Check
     if 'amr_penman' not in df.columns:
         print("\nCRITICAL ERROR: Input file is missing 'amr_penman' column.")
-        print("You must run 'optimization_of_results.py' first.")
         return
 
     # 3. Filter by Type
@@ -103,6 +99,7 @@ def main():
     for name, group in tqdm(grouped):
         if len(group) < 2: continue
 
+        # Extract full text
         items = list(zip(group['adu_id'], group.get('fragment_text', group.get('text', '')), group['amr_penman']))
 
         for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations(items, 2):
@@ -115,36 +112,29 @@ def main():
                     'score': round(score, 3),
                     'arg_A': id1,
                     'arg_B': id2,
-                    'text_A': txt1[:60],
-                    'text_B': txt2[:60]
+                    # REMOVED SLICING [:60] HERE
+                    'text_A': txt1,
+                    'text_B': txt2
                 })
 
-    # 5. Save Results (Sorted by Topic, then Score)
+    # 5. Save Results
     if results:
         res_df = pd.DataFrame(results)
-
-        # --- NEW SORTING LOGIC ---
-        # 1. Sort Alphabetically by Topic
-        # 2. Sort Descending (True -> False) by Score within that topic
         res_df = res_df.sort_values(by=['topic', 'score'], ascending=[True, False])
 
-        # Determine output format from extension
         out_ext = os.path.splitext(args.output)[1].lower()
-
-        # Create directory if missing
         os.makedirs(os.path.dirname(os.path.abspath(args.output)), exist_ok=True)
 
         try:
             if out_ext == '.xml':
-                # Save as proper XML
                 res_df.to_xml(args.output, index=False, root_name='similarities', row_name='pair')
                 print(f"\nSuccess! Saved {len(res_df)} matches to {args.output} (XML Format)")
             else:
-                # Default to CSV
                 res_df.to_csv(args.output, index=False)
                 print(f"\nSuccess! Saved {len(res_df)} matches to {args.output} (CSV Format)")
 
-            print(res_df.head(10).to_string(index=False))
+            # Print a small preview, but truncate ONLY the print, not the file
+            print(res_df.head(5).to_string(index=False, max_colwidth=50))
 
         except Exception as e:
             print(f"Error saving file: {e}")
