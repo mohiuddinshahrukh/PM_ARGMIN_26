@@ -1,12 +1,12 @@
 
 ```markdown
-# Microtext Argument Extractor
+# Microtext ADU Extractor
 
-This Python utility automates the extraction of argumentative components (Claims, Premises, and Objections) from the **Microtext Corpus** (XML format). It is designed to process directories of XML files, classify logical units based on their graph structure, and export the findings.
+This Python utility automates the extraction of **argumentative discourse units** (ADUs: Claims, Premises, and Objections) from the **Microtext Corpus** (XML format). It is designed to process directories of XML files, classify logical units based on their graph structure, and export the findings.
 
 ## 📌 Features
 
-* **Attribute Selection:** Selectively extract `claims`, `premises`, or `objections`.
+* **ADU Selection:** Selectively extract `claims`, `premises`, or `objections`.
 * **Batch Processing:** Scans an entire directory for `.xml` files.
 * **Flexible Output:** Supports both CSV and XML export formats.
 * **Automatic Path Handling:** Automatically creates missing output directories.
@@ -20,14 +20,14 @@ This Python utility automates the extraction of argumentative components (Claims
 ### Command Syntax
 
 ```bash
-python extract_args.py <input_dir> --extract <attributes> --output <output_file>
+python extract_args.py <input_dir> --extract <ADUs> --output <output_file>
 
 ```
 
 | Argument | Description | Options |
 | --- | --- | --- |
 | `input_dir` | Directory containing the corpus XML files. | (e.g., `./corpus`) |
-| `--extract` | List of attributes to extract (space-separated). | `claims` `premises` `objections` |
+| `--extract` | List of ADUs to extract (space-separated). | `claims` `premises` `objections` |
 | `--output` | Destination file path. Extension determines format. | `.csv` or `.xml` |
 
 ### Examples
@@ -41,7 +41,7 @@ python extract_args.py arg-microtexts/corpus/en/ --extract claims objections --o
 ```
 
 **2. Extract All Data to XML**
-Extracts all argument types and saves them as an XML file.
+Extracts all ADUs and saves them as an XML file.
 
 ```bash
 python extract_args.py data/ --extract claims premises objections --output analysis/full_dataset.xml
