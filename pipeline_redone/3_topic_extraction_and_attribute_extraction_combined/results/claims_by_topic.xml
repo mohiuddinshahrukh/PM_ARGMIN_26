@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<grouped_corpus>
+  <topic id="school_uniforms">
+    <claims count="3">
+      <item file_id="micro_b038">School uniforms should be introduced in our schools again.</item>
+      <item file_id="micro_b030">School uniforms should not be worn in our schools.</item>
+      <item file_id="micro_b012">A simply designed practical outfit would even out the overall visual image of a school, and direct attention towards the character and achievements of the students - and not their buying power.</item>
+    </claims>
+  </topic>
+  <topic id="charge_tuition_fees">
+    <claims count="6">
+      <item file_id="micro_b021">Tuition fees should not be charged in Germany.</item>
+      <item file_id="micro_b034">Tuition fees should not generally be charged by universities.</item>
+      <item file_id="micro_b048">Therefore universities should not charge tuition fees in Germany.</item>
+      <item file_id="micro_k002">Actually it would be justified if all German universities charged tuition fees.</item>
+      <item file_id="micro_k012">German universities should on no account charge tuition fees.</item>
+      <item file_id="micro_b028">The universities in Germany should not under any circumstances charge tuition fees.</item>
+    </claims>
+  </topic>
+  <topic id="health_insurance_cover_complementary_medicine">
+    <claims count="8">
+      <item file_id="micro_b003">Health insurance companies should not cover treatment in complementary medicine</item>
+      <item file_id="micro_b013">Health insurance companies should naturally cover alternative medical treatments.</item>
+      <item file_id="micro_b026">The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</item>
+      <item file_id="micro_b018">Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</item>
+      <item file_id="micro_b010">Alternative treatments should be subsidized in the same way as conventional treatments,</item>
+      <item file_id="micro_b053">That's why the statutory health insurance companies should not cover such treatments.</item>
+      <item file_id="micro_b035">The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</item>
+      <item file_id="micro_b025">A reduction in the amount of chemically produced medication per person is most certainly desirable.</item>
+    </claims>
+  </topic>
+  <topic id="higher_dog_poo_fines">
+    <claims count="9">
+      <item file_id="micro_k008">If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</item>
+      <item file_id="micro_b002">Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</item>
+      <item file_id="micro_k024">Dog owners should pay higher fines for dog dirt left on pavements,</item>
+      <item file_id="micro_b007">That's why causing such obstacles must to be more urgently punished.</item>
+      <item file_id="micro_k031">Increasing penalties is therefore the right way.</item>
+      <item file_id="micro_b061">Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</item>
+      <item file_id="micro_b011">For dog dirt left on the pavement dog owners should by all means pay a bit more.</item>
+      <item file_id="micro_b032">There should be a higher fine for dog dirt on the pavement.</item>
+      <item file_id="micro_b040">There should be much higher fines for dog dirt left on pavements.</item>
+    </claims>
+  </topic>
+  <topic id="cap_rent_increases">
+    <claims count="6">
+      <item file_id="micro_b059">A cap on rent increases upon tenant change is therefore not to be supported.</item>
+      <item file_id="micro_k011">If there must be rent increases, there should also be a cap to avoid nasty surprises.</item>
+      <item file_id="micro_k021">A constant increase in rent upon a change of tenants hence cannot be desired by society.</item>
+      <item file_id="micro_b017">Rent prices should be limited by a cap when there's a change of tenant.</item>
+      <item file_id="micro_b009">It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</item>
+      <item file_id="micro_b024">A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</item>
+    </claims>
+  </topic>
+  <topic id="introduce_capital_punishment">
+    <claims count="8">
+      <item file_id="micro_k020">The state ought to prevent murder - not avenge it.</item>
+      <item file_id="micro_b031">One should not re-introduce capital punishment in Germany,</item>
+      <item file_id="micro_b023">That's why Germany should not introduce capital punishment!</item>
+      <item file_id="micro_k025">Still, the state needs the death penalty as a deterrent to horrific crimes.</item>
+      <item file_id="micro_k009">Germany should by no means introduce capital punishment.</item>
+      <item file_id="micro_b006">The death penalty is a legal means that as such is not practicable in Germany.</item>
+      <item file_id="micro_k006">We don't need it.</item>
+      <item file_id="micro_b027">The death penalty should be abandoned everywhere.</item>
+    </claims>
+  </topic>
+  <topic id="TXL_airport_remain_operational_after_BER_opening">
+    <claims count="3">
+      <item file_id="micro_b064">After the new BER Airport has been commissioned, Tegel should definitely be closed.</item>
+      <item file_id="micro_b044">As a central airport Berlin Tegel is particularly attractive for business travellers and should by all means remain operational.</item>
+      <item file_id="micro_k015">BER should be re-conceptualized from scratch,</item>
+    </claims>
+  </topic>
+  <topic id="keep_retirement_at_63">
+    <claims count="6">
+      <item file_id="micro_k017">The implementation of retirement at 63 is no longer socially sustainable,</item>
+      <item file_id="micro_b057">Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</item>
+      <item file_id="micro_b022">No, the retirement age should be raised to 65 again.</item>
+      <item file_id="micro_b062">I am not of the opinion that the retirement age should be set at 63 years.</item>
+      <item file_id="micro_b052">the statutory retirement age should in the future not remain at 63 years.</item>
+      <item file_id="micro_b050">Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</item>
+    </claims>
+  </topic>
+  <topic id="stricter_regulation_of_intelligence_services">
+    <claims count="4">
+      <item file_id="micro_b005">Intelligence services must urgently be regulated more tightly by parliament;</item>
+      <item file_id="micro_b041">Secret services must be more tightly regulated in order to prevent excessive surveillance.</item>
+      <item file_id="micro_k014">Intelligence services should be more closely regulated by parliament,</item>
+      <item file_id="micro_b046">That's why intelligence services must be regulated in the framework of parliamentary oversight committees.</item>
+    </claims>
+  </topic>
+  <topic id="over_the_counter_morning_after_pill">
+    <claims count="7">
+      <item file_id="micro_b037">The morning-after pill ought to be available over-the-counter in pharmacies.</item>
+      <item file_id="micro_k029">No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</item>
+      <item file_id="micro_b055">I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</item>
+      <item file_id="micro_b042">For instance the morning-after pill could result in a decrease in the use of condoms and thus lead to an increase in new infections with Aids.</item>
+      <item file_id="micro_b042">dispensing it without medical advice would be inappropriate.</item>
+      <item file_id="micro_b047">The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</item>
+      <item file_id="micro_b008">That's why a visit to the doctor and professional advice should remain mandatory.</item>
+    </claims>
+  </topic>
+  <topic id="public_broadcasting_fees_on_demand">
+    <claims count="7">
+      <item file_id="micro_k001">Not everyone should be obliged to pay the TV &amp; radio licence.</item>
+      <item file_id="micro_b014">Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</item>
+      <item file_id="micro_k027">The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</item>
+      <item file_id="micro_b029">The TV/radio licence fee can only be required of all citizens/households equally.</item>
+      <item file_id="micro_k010">Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</item>
+      <item file_id="micro_b004">Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</item>
+      <item file_id="micro_k019">everyone should chip in.</item>
+    </claims>
+  </topic>
+  <topic id="increase_weight_of_BA_thesis_in_final_grade">
+    <claims count="4">
+      <item file_id="micro_b049">Due to the many random factors the bachelor thesis should not play a bigger role.</item>
+      <item file_id="micro_k023">The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it.</item>
+      <item file_id="micro_b016">It would therefore be wise to adjust the required effort for final theses accordingly.</item>
+      <item file_id="micro_k003">Current regulations for the calculation of the total grade should therefore be maintained.</item>
+    </claims>
+  </topic>
+  <topic id="partial_housing_development_at_Tempelhofer_Feld">
+    <claims count="2">
+      <item file_id="micro_b033">I find the peripheral housing development at Tempelhofer Feld right for urban planning reasons,</item>
+      <item file_id="micro_b054">If however one could find a compromise between green space and housing, then Tempelhofer Feld should definitely be made available for residential construction.</item>
+    </claims>
+  </topic>
+  <topic id="buy_tax_evader_data_from_dubious_sources">
+    <claims count="2">
+      <item file_id="micro_b019">Tax data that are not made available for free should therefore not be acquired by the state.</item>
+      <item file_id="micro_b045">Acquiring CDs with tax data of tax delinquents is therefore out of the question.</item>
+    </claims>
+  </topic>
+  <topic id="EU_influence_on_political_events_in_Ukraine">
+    <claims count="3">
+      <item file_id="micro_k016">the EU should not intervene in local politics.</item>
+      <item file_id="micro_b039">The EU should exert influence on the political events in Ukraine.</item>
+      <item file_id="micro_b056">the EU should intervene right away.</item>
+    </claims>
+  </topic>
+  <topic id="allow_shops_to_open_on_holidays_and_sundays">
+    <claims count="9">
+      <item file_id="micro_k004">Many European countries, for instance the Netherlands, Sweden and Great Britain, have already understood this and successfully adjusted the opening hours for retailers.</item>
+      <item file_id="micro_k004">Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</item>
+      <item file_id="micro_k022">It is quite clear that Sunday should remain a day of rest.</item>
+      <item file_id="micro_k007">Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</item>
+      <item file_id="micro_b051">For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</item>
+      <item file_id="micro_b015">Well, I as an employee find it very practical to be able to shop at least on weekends.</item>
+      <item file_id="micro_k013">Hence it is good when shops are not open on Sundays and public holidays.</item>
+      <item file_id="micro_k018">That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</item>
+      <item file_id="micro_b060">Opening on Sundays and holidays would therefore help both customers and shops.</item>
+    </claims>
+  </topic>
+  <topic id="make_video_games_olympic">
+    <claims count="4">
+      <item file_id="micro_b020">computer games should also not be recognized as Olympic events.</item>
+      <item file_id="micro_b058">It would be fair to make them into an Olympic event.</item>
+      <item file_id="micro_b036">including planning abilities, reaction time, and reasoning to name but a few.</item>
+      <item file_id="micro_b036">Video games ought to be included in the ranks of Olympic events.</item>
+    </claims>
+  </topic>
+  <topic id="waste_separation">
+    <claims count="1">
+      <item file_id="micro_b001">We Berliners should take the chance and become pioneers in waste separation!</item>
+    </claims>
+  </topic>
+</grouped_corpus>
