@@ -110,17 +110,20 @@ def save_as_xml(data, total_files, total_xml_files, processed_files, output_path
             "unique_values_count": str(len(data))
         })
 
-        for key, files in data.items():
+        for key, files_dict in data.items():
             # Use the attribute name as the tag (e.g., <topic>, <stance>)
             tag_name = attribute_name if " " not in attribute_name else "item"
 
             item_elem = ET.SubElement(root, tag_name)
             item_elem.set("value", key)
-            item_elem.set("count", str(len(files)))
+            item_elem.set("count", str(len(files_dict)))
 
-            for fname in files:
+            for file_id, file_text in files_dict.items():
                 file_elem = ET.SubElement(item_elem, "file")
-                file_elem.text = fname
+                #file_elem.text = fname
+
+                file_elem.set("name", file_id)
+                file_elem.text = file_text
 
         xml_str = ET.tostring(root, encoding='utf-8')
         parsed_str = minidom.parseString(xml_str)
