@@ -31,12 +31,15 @@ def get_argument_units(filepath):
         root = tree.getroot()
     except ET.ParseError:
         print(f"Error parsing {filepath}", file=sys.stderr)
-        return None, None
+        return None, None, None
 
     # 1. Get Topic ID
     topic_id = root.get('topic_id')
     if not topic_id:
-        return None, None
+        return None, None, None
+    
+    # 1.2. Get Microtext ID
+    microtext_id = root.get('id')
 
     # 2. Map EDU ID -> Text
     edu_map = {}
@@ -89,9 +92,8 @@ def get_argument_units(filepath):
             text_content = edu_map.get(edu_id, "")
             if text_content:
                 file_units[unit_type].append(text_content)
-
-    return topic_id, file_units
-
+    
+    return topic_id, microtext_id, file_units
 
 def write_csv(aggregated_data, output_path, requested_units):
     """
@@ -101,17 +103,18 @@ def write_csv(aggregated_data, output_path, requested_units):
 
     try:
         with open(output_path, mode='w', newline='', encoding='utf-8') as f:
-            fieldnames = ['topic_id'] + requested_units
+            fieldnames = ['topic_id'] + ['file_id'] + requested_units
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
 
-            for topic, units in aggregated_data.items():
-                row = {'topic_id': topic}
-                for unit_type in requested_units:
+            for topic, file in aggregated_data.items():
+                for file_id, units in file.items():
+                    row = {'topic_id': topic, 'file_id': file_id}
+                    for unit_type in requested_units:
                     # Join multiple premises/claims with a separator (e.g., " | ")
-                    combined_text = " | ".join(units[unit_type])
-                    row[unit_type] = combined_text
-                writer.writerow(row)
+                        combined_text = " | ".join(units[unit_type])
+                        row[unit_type] = combined_text
+                    writer.writerow(row)
 
         print(f"Successfully wrote grouped CSV to {output_path}")
     except IOError as e:
@@ -126,19 +129,23 @@ def write_xml(aggregated_data, output_path, requested_units):
 
     root = ET.Element("grouped_corpus")
 
-    for topic, units in aggregated_data.items():
+    for topic, file in aggregated_data.items():
         topic_elem = ET.SubElement(root, "topic")
         topic_elem.set("id", topic)
 
         for unit_type in requested_units:
-            # Only create the tag if we have data or user specifically asked for it
-            if units[unit_type]:
-                container = ET.SubElement(topic_elem, unit_type)
-                container.set("count", str(len(units[unit_type])))
+            all_items = []
 
+            for file_id, units in file.items():
                 for text_segment in units[unit_type]:
-                    item = ET.SubElement(container, "item")
-                    item.text = text_segment
+                        all_items.append((file_id, text_segment))
+            
+            container = ET.SubElement(topic_elem, unit_type)
+            container.set("count", str(len(all_items)))
+
+            for file_id, text in all_items:
+                item = ET.SubElement(container, "item", file_id=file_id)
+                item.text = text
 
     try:
         tree = ET.ElementTree(root)
@@ -165,7 +172,12 @@ def main():
         return
 
     # Data Structure: { topic_id: { 'claims': [], 'premises': [], ... } }
-    aggregated_data = defaultdict(lambda: {'claims': [], 'premises': [], 'objections': []})
+    #aggregated_data = defaultdict(lambda: {'claims': [], 'premises': [], 'objections': []})
+    aggregated_data = defaultdict(
+    lambda: defaultdict(
+        lambda: {'claims': [], 'premises': [], 'objections': []}
+        )
+    )
 
     files_processed = 0
 
@@ -174,14 +186,14 @@ def main():
     for filename in os.listdir(args.input_dir):
         if filename.endswith(".xml"):
             filepath = os.path.join(args.input_dir, filename)
-            topic, units = get_argument_units(filepath)
+            topic, file_id, units = get_argument_units(filepath)
 
             if topic and units:
                 files_processed += 1
                 # Aggregate data into the main dictionary
                 for key in ['claims', 'premises', 'objections']:
-                    aggregated_data[topic][key].extend(units[key])
-
+                    aggregated_data[topic][file_id][key].extend(units[key])
+    
     print(f"Processed {files_processed} files.")
     print(f"Found {len(aggregated_data)} unique topics.")
 
