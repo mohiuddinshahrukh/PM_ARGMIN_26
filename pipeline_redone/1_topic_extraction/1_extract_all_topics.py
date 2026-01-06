@@ -30,7 +30,7 @@ def get_data(directory_path: str, target_attribute: str):
         print(f"Error: The directory '{directory_path}' was not found.")
         return None, 0, 0, 0
 
-    data_map = defaultdict(list)
+    data_map = defaultdict(dict)
     processed_count = 0
     total_xml_files = 0
 
@@ -56,7 +56,9 @@ def get_data(directory_path: str, target_attribute: str):
 
                 if main_tag and target_attribute in main_tag.attrs:
                     value = main_tag[target_attribute]
-                    data_map[value].append(filename)
+                    # join all EDU texts in order (e1..eN as they appear)
+                    full_text = " ".join(edu.get_text(" ", strip=True) for edu in main_tag.find_all("edu"))
+                    data_map[value][filename] = full_text
                     processed_count += 1
             except Exception as e:
                 print(f"Failed to parse {filename}: {e}")
@@ -83,10 +85,12 @@ def save_as_csv(data, total_files, total_xml_files, processed_files, output_path
             writer.writerow([])
 
             # --- MAIN DATA ---
-            writer.writerow([attribute_name, "Found In Files"])
-            for key, files in data.items():
-                files_string = ", ".join(files)
-                writer.writerow([key, files_string])
+            writer.writerow([attribute_name, "Found In Files", "Text"])
+            for key, files_dict in data.items():
+                for file_id, file_text in files_dict.items():
+                    writer.writerow([key, file_id, file_text])
+                #files_string = ", ".join(files)
+                #writer.writerow([key, files_string])
 
         print(f"Successfully saved CSV to: {output_path}")
     except IOError as e:
@@ -106,17 +110,20 @@ def save_as_xml(data, total_files, total_xml_files, processed_files, output_path
             "unique_values_count": str(len(data))
         })
 
-        for key, files in data.items():
+        for key, files_dict in data.items():
             # Use the attribute name as the tag (e.g., <topic>, <stance>)
             tag_name = attribute_name if " " not in attribute_name else "item"
 
             item_elem = ET.SubElement(root, tag_name)
             item_elem.set("value", key)
-            item_elem.set("count", str(len(files)))
+            item_elem.set("count", str(len(files_dict)))
 
-            for fname in files:
+            for file_id, file_text in files_dict.items():
                 file_elem = ET.SubElement(item_elem, "file")
-                file_elem.text = fname
+                #file_elem.text = fname
+
+                file_elem.set("name", file_id)
+                file_elem.text = file_text
 
         xml_str = ET.tostring(root, encoding='utf-8')
         parsed_str = minidom.parseString(xml_str)
