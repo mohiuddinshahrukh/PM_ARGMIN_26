@@ -23,7 +23,7 @@ Misra et al. [^1] specify when to apply each like this:
 >
 > (0) On a different topic"
 
-[^1]: https://aclanthology.org/W16-3636/
+[^1]: https://aclanthology.org/W16-3636/ but originally introduced in https://aclanthology.org/N15-1046/
 
 ## Practical notes
 
