@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<similarities>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.2</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_b007</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>That's why causing such obstacles must to be more urgently punished.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.34</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_b011</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.17</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_b032</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.157</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_b040</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.207</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_b061</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.203</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.297</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.3</score>
+    <file_A>micro_b002</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.233</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_b011</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.324</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_b032</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.341</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_b040</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.292</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_b061</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.271</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.281</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.267</score>
+    <file_A>micro_b007</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.45</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_b032</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.545</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_b040</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.235</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_b061</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.194</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.448</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.182</score>
+    <file_A>micro_b011</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.789</score>
+    <file_A>micro_b032</file_A>
+    <file_B>micro_b040</file_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.489</score>
+    <file_A>micro_b032</file_A>
+    <file_B>micro_b061</file_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.393</score>
+    <file_A>micro_b032</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.393</score>
+    <file_A>micro_b032</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.222</score>
+    <file_A>micro_b032</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.449</score>
+    <file_A>micro_b040</file_A>
+    <file_B>micro_b061</file_B>
+    <text_A>There should be much higher fines for dog dirt left on pavements.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.433</score>
+    <file_A>micro_b040</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>There should be much higher fines for dog dirt left on pavements.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.492</score>
+    <file_A>micro_b040</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>There should be much higher fines for dog dirt left on pavements.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.258</score>
+    <file_A>micro_b040</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>There should be much higher fines for dog dirt left on pavements.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.418</score>
+    <file_A>micro_b061</file_A>
+    <file_B>micro_k008</file_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.472</score>
+    <file_A>micro_b061</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.211</score>
+    <file_A>micro_b061</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.458</score>
+    <file_A>micro_k008</file_A>
+    <file_B>micro_k024</file_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.163</score>
+    <file_A>micro_k008</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+  <pair>
+    <topic>higher_dog_poo_fines</topic>
+    <type>claim</type>
+    <score>0.111</score>
+    <file_A>micro_k024</file_A>
+    <file_B>micro_k031</file_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+  </pair>
+</similarities>
