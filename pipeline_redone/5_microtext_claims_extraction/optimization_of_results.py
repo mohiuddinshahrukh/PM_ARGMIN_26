@@ -55,6 +55,9 @@ def main():
     # Model configuration
     # Note: Use raw string or forward slashes for Windows paths in default if needed
     parser.add_argument("--model", default="amr_model", help="Path to local AMR model (optional)")
+    
+    # Choose between fragment_text and full_sentence
+    parser.add_argument("--text", default="full_sentence", help="You can choose fragment_text (full_sentenct is default)")
 
     args = parser.parse_args()
 
@@ -71,7 +74,10 @@ def main():
 
     # 2. Optimization: Identify Unique Sentences
     # Many arguments share the same sentence. We only want to parse each sentence ONCE.
-    unique_sentences = df['full_sentence'].dropna().unique().tolist()
+    if args.text == "full_sentence":
+        unique_sentences = df['full_sentence'].dropna().unique().tolist()
+    if args.text == "fragment_text":
+        unique_sentences = df['fragment_text'].dropna().unique().tolist()
 
     print(f"Optimization Stats:")
     print(f" - Total Arguments: {len(df)}")
@@ -109,7 +115,10 @@ def main():
 
     # Map the graphs back to the original DataFrame
     # This automatically fills in the graph for every row, even the duplicates
-    df['amr_penman'] = df['full_sentence'].map(sent_to_graph)
+    if args.text == "full_sentence":
+        df['amr_penman'] = df['full_sentence'].map(sent_to_graph)
+    if args.text == "fragment_text":
+        df['amr_penman'] = df['fragment_text'].map(sent_to_graph)
 
     # 6. Save Final Result
     save_data(df, args.output)
