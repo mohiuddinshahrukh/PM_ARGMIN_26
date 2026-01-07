@@ -56,6 +56,8 @@ class SmatchScorer:
 def main():
     parser = argparse.ArgumentParser(description="Calculate AMR Similarity by Argument Type")
     parser.add_argument("--input", required=True, help="Path to optimized XML/CSV (must contain 'amr_penman')")
+    parser.add_argument("--amr_source", required=True, help="Choose 'full_sentence' if the AMR was generated from full sentences; choose 'fragment_text' if it was generated from ADU fragments.")
+    parser.add_argument("--topic", default="all", help="Process only this topic_id (default: all topics)")
     parser.add_argument("--type", choices=['claim', 'premise', 'objection', 'all'], default='all',
                         help="Filter analysis to a specific argument type.")
     parser.add_argument("--output", default="similarity_results.csv", help="Output filename")
@@ -91,6 +93,12 @@ def main():
     scorer = SmatchScorer()
     results = []
 
+    # args.topic comes from argparse
+    if args.topic != "all":
+        df = df[df["topic_id"] == args.topic].copy()
+        if df.empty:
+            raise ValueError(f"No rows found for topic_id={args.topic!r}")
+
     group_cols = ['topic_id', 'type'] if 'type' in df.columns else ['topic_id']
     grouped = df.groupby(group_cols)
 
@@ -99,8 +107,14 @@ def main():
     for name, group in tqdm(grouped):
         if len(group) < 2: continue
 
-        # Extract full text
-        items = list(zip(group['adu_id'], group.get('fragment_text', group.get('text', '')), group['amr_penman']))
+        # Extract text
+        
+        if args.amr_source == "full_sentence":
+            text_series = group["full_sentence"]
+        elif args.amr_source == "fragment_text":
+            text_series = group["fragment_text"] if "fragment_text" in group.columns else group["text"]
+    
+        items = list(zip(group['file_id'], text_series, group['amr_penman']))
 
         for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations(items, 2):
             score = scorer.calculate(g1, g2)
@@ -110,8 +124,8 @@ def main():
                     'topic': group['topic_id'].iloc[0],
                     'type': group['type'].iloc[0] if 'type' in group else 'unknown',
                     'score': round(score, 3),
-                    'arg_A': id1,
-                    'arg_B': id2,
+                    'file_A': id1,
+                    'file_B': id2,
                     # REMOVED SLICING [:60] HERE
                     'text_A': txt1,
                     'text_B': txt2
@@ -120,7 +134,7 @@ def main():
     # 5. Save Results
     if results:
         res_df = pd.DataFrame(results)
-        res_df = res_df.sort_values(by=['topic', 'score'], ascending=[True, False])
+        res_df = res_df.sort_values(by=['topic', 'file_A'])
 
         out_ext = os.path.splitext(args.output)[1].lower()
         os.makedirs(os.path.dirname(os.path.abspath(args.output)), exist_ok=True)
