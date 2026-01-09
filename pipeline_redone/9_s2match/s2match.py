@@ -30,9 +30,9 @@ from modules.s2Match_utils import compute_s2match_score
 
 def main():
     parser = argparse.ArgumentParser(description="Run S2Match (Soft Similarity) Analysis")
-    parser.add_argument("--input", required=True, help="Input CSV (must contain 'amr_penman')")
+    parser.add_argument("--input", required=True, help="Input CSV/XML (must contain 'amr_penman')")
     parser.add_argument("--output", default="results/s2_similarity.csv")
-    parser.add_argument("--threshold", type=float, default=0.50, help="Minimum score to save")
+    parser.add_argument("--threshold", type=float, default=0.00, help="Minimum score to save")
     args = parser.parse_args()
 
     # 1. Load Data
