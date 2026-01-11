@@ -30,13 +30,29 @@ corpus = corpus.reindex(columns = ["file_id_1", "topic_id", "adu_id_1", "type_1"
 
 corpus["similarity"] = "?"
 
-os.makedirs(args.output, exist_ok = True)
+# hack
+#rodion_results = pd.read_excel("annotation/annotated/0-199_Zorin.xlsx", index_col = 0)
+#rodion_results.drop("Unnamed: 17", axis = 1, inplace = True)
+#corpus = corpus.merge(rodion_results, how = "left")
+#corpus["similarity"] = corpus["similarity"].fillna("?")
+#print(corpus.head())
 
-# shuffle through
+## shuffle through
 corpus = corpus.sample(frac = 1, random_state = 1)
+
+# sort fragment text lexicographically so that two rows with the same
+# content but swapped end up the same and can be removed as duplicates
+old_fragment_1 = corpus["fragment_text_1"].copy()
+sort_condition = corpus["fragment_text_1"] < corpus["fragment_text_2"]
+corpus["fragment_text_1"] = corpus["fragment_text_1"].where(sort_condition, corpus["fragment_text_2"])
+corpus["fragment_text_2"] = corpus["fragment_text_2"].where(sort_condition, old_fragment_1)
+corpus.drop_duplicates(subset = ["fragment_text_1", "fragment_text_2"], inplace = True)
+corpus.drop(corpus[corpus["fragment_text_1"] == corpus["fragment_text_2"]].index, inplace = True)
+print(f"After removing symmetry {len(corpus)}")
 
 DIVISON = 200
 
+os.makedirs(args.output, exist_ok = True)
 i = 0
 while i < len(corpus):
     corpus[i:i+DIVISON].to_excel(os.path.join(args.output, f"{i}-{min(i+DIVISON,len(corpus))-1}.xlsx"))
