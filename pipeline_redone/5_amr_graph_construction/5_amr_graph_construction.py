@@ -5,6 +5,8 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import nltk
 from pathlib import Path
+import amrlib
+import penman
 
 
 # --- Setup NLTK ---
@@ -43,12 +45,14 @@ def determine_argument_type(adu_id, outgoing_edges):
 
 
 # --- Parsing Logic ---
-def parse_microtext_xml_enhanced(filepath, target_types):
+def parse_microtext_xml_enhanced(filepath, target_types, stog):
     tree = ET.parse(filepath)
     root = tree.getroot()
 
     file_id = root.get('id')
     topic_id = root.get('topic_id', 'MISSING_TOPIC')
+    if topic_id == "MISSING_TOPIC":
+        return
     stance = root.get('stance', 'unknown')
 
     # 1. Collect and Sort EDUs (Elementary Discourse Units)
@@ -99,7 +103,7 @@ def parse_microtext_xml_enhanced(filepath, target_types):
         if arg_type not in target_types:
             continue
 
-        # Sort EDU IDs within this ADU
+        # Sortpretty = penman.encode(graph, indent=2) EDU IDs within this ADU
         edu_ids.sort(key=lambda x: int(x[1:]) if len(x) > 1 and x[1:].isdigit() else 0)
 
         # Reconstruct the fragment text
@@ -119,6 +123,11 @@ def parse_microtext_xml_enhanced(filepath, target_types):
 
         is_major = (arg_type == 'claim')
 
+        graph_string = stog.parse_sents([adu_text])
+        graph = penman.decode(graph_string[0])
+        pretty = penman.encode(graph, indent=2)
+        print(f"Building AMR graph for {adu_text}")
+
         results.append({
             'file_id': file_id,
             'topic_id': topic_id,
@@ -126,8 +135,9 @@ def parse_microtext_xml_enhanced(filepath, target_types):
             'type': arg_type,  # New column: claim/premise/objection
             'is_major_claim': is_major,
             'stance': stance,
+            'full_sentence': context_sentence,
             'fragment_text': adu_text,
-            'full_sentence': context_sentence
+            'graph': pretty
         })
 
     return results
@@ -135,12 +145,12 @@ def parse_microtext_xml_enhanced(filepath, target_types):
 
 # --- Main CLI Execution ---
 def main():
-    parser = argparse.ArgumentParser(description="Extract Argumentation Claims with Full Sentence Context")
+    parser = argparse.ArgumentParser(description="Extract ADUs and build ADU AMR graphs")
 
     # Arguments
     parser.add_argument("--input_dir",
                         default=os.path.join("arg-microtexts", "corpus", "en"),
-                        help="Path to the folder containing input XML files.")
+                        help="Path to the folder containing input CSV/XML files.")
 
     parser.add_argument("--output",
                         required=True,
@@ -156,6 +166,8 @@ def main():
                         choices=['claim', 'premise', 'objection'],
                         default=['claim', 'premise', 'objection'],
                         help="Specify which argument types to extract. Default: all.")
+    
+    parser.add_argument("--model", default="amr_model", help="Path to local AMR model (optional)")
 
     args = parser.parse_args()
 
@@ -175,13 +187,28 @@ def main():
     print(f"Found {len(xml_files)} XML files in '{args.input_dir}'...")
     print(f"Extracting types: {', '.join(args.types)}")
 
-    # 3. Processing
+    # 3. Load AMR Model
+    print("\nLoading AMR Model...")
+    try:
+        if os.path.exists(args.model):
+            print(f" - Loading local model from: {args.model}")
+            stog = amrlib.load_stog_model(model_dir=args.model)
+        else:
+            print(f" - Local model not found at '{args.model}'.")
+            print(" - Downloading/Loading default model (gsii-v3)...")
+            stog = amrlib.load_stog_model()
+    except Exception as e:
+        print(f"Critical Error loading AMR model: {e}")
+        return
+
+    # 4. Processing
     all_claims = []
     for xml_file in xml_files:
         try:
             # Pass the requested types to the parser
-            claims = parse_microtext_xml_enhanced(xml_file, args.types)
-            all_claims.extend(claims)
+            claims = parse_microtext_xml_enhanced(xml_file, args.types, stog)
+            if claims:
+                all_claims.extend(claims)
         except Exception as e:
             print(f"Warning: Failed to parse {os.path.basename(xml_file)}: {e}")
 
@@ -196,17 +223,17 @@ def main():
     print("\nExtraction Summary:")
     print(df['type'].value_counts())
 
-    # 4. Handle Output Directory
+    # 5. Handle Output Directory
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # 5. Determine Format
+    # 6. Determine Format
     output_format = args.format
     if not output_format:
         suffix = output_path.suffix.lower()
         output_format = 'xml' if suffix == '.xml' else 'csv'
 
-    # 6. Save File
+    # 7. Save File
     try:
         if output_format == 'csv':
             df.to_csv(output_path, index=False, encoding='utf-8')
