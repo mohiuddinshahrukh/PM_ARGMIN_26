@@ -51,6 +51,8 @@ def parse_microtext_xml_enhanced(filepath, target_types, stog):
 
     file_id = root.get('id')
     topic_id = root.get('topic_id', 'MISSING_TOPIC')
+    if topic_id == "MISSING_TOPIC":
+        return
     stance = root.get('stance', 'unknown')
 
     # 1. Collect and Sort EDUs (Elementary Discourse Units)
@@ -205,7 +207,8 @@ def main():
         try:
             # Pass the requested types to the parser
             claims = parse_microtext_xml_enhanced(xml_file, args.types, stog)
-            all_claims.extend(claims)
+            if claims:
+                all_claims.extend(claims)
         except Exception as e:
             print(f"Warning: Failed to parse {os.path.basename(xml_file)}: {e}")
 
