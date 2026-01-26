@@ -55,8 +55,7 @@ class SmatchScorer:
 
 def main():
     parser = argparse.ArgumentParser(description="Calculate AMR Similarity by Argument Type")
-    parser.add_argument("--input", required=True, help="Path to optimized XML/CSV (must contain 'amr_penman')")
-    parser.add_argument("--amr_source", required=True, help="Choose 'full_sentence' if the AMR was generated from full sentences; choose 'fragment_text' if it was generated from ADU fragments.")
+    parser.add_argument("--input", required=True, help="Path to optimized XML/CSV (must contain 'graph')")
     parser.add_argument("--topic", default="all", help="Process only this topic_id (default: all topics)")
     parser.add_argument("--type", choices=['claim', 'premise', 'objection', 'all'], default='all',
                         help="Filter analysis to a specific argument type.")
@@ -77,8 +76,8 @@ def main():
         return
 
     # 2. Critical Check
-    if 'amr_penman' not in df.columns:
-        print("\nCRITICAL ERROR: Input file is missing 'amr_penman' column.")
+    if 'graph' not in df.columns:
+        print("\nCRITICAL ERROR: Input file is missing AMR graphs.")
         return
 
     # 3. Filter by Type
@@ -109,14 +108,11 @@ def main():
 
         # Extract text
         
-        if args.amr_source == "full_sentence":
-            text_series = group["full_sentence"]
-        elif args.amr_source == "fragment_text":
-            text_series = group["fragment_text"] if "fragment_text" in group.columns else group["text"]
+        text_series = group["fragment_text"] if "fragment_text" in group.columns else group["text"]
     
-        items = list(zip(group['file_id'], text_series, group['amr_penman']))
+        items = list(zip(group['file_id'], text_series, group['graph']))
 
-        for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations(items, 2):
+        for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations_with_replacement(items, 2):
             score = scorer.calculate(g1, g2)
 
             if score > 0.01:
@@ -128,7 +124,9 @@ def main():
                     'file_B': id2,
                     # REMOVED SLICING [:60] HERE
                     'text_A': txt1,
-                    'text_B': txt2
+                    'graph_A': g1,
+                    'text_B': txt2,
+                    'graph_B': g2
                 })
 
     # 5. Save Results
