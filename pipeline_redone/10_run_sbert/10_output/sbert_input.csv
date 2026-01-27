@@ -1,0 +1,577 @@
+topic_id,adu_id,type,text
+waste_separation,a1,objection,"Yes, it's annoying and cumbersome to separate your rubbish properly all the time."
+waste_separation,a2,premise,Three different bin bags stink away in the kitchen and have to be sorted into different wheelie bins.
+waste_separation,a3,objection,But still Germany produces way too much rubbish
+waste_separation,a4,premise,and too many resources are lost when what actually should be separated and recycled is burnt.
+waste_separation,a5,claim,We Berliners should take the chance and become pioneers in waste separation!
+higher_dog_poo_fines,a1,premise,One can hardly move in Friedrichshain or Neukölln these days without permanently scanning the ground for dog dirt.
+higher_dog_poo_fines,a2,premise,And when bad luck does strike and you step into one of the many 'land mines' you have to painstakingly scrape the remains off your soles.
+higher_dog_poo_fines,a3,claim,"Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners."
+higher_dog_poo_fines,a4,objection,"Of course, first they'd actually need to be caught in the act by public order officers,"
+higher_dog_poo_fines,a5,objection,"but once they have to dig into their pockets, their laziness will sure vanish!"
+health_insurance_cover_complementary_medicine,a1,claim,Health insurance companies should not cover treatment in complementary medicine
+health_insurance_cover_complementary_medicine,a2,objection,unless the promised effect and its medical benefit have been concretely proven.
+health_insurance_cover_complementary_medicine,a3,objection,Yet this very proof is lacking in most cases.
+health_insurance_cover_complementary_medicine,a4,objection,Patients do often report relief of their complaints after such treatments.
+health_insurance_cover_complementary_medicine,a5,objection,"But as long as it is unclear as to how this works, the funds should rather be spent on therapies where one knows with certainty."
+public_broadcasting_fees_on_demand,a1,objection,"Of course there are a number of programmes in public broadcasting that are not worth the licencing fee,"
+public_broadcasting_fees_on_demand,a2,objection,"and others, such as “Musikantenstadl” and soap operas, are only interesting to certain audiences."
+public_broadcasting_fees_on_demand,a3,claim,"Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,"
+public_broadcasting_fees_on_demand,a4,premise,for we need general and independent media.
+public_broadcasting_fees_on_demand,a5,premise,After all we want to get our view of the world neither through the lens of the government nor through that of rich media entrepreneurs.
+stricter_regulation_of_intelligence_services,a1,claim,Intelligence services must urgently be regulated more tightly by parliament;
+stricter_regulation_of_intelligence_services,a2,premise,this should be clear to everyone after the disclosures of Edward Snowden.
+stricter_regulation_of_intelligence_services,a3,objection,"Granted, those concern primarily the British and American intelligence services,"
+stricter_regulation_of_intelligence_services,a4,objection,but the German services evidently do collaborate with them closely.
+stricter_regulation_of_intelligence_services,a5,premise,"Their tools, data and expertise have been used to keep us under surveillance for a long time."
+introduce_capital_punishment,a1,claim,The death penalty is a legal means that as such is not practicable in Germany.
+introduce_capital_punishment,a2,premise,"For one thing, inviolable human dignity is anchored in our constitution,"
+introduce_capital_punishment,a3,premise,and furthermore no one may have the right to adjudicate upon the death of another human being.
+introduce_capital_punishment,a4,objection,"Even if many people think that a murderer has already decided on the life or death of another person,"
+introduce_capital_punishment,a5,objection,this is precisely the crime that we should not repay with the same.
+higher_dog_poo_fines,a1,premise,"Dog dirt on the pavement requires my complete, ground-focused attention on my way to work."
+higher_dog_poo_fines,a2,premise,This results in a lack of alertness in the road traffic comparable to a minor offense of the traffic regulations.
+higher_dog_poo_fines,a3,claim,That's why causing such obstacles must to be more urgently punished.
+higher_dog_poo_fines,a4,objection,Dog owners may think that dog dirt is only a harmless secretion of an animal like any other.
+higher_dog_poo_fines,a5,objection,Yet then they misjudge its impact on road traffic.
+over_the_counter_morning_after_pill,a1,objection,Of course it would be nice and simple if after a fun night out with a party acquaintance you could simply take the 'morning-after pill' and feel at ease.
+over_the_counter_morning_after_pill,a2,objection,But it's not that simple.
+over_the_counter_morning_after_pill,a3,premise,Perhaps a new life was already created that night.
+over_the_counter_morning_after_pill,a4,premise,I would kill it without further thought.
+over_the_counter_morning_after_pill,a5,claim,That's why a visit to the doctor and professional advice should remain mandatory.
+cap_rent_increases,a1,claim,It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.
+cap_rent_increases,a2,objection,Clearly the landlord has to pay for some repairs before a new lease.
+cap_rent_increases,a3,objection,But surely these costs could be covered by a minimal increase in rent over the course of the entire lease.
+cap_rent_increases,a4,premise,All the more so as for an adequate profit the rental rate as compared to the base rent need not be raised for every new lease.
+health_insurance_cover_complementary_medicine,a1,claim,"Alternative treatments should be subsidized in the same way as conventional treatments,"
+health_insurance_cover_complementary_medicine,a2,premise,"since both methods can lead to the prevention, mitigation or cure of an illness."
+health_insurance_cover_complementary_medicine,a3,premise,"Besides it should be in the interest of the health insurers to recognize alternative medicine as treatment,"
+health_insurance_cover_complementary_medicine,a4,premise,since there is a chance of recovery.
+health_insurance_cover_complementary_medicine,a5,premise,It doesn't matter after all that those who administer the treatment don't have 'doctor status'.
+higher_dog_poo_fines,a1,claim,For dog dirt left on the pavement dog owners should by all means pay a bit more.
+higher_dog_poo_fines,a2,objection,"Indeed it's not the fault of the animals,"
+higher_dog_poo_fines,a3,objection,"but once you step in it, their excrement seems to stick rather persistently to your soles."
+school_uniforms,a1,objection,"Some may find the idea of a school uniform anachronistic,"
+school_uniforms,a2,objection,or regard it as too much of an intervention into the leeway of students and parents to make decisions.
+school_uniforms,a3,objection,"Indeed, however, it's already the case today that students of apparently 'uniform-free' schools are essentially wearing a uniform consisting of certain brand-name garments."
+school_uniforms,a4,claim,"A simply designed practical outfit would even out the overall visual image of a school, and direct attention towards the character and achievements of the students - and not their buying power."
+health_insurance_cover_complementary_medicine,a1,claim,Health insurance companies should naturally cover alternative medical treatments.
+health_insurance_cover_complementary_medicine,a2,objection,"Not all practices and approaches that are lumped together under this term may have been proven in clinical trials,"
+health_insurance_cover_complementary_medicine,a3,objection,yet it's precisely their positive effect when accompanying conventional 'western' medical therapies that's been demonstrated as beneficial.
+health_insurance_cover_complementary_medicine,a4,premise,Besides many general practitioners offer such counselling and treatments in parallel anyway -
+health_insurance_cover_complementary_medicine,a5,premise,and who would want to question their broad expertise?
+public_broadcasting_fees_on_demand,a1,claim,"Actually only those people should pay a TV & radio licence fee who really watch ARD, ZDF, Arte etc."
+public_broadcasting_fees_on_demand,a2,objection,It is in fact good to support sophisticated programming through fees.
+public_broadcasting_fees_on_demand,a3,premise,"Curiously, however, there are still adverts and product placements on the public channels."
+public_broadcasting_fees_on_demand,a4,premise,"What are you paying for, then? That the same actors time and again get to have a laugh at exotic shooting locations?"
+public_broadcasting_fees_on_demand,a5,premise,Also the scripts are often copied off each other.
+allow_shops_to_open_on_holidays_and_sundays,a1,claim,"Well, I as an employee find it very practical to be able to shop at least on weekends."
+allow_shops_to_open_on_holidays_and_sundays,a2,objection,"Sure, other people have to work in the shops on the weekend,"
+allow_shops_to_open_on_holidays_and_sundays,a3,objection,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,"Plus, the state wants me to spend my money,"
+allow_shops_to_open_on_holidays_and_sundays,a5,premise,and how am I supposed to do that when the shops aren't open when I'm off work?
+increase_weight_of_BA_thesis_in_final_grade,a1,premise,The idea of the bachelor degree is to put together a cumulative grade from various individual assignments in order to generate a final grade.
+increase_weight_of_BA_thesis_in_final_grade,a2,premise,"This is also more akin to the real working world later, where performance isn't singular, but constant and has to be delivered over longer periods."
+increase_weight_of_BA_thesis_in_final_grade,a3,objection,That's why it makes sense that the bachelor thesis only makes up a relatively small portion of the final grade (15 out of 120 credits).
+increase_weight_of_BA_thesis_in_final_grade,a4,objection,"However, the effort required for the individual equally weighted modules differs strongly."
+increase_weight_of_BA_thesis_in_final_grade,a5,claim,It would therefore be wise to adjust the required effort for final theses accordingly.
+cap_rent_increases,a1,claim,Rent prices should be limited by a cap when there's a change of tenant.
+cap_rent_increases,a2,objection,"Landlords may want to earn as much as possible,"
+cap_rent_increases,a3,objection,"and many, consistent with market principles, are prepared to pay higher rents,"
+cap_rent_increases,a4,premise,but that people with the same income suddenly must pay more and can't live in the same flat anymore seems implausible.
+cap_rent_increases,a5,premise,Gentrification destroys entire districts and their culture.
+health_insurance_cover_complementary_medicine,a1,objection,The choice of an attending physician is at the discretion of the patient.
+health_insurance_cover_complementary_medicine,a2,premise,Yet the funds of the health insurance companies are a common benefit for all premium payers.
+health_insurance_cover_complementary_medicine,a3,premise,They should not be spent on personal preferences without proven use.
+health_insurance_cover_complementary_medicine,a4,premise,The effectiveness of many natural remedies has not been demonstrated.
+health_insurance_cover_complementary_medicine,a5,claim,Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.
+buy_tax_evader_data_from_dubious_sources,a1,premise,It is desirable that no one channels his or her wealth past the tax authorities.
+buy_tax_evader_data_from_dubious_sources,a2,objection,Those who do or try to should be held accountable if at all possible.
+buy_tax_evader_data_from_dubious_sources,a3,premise,"Having said that, state funds are often wasted on nonsensical investments,"
+buy_tax_evader_data_from_dubious_sources,a4,premise,so that this ideal appears unworthy of support in many ways.
+buy_tax_evader_data_from_dubious_sources,a5,premise,"Besides, the trading of information is obviously driven by greed of gain."
+buy_tax_evader_data_from_dubious_sources,a6,claim,Tax data that are not made available for free should therefore not be acquired by the state.
+make_video_games_olympic,a1,premise,Olympic events are rooted in old traditions.
+make_video_games_olympic,a2,objection,"On the other hand, the events have a culturally determined character."
+make_video_games_olympic,a3,premise,Our society is strongly digitized and influenced by computers.
+make_video_games_olympic,a4,premise,Yet sports are usually associated with physical training.
+make_video_games_olympic,a5,premise,"Since however skat, chess etc. are not accepted as Olympic events,"
+make_video_games_olympic,a6,claim,computer games should also not be recognized as Olympic events.
+charge_tuition_fees,a1,claim,Tuition fees should not be charged in Germany.
+charge_tuition_fees,a2,premise,Studying and taking higher degrees must remain a basic right for everyone.
+charge_tuition_fees,a3,premise,Fees result in longer durations of studies.
+charge_tuition_fees,a4,premise,That's costly!
+keep_retirement_at_63,a1,claim,"No, the retirement age should be raised to 65 again."
+keep_retirement_at_63,a2,objection,"People are getting older on average,"
+keep_retirement_at_63,a3,premise,but they are not sicker and not duller because of it.
+keep_retirement_at_63,a4,premise,Without them we'd forgo a great deal of collected experience.
+keep_retirement_at_63,a5,premise,And we'd have to offer more leisure activities for seniors.
+introduce_capital_punishment,a1,premise,No human being or human committee should again be given the permission to rule over 'life or death'.
+introduce_capital_punishment,a2,premise,Courts are also subject to human error.
+introduce_capital_punishment,a3,claim,That's why Germany should not introduce capital punishment!
+introduce_capital_punishment,a4,premise,"Every human, even those who have committed a despicable crime, can bring themselves to regret and change their opinion."
+introduce_capital_punishment,a5,premise,A door must remain open for making amends.
+cap_rent_increases,a1,claim,A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.
+cap_rent_increases,a2,premise,For affordable living space is scarce.
+cap_rent_increases,a3,premise,"Besides, a higher degree of luxury (expensive flats) is not necessary for the majority of the people, but rather a flat at all."
+cap_rent_increases,a4,premise,"Plus everyone has to move approx. 3-10 times in his or her life,"
+cap_rent_increases,a5,premise,because the size of the desired accommodation changes over the course of a lifetime.
+health_insurance_cover_complementary_medicine,a1,premise,"From time immemorial humans have had complementary medicine,"
+health_insurance_cover_complementary_medicine,a2,premise,and it has not generally been ineffective.
+health_insurance_cover_complementary_medicine,a3,claim,A reduction in the amount of chemically produced medication per person is most certainly desirable.
+health_insurance_cover_complementary_medicine,a4,premise,"This will do little damage to the pharmaceutical industry,"
+health_insurance_cover_complementary_medicine,a5,premise,and conventional medicine will also hardly suffer.
+health_insurance_cover_complementary_medicine,a6,premise,The patient could learn to be more aware of his or her body and to treat it more healthily.
+health_insurance_cover_complementary_medicine,a1,claim,The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.
+health_insurance_cover_complementary_medicine,a2,objection,Their treatment methods and successes are not amply researched or proven.
+health_insurance_cover_complementary_medicine,a3,objection,"Yet many patients subjectively experience relief or are cured of their complaints,"
+health_insurance_cover_complementary_medicine,a4,premise,which ultimately also saves costs for conventional treatments and medication.
+health_insurance_cover_complementary_medicine,a5,premise,"Also conventional medicine is in many cases not successful,"
+health_insurance_cover_complementary_medicine,a6,premise,"and, moreover, entails significant risks and side effects."
+introduce_capital_punishment,a1,claim,The death penalty should be abandoned everywhere.
+introduce_capital_punishment,a2,premise,From a Christian and humanistic perspective it is not allowed to kill someone.
+introduce_capital_punishment,a3,objection,Proponents of the death penalty count on its deterring effect as well as the ultimate elimination of any potential threat.
+introduce_capital_punishment,a4,objection,However also the threat of the death penalty in the respective countries apparently cannot prevent murder and violent crime.
+introduce_capital_punishment,a5,premise,Moreover it turns out time and again that innocent people are also convicted and executed.
+charge_tuition_fees,a1,claim,The universities in Germany should not under any circumstances charge tuition fees.
+charge_tuition_fees,a2,premise,This would impede or prevent access to those who are financially weaker.
+charge_tuition_fees,a3,premise,The anticipated objectives of tuition fees can be achieved by other means.
+charge_tuition_fees,a4,premise,There are other instruments to motivate tighter discipline while studying.
+charge_tuition_fees,a5,premise,And funding-wise it ought to be considered how costs incurred by students from other (federal) states can be reimbursed.
+public_broadcasting_fees_on_demand,a1,claim,The TV/radio licence fee can only be required of all citizens/households equally.
+public_broadcasting_fees_on_demand,a2,objection,Critics point out that they are not using what's on offer by public broadcasting.
+public_broadcasting_fees_on_demand,a3,objection,I do doubt that there is anyone who has never at least indirectly watched the programming of the public broadcasters.
+public_broadcasting_fees_on_demand,a4,objection,"However, it is impossible to monitor this and collect more customized fees."
+public_broadcasting_fees_on_demand,a5,premise,"Just as with other choices in culture or infrastructure, public broadcasters are also to be financed, regardless of whether individuals make use of their programming or not."
+school_uniforms,a1,claim,School uniforms should not be worn in our schools.
+school_uniforms,a2,objection,They do offer the benefit that the competition over brand-name clothes and the discrimination of the socially weak are prevented.
+school_uniforms,a3,objection,Nevertheless hardly anyone wishes to dress themselves or their children in a standard uniform.
+school_uniforms,a4,premise,Plus such uniforms also stand for ideological conformity and for the suppression of individual self-development.
+introduce_capital_punishment,a1,claim,"One should not re-introduce capital punishment in Germany,"
+introduce_capital_punishment,a2,premise,since no one can claim the right to rule over the life or death of another human being.
+introduce_capital_punishment,a3,premise,Capital punishment will not deter anyone else from an atrocity.
+introduce_capital_punishment,a4,premise,Everyone must be given the chance to hone their conscience and possibly make amends for their deed.
+higher_dog_poo_fines,a1,claim,There should be a higher fine for dog dirt on the pavement.
+higher_dog_poo_fines,a2,premise,Dog dirt is disgusting and a hygiene problem.
+higher_dog_poo_fines,a3,premise,"Also children, adults and other animals aren't allowed to leave droppings on the pavement."
+higher_dog_poo_fines,a4,premise,"If you dispose of the waste then and there yourself, no fine is necessary."
+partial_housing_development_at_Tempelhofer_Feld,a1,claim,"I find the peripheral housing development at Tempelhofer Feld right for urban planning reasons,"
+partial_housing_development_at_Tempelhofer_Feld,a2,premise,as the area is right in the middle of the city (capital).
+partial_housing_development_at_Tempelhofer_Feld,a3,premise,The size of the field allows for both housing and generous open space.
+charge_tuition_fees,a1,claim,Tuition fees should not generally be charged by universities.
+charge_tuition_fees,a2,premise,"Universities are for all citizens, independent of their finances."
+charge_tuition_fees,a3,premise,"Education and training are fundamental rights which the state, the society must provide."
+charge_tuition_fees,a4,premise,"If a university lacks the funds, sponsors must be found."
+charge_tuition_fees,a5,objection,Unfortunately this can lead to disagreeable dependencies in some cases.
+health_insurance_cover_complementary_medicine,a1,premise,Complementary medicine includes treatments with proven health benefits in many areas
+health_insurance_cover_complementary_medicine,a2,premise,"which are often less costly than medication from conventional medicine, which are also paid for after all."
+health_insurance_cover_complementary_medicine,a3,premise,Often natural treatments do not put as much of a strain on the patient.
+health_insurance_cover_complementary_medicine,a4,premise,Such therapies can frequently result in an improvement in the condition through the active participation of the patient.
+health_insurance_cover_complementary_medicine,a5,claim,The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.
+make_video_games_olympic,a1,claim,Video games ought to be included in the ranks of Olympic events.
+make_video_games_olympic,a2,premise,The performance often required by players is considerable and by all means comparable to physical efforts.
+make_video_games_olympic,a3,premise,"Various skills are promoted and required by different games,"
+make_video_games_olympic,a4,claim,"including planning abilities, reaction time, and reasoning to name but a few."
+make_video_games_olympic,a5,objection,"Considering their requirements, some video games are not relevant as sports,"
+make_video_games_olympic,a6,objection,but this issue should be solvable through a clearly structured preselection process.
+over_the_counter_morning_after_pill,a1,claim,The morning-after pill ought to be available over-the-counter in pharmacies.
+over_the_counter_morning_after_pill,a2,premise,Even with state-of-the-art contraceptives there can be mistakes and problems
+over_the_counter_morning_after_pill,a3,premise,and an unwanted pregnancy can place a significant strain on both the parents and the child for the rest of their lives.
+over_the_counter_morning_after_pill,a4,objection,"Some worry about careless use of such measures,"
+over_the_counter_morning_after_pill,a5,objection,but this problem should rather be addressed with comprehensive prior education.
+school_uniforms,a1,claim,School uniforms should be introduced in our schools again.
+school_uniforms,a2,premise,"This provides an at least superficial equalization in our heavily economically oriented society,"
+school_uniforms,a3,premise,which may reduce discrimination of financially and/or socially disadvantaged children.
+school_uniforms,a4,premise,"Furthermore, it would facilitate the finding of truants, who may wish to get away with fewer classes at school."
+school_uniforms,a5,objection,Uniforms always and immediately provoke fear of losing one's individuality
+school_uniforms,a6,objection,"but what's really lacking in schools today is rather a real sense of community, which would possibly be strengthened by an equal, collective appearance."
+EU_influence_on_political_events_in_Ukraine,a1,claim,The EU should exert influence on the political events in Ukraine.
+EU_influence_on_political_events_in_Ukraine,a2,premise,"The developments in that conflict should not be left to former Cold War opponents alone,"
+EU_influence_on_political_events_in_Ukraine,a3,premise,for that course can only lead to escalation in some form.
+EU_influence_on_political_events_in_Ukraine,a4,premise,"Furthermore, Ukraine is culturally and geographically much closer than other countries that the EU (used to) get involved with."
+EU_influence_on_political_events_in_Ukraine,a5,objection,"Indeed one could argue that a country has to deal with internal political changes itself,"
+EU_influence_on_political_events_in_Ukraine,a6,objection,"but political power also brings about political responsibility, in this case the responsibility to protect the Ukrainian people from the rather strong interests of the two Great Powers."
+higher_dog_poo_fines,a1,claim,There should be much higher fines for dog dirt left on pavements.
+higher_dog_poo_fines,a2,premise,Stepping in dog dirt is gross and absolutely ruins your day
+higher_dog_poo_fines,a3,premise,"due to the dirt, the stench and the often considerable effort to get rid of it."
+higher_dog_poo_fines,a4,premise,"Besides, the fines for public urination by a human are higher than for leaving behind dog dirt on the pavement, which is disproportionate."
+higher_dog_poo_fines,a5,objection,"Some dog owners assume that paying a dog licence fee covers the removal of such waste,"
+higher_dog_poo_fines,a6,objection,but according to this logic one could hardly make the taxpayer accountable for almost any offense.
+stricter_regulation_of_intelligence_services,a1,claim,Secret services must be more tightly regulated in order to prevent excessive surveillance.
+stricter_regulation_of_intelligence_services,a2,premise,"After all, secret services tend to develop a life of their own (a state within a state), which would be irresponsible for democratic states."
+stricter_regulation_of_intelligence_services,a3,premise,"Besides, intelligence services intervene massively in the privacy of citizens"
+stricter_regulation_of_intelligence_services,a4,premise,and must therefore be monitored more closely to prevent abuse.
+stricter_regulation_of_intelligence_services,a5,objection,Parliamentary control however hampers the work of intelligence services
+stricter_regulation_of_intelligence_services,a6,premise,for it jeopardizes the secrecy and security of confidential data and informants.
+over_the_counter_morning_after_pill,a1,objection,The state ought not to restrict medical products or medical treatments for moral reasons as long as they don't do damage to others.
+over_the_counter_morning_after_pill,a2,objection,But without a prescription requirement there's also no medical advice given before intake.
+over_the_counter_morning_after_pill,a3,premise,"Since the impact of the morning-after pill is so massive, particularly due to its abortive effect,"
+over_the_counter_morning_after_pill,a4,claim,dispensing it without medical advice would be inappropriate.
+over_the_counter_morning_after_pill,a5,premise,"Easy access to the morning-after pill could also result in its appearing to be an easier method than other forms of contraception that, however, have fewer health effects."
+over_the_counter_morning_after_pill,a6,claim,For instance the morning-after pill could result in a decrease in the use of condoms and thus lead to an increase in new infections with Aids.
+TXL_airport_remain_operational_after_BER_opening,a1,claim,As a central airport Berlin Tegel is particularly attractive for business travellers and should by all means remain operational.
+TXL_airport_remain_operational_after_BER_opening,a2,premise,It is an asset for the economy.
+TXL_airport_remain_operational_after_BER_opening,a3,objection,The negative impact of air traffic however is considerable.
+TXL_airport_remain_operational_after_BER_opening,a4,premise,Air traffic is extremely environmentally unfriendly.
+TXL_airport_remain_operational_after_BER_opening,a5,premise,"Particularly in Tegel, the residents have been bearing the stress of aircraft noise for decades."
+buy_tax_evader_data_from_dubious_sources,a1,premise,"By purchasing illegally acquired tax data of citizens, the state is not only turning itself into a felon, but it is paying criminals, too."
+buy_tax_evader_data_from_dubious_sources,a2,premise,"Besides, the purchase of such CDs is unnecessary today,"
+buy_tax_evader_data_from_dubious_sources,a3,premise,"as, due to changed terms of business, many banks urge their customers to turn themselves in."
+buy_tax_evader_data_from_dubious_sources,a4,claim,Acquiring CDs with tax data of tax delinquents is therefore out of the question.
+buy_tax_evader_data_from_dubious_sources,a5,objection,"It is indisputable, however, that by purchasing such data the state increases the pressure on tax evaders to turn themselves in."
+stricter_regulation_of_intelligence_services,a1,premise,Intelligence services apparently enjoy indiscriminate liberties.
+stricter_regulation_of_intelligence_services,a2,premise,No one can follow their activities in detail.
+stricter_regulation_of_intelligence_services,a3,objection,Of course a certain level of secrecy is the basis for the work of intelligence services.
+stricter_regulation_of_intelligence_services,a4,objection,"The unregulated work of the secret services, however, carries the danger of misuse of their authority."
+stricter_regulation_of_intelligence_services,a5,claim,That's why intelligence services must be regulated in the framework of parliamentary oversight committees.
+over_the_counter_morning_after_pill,a1,premise,The morning-after pill has a number of side effects.
+over_the_counter_morning_after_pill,a2,premise,A differentiated analysis of its side effects is not achievable for a layperson without medical advice.
+over_the_counter_morning_after_pill,a3,objection,"However these are clearly stated on the package insert,"
+over_the_counter_morning_after_pill,a4,objection,and a request for an early termination of a pregnancy is the right of every woman.
+over_the_counter_morning_after_pill,a5,claim,The morning-after pill should only be prescribed after counselling by a physician or pharmacist.
+charge_tuition_fees,a1,premise,Every German citizen has a right to education.
+charge_tuition_fees,a2,premise,"Quality at universities has its price,"
+charge_tuition_fees,a3,objection,which is why students also ought to be involved in this cost factor.
+charge_tuition_fees,a4,objection,But education must not be a question of money in a wealthy society such as Germany.
+charge_tuition_fees,a5,claim,Therefore universities should not charge tuition fees in Germany.
+increase_weight_of_BA_thesis_in_final_grade,a1,objection,The bachelor thesis reflects both the content and the methods of the topics covered during a degree programme.
+increase_weight_of_BA_thesis_in_final_grade,a2,premise,But one can make occasional mistakes in the thesis.
+increase_weight_of_BA_thesis_in_final_grade,a3,premise,"If this carries more weight, many good individual assignments done during the course of study may be obscured."
+increase_weight_of_BA_thesis_in_final_grade,a4,premise,A good grade for the thesis also significantly depends on the supervision of a dedicated teacher.
+increase_weight_of_BA_thesis_in_final_grade,a5,claim,Due to the many random factors the bachelor thesis should not play a bigger role.
+keep_retirement_at_63,a1,premise,"Germany's aging society is undergoing demographic change,"
+keep_retirement_at_63,a2,premise,and the age of those who are physically and mentally fit is increasing steadily.
+keep_retirement_at_63,a3,premise,Thus social security and pension costs are increasing.
+keep_retirement_at_63,a4,objection,Yet no one should be required to work for more than 40 years.
+keep_retirement_at_63,a5,claim,Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.
+allow_shops_to_open_on_holidays_and_sundays,a1,objection,Due to the increase in opening hours on Sundays and holidays there is a rise in employment.
+allow_shops_to_open_on_holidays_and_sundays,a2,premise,"However it's mainly temps (that is, students, pupils etc.) who are employed,"
+allow_shops_to_open_on_holidays_and_sundays,a3,objection,so this has hardly any effect on the level of full-time employment and the number of unemployed.
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,"On top of that, private and family life suffers massively because of this reduction and shifting in designated off-times."
+allow_shops_to_open_on_holidays_and_sundays,a5,premise,And it’s only the large companies that can afford the additional personnel expenditure.
+allow_shops_to_open_on_holidays_and_sundays,a6,claim,For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.
+keep_retirement_at_63,a1,objection,Although the workload is getting heavier in many professions
+keep_retirement_at_63,a2,objection,"and physical and psychological wear on personnel is steadily increasing,"
+keep_retirement_at_63,a3,claim,the statutory retirement age should in the future not remain at 63 years.
+keep_retirement_at_63,a4,premise,"For, due to the low birth rate, the proportion of the elderly population and with it pension costs are on the rise,"
+keep_retirement_at_63,a5,premise,"and furthermore, due to today's healthcare most people in many occupations are fitter for work in old age than before."
+health_insurance_cover_complementary_medicine,a1,objection,Many people see proven relief of their symptoms and complaints by complementary medicine.
+health_insurance_cover_complementary_medicine,a2,objection,However there is no substantiated data that this healing isn't simply due to the placebo effect.
+health_insurance_cover_complementary_medicine,a3,premise,"Besides many practices in this field are not regulated professions,"
+health_insurance_cover_complementary_medicine,a4,premise,which means that quacks and phonies can practice these occupations unknown to the patients.
+health_insurance_cover_complementary_medicine,a5,claim,That's why the statutory health insurance companies should not cover such treatments.
+health_insurance_cover_complementary_medicine,a6,objection,It would be conceivable to invest more into the training and control of this occupation sector on the part of the state.
+partial_housing_development_at_Tempelhofer_Feld,a1,premise,"For years there has been a housing shortage in Berlin,"
+partial_housing_development_at_Tempelhofer_Feld,a2,premise,"so that using Tempelhofer Feld, which offers a lot of open space and is currently hardly developed, as living space is a sensible idea."
+partial_housing_development_at_Tempelhofer_Feld,a3,premise,"Since the area belongs to the federal state, or the federation,"
+partial_housing_development_at_Tempelhofer_Feld,a4,premise,it could even be used for social housing with affordable rents.
+partial_housing_development_at_Tempelhofer_Feld,a5,objection,"Admittedly the fields have currently become an attractive leisure park with sporting areas for many visitors and Berliners, especially in spring and summer."
+partial_housing_development_at_Tempelhofer_Feld,a6,claim,"If however one could find a compromise between green space and housing, then Tempelhofer Feld should definitely be made available for residential construction."
+over_the_counter_morning_after_pill,a1,premise,"Being a pharmacist myself,"
+over_the_counter_morning_after_pill,a2,claim,I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.
+over_the_counter_morning_after_pill,a3,premise,From a medical perspective the morning-after pill works best when taken as soon as possible after intercourse.
+over_the_counter_morning_after_pill,a4,premise,"Always having to visit the doctor first (including travel and waiting time, possible embarrassment, etc.) leads to more unwanted pregnancies."
+over_the_counter_morning_after_pill,a5,objection,Many opponents of the pill point out that this does away with the consultation at the doctor's and many women take it unnecessarily.
+over_the_counter_morning_after_pill,a6,objection,"However, the fact is that we pharmacists are legally required to inform the patients and possess the same subject matter expertise as doctors."
+EU_influence_on_political_events_in_Ukraine,a1,premise,A violation of international law should be more than enough to consider a reaction!
+EU_influence_on_political_events_in_Ukraine,a2,premise,"Humanity has made enough mistakes throughout history by waiting too long, and when it has finally reacted, the only remaining option has usually been war."
+EU_influence_on_political_events_in_Ukraine,a3,objection,"It's to be noted that in our civilized world, in a democratic country, the people can determine their own fate,"
+EU_influence_on_political_events_in_Ukraine,a4,objection,"as long as the motivation of those people isn't triggered by propaganda, corruption and military pressure."
+EU_influence_on_political_events_in_Ukraine,a5,premise,"Since, however, in Russia besides gas and oil only propaganda and corruption rule,"
+EU_influence_on_political_events_in_Ukraine,a6,claim,the EU should intervene right away.
+keep_retirement_at_63,a1,objection,"Retirement at 63, that's something everyone who has toiled away (nonstop) up to this point surely deserves."
+keep_retirement_at_63,a2,premise,Only the question remains whether this early 'leisure' will be nicer if you have no idea what do to all day and you statistically still have almost 20 (!!!) years to go?
+keep_retirement_at_63,a3,premise,"Also, one isn't taking responsibility for society if one gives up one's experienced, healthy and highly qualified capabilities earlier than necessary for private/personal reasons."
+keep_retirement_at_63,a4,claim,"Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63."
+make_video_games_olympic,a1,premise,"Video games, namely FIFA in my case, can fascinate young people for hours more intensively and emotionally than any sport in the world!"
+make_video_games_olympic,a2,claim,It would be fair to make them into an Olympic event.
+make_video_games_olympic,a3,objection,"Perhaps it is less thrilling for a spectator than for the player,"
+make_video_games_olympic,a4,objection,"but also for contemporary Olympic events, I recall curling and 50km cross-country skiing, you have to be more than a freak to follow those more properly than only in the roundup of highlights."
+make_video_games_olympic,a5,premise,"Plus the hurdle to make video games Olympic events is minimal,"
+make_video_games_olympic,a6,premise,"as you don't even need doping tests, only a neutral console."
+make_video_games_olympic,a7,premise,"And many a video game is physically and particularly mentally more demanding, when I think of the last FIFA tournament's final, than kicking a ball 20 metres."
+cap_rent_increases,a1,premise,Rent prices are already regulated in favour of tenants due to existing laws and the rent index.
+cap_rent_increases,a2,premise,"In view of the high prices for buying flats with existing rent contracts, these are an unattractive investment."
+cap_rent_increases,a3,objection,"Even if one might think that additional rent control is needed besides the current tenant protection,"
+cap_rent_increases,a4,objection,one should not deny longstanding owners the opportunity to adjust their returns to market level.
+cap_rent_increases,a5,claim,A cap on rent increases upon tenant change is therefore not to be supported.
+allow_shops_to_open_on_holidays_and_sundays,a1,objection,"Owner-run shops may potentially be overwhelmed by additional work times on Sundays and holidays,"
+allow_shops_to_open_on_holidays_and_sundays,a2,objection,then again supermarkets and large shopping centres dominate the market today already.
+allow_shops_to_open_on_holidays_and_sundays,a3,premise,"Thus smaller shops could benefit from the additional freedom,"
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,as customers are on average more laid-back on Sunday.
+allow_shops_to_open_on_holidays_and_sundays,a5,claim,Opening on Sundays and holidays would therefore help both customers and shops.
+higher_dog_poo_fines,a1,claim,Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.
+higher_dog_poo_fines,a2,objection,"In individual cases they may indeed act as a deterrent,"
+higher_dog_poo_fines,a3,premise,"in general, however, a clean environment and the role model effect of others is more likely to motivate the dog owner to pick up the droppings than a potential fine."
+keep_retirement_at_63,a1,claim,I am not of the opinion that the retirement age should be set at 63 years.
+keep_retirement_at_63,a2,premise,This would mean that organizations would be lacking a great deal of manpower in the future.
+keep_retirement_at_63,a3,premise,The introductory phase of retirement at 63 would also be a particular challenge
+keep_retirement_at_63,a4,premise,as upon introduction many current employees of advanced age would immediately be eligible to retire.
+keep_retirement_at_63,a5,premise,This is detrimental for Germany as a business location and leaves employers without a transition period.
+keep_retirement_at_63,a6,premise,The danger here is that experienced junior staff is not available in sufficient numbers.
+TXL_airport_remain_operational_after_BER_opening,a1,premise,I think Berlin with its two inner-city airports was lucky not having to experience an airplane catastrophe for decades.
+TXL_airport_remain_operational_after_BER_opening,a2,premise,For safety reasons alone I find continued operation wrong.
+TXL_airport_remain_operational_after_BER_opening,a3,premise,"Also, Berlin urgently needs inner-city areas for business and industry, and for housing."
+TXL_airport_remain_operational_after_BER_opening,a4,premise,Closing down Tegel will have health benefits for hundreds of thousands in the approach path.
+TXL_airport_remain_operational_after_BER_opening,a5,premise,These areas will be upgraded economically due to these factors (housing health and employment).
+TXL_airport_remain_operational_after_BER_opening,a6,claim,"After the new BER Airport has been commissioned, Tegel should definitely be closed."
+MISSING_TOPIC,a1,claim,Freddy and I must be siblings.
+MISSING_TOPIC,a2,premise,We both have the exact same two moles on our left arm
+MISSING_TOPIC,a3,premise,and you only get that with siblings.
+MISSING_TOPIC,a4,objection,My parents say this could also be pure coincidence.
+MISSING_TOPIC,a5,objection,But that much of a coincidence is simply impossible.
+MISSING_TOPIC,a1,claim,Berlin's basketball team has just come out of a sobering season.
+MISSING_TOPIC,a2,premise,Especially the home games have seen the team stay behind expectations.
+MISSING_TOPIC,a3,claim,A sad highlight: Losing 60:87 to the weakish Mannheimers in a sold-out stadium.
+MISSING_TOPIC,a4,objection,"Indeed the team ended up third in the league,"
+MISSING_TOPIC,a5,objection,but given the cost of the star-players one could've expected more.
+MISSING_TOPIC,a1,claim,It was clearly a mistake to include Tom in our football team.
+MISSING_TOPIC,a2,premise,"He's just not a team player, and often goes it alone."
+MISSING_TOPIC,a3,premise,"Plus he comes to training way too rarely,"
+MISSING_TOPIC,a4,objection,although he plays very well without training.
+MISSING_TOPIC,a5,premise,But the worst thing is his habit of always complaining to the referee.
+MISSING_TOPIC,a1,premise,Anti-virus software protects the users of a computer from dangers from the internet.
+MISSING_TOPIC,a2,claim,That's why everyone should have an anti-virus programme on his or her Windows machine.
+MISSING_TOPIC,a3,objection,"Admittedly they do not generally prevent you from catching a virus,"
+MISSING_TOPIC,a4,premise,since they can only react to publicly known threats.
+MISSING_TOPIC,a5,premise,"But once a safeguard has been found against a new virus, everyone gets it in no time through the automatic update."
+MISSING_TOPIC,a1,claim,Today I will delete my Facebook account.
+MISSING_TOPIC,a2,premise,Not only because I'm constantly astonished about who wants to be my friend.
+MISSING_TOPIC,a3,premise,I'm also tired of my data boosting the market value of that corporation.
+MISSING_TOPIC,a4,objection,Facebook warns me emphatically that I may lose contact with my friends.
+MISSING_TOPIC,a5,objection,And yet now I'll actually have all the more time for them.
+MISSING_TOPIC,a1,claim,Peter should close his snack bar as soon as possible.
+MISSING_TOPIC,a2,premise,"Pricing pressures are just too high,"
+MISSING_TOPIC,a3,premise,and his pool of customers is shrinking constantly.
+MISSING_TOPIC,a4,objection,"Of course he could do another big ad campaign,"
+MISSING_TOPIC,a5,objection,but that won't do the trick if the whole neighbourhood is going down the drain in the end.
+MISSING_TOPIC,a1,claim,The current tour of Tokio Hotel is breaking all records.
+MISSING_TOPIC,a2,premise,Never have there been longer queues at the advance ticket offices –
+MISSING_TOPIC,a3,claim,in Japan there was one exceeding 3.2km –
+MISSING_TOPIC,a4,objection,"aside from, perhaps, during the heyday of Take That."
+MISSING_TOPIC,a5,premise,But at times even the online sales outlets haven't been coping with the demand.
+MISSING_TOPIC,a1,objection,"Although IBM's numbers haven't been staggering recently,"
+MISSING_TOPIC,a2,objection,"and the mood in the stock market could be better on the whole,"
+MISSING_TOPIC,a3,claim,you should buy IBM shares if you want to invest.
+MISSING_TOPIC,a4,premise,"Because for one thing, their products will still sell in bad times,"
+MISSING_TOPIC,a5,premise,"and in addition, such a share is not as sensitive as those of other IT companies."
+MISSING_TOPIC,a1,claim,"You should watch less television,"
+MISSING_TOPIC,a2,premise,"as too much TV makes you stupid in the long run,"
+MISSING_TOPIC,a3,claim,like your brother.
+MISSING_TOPIC,a4,objection,"It would be an exception if you only watched quiz shows,"
+MISSING_TOPIC,a5,objection,but you tend to watch Big Brother and X-Diaries.
+MISSING_TOPIC,a1,claim,In a few decades our society will have a disproportionate number of old people:
+MISSING_TOPIC,a2,premise,"the life expectancy is constantly rising,"
+MISSING_TOPIC,a3,premise,and at the same time birth rates are declining.
+MISSING_TOPIC,a4,objection,"Although having children has become more fashionable again in recent years,"
+MISSING_TOPIC,a5,objection,these short-term fluctuations in birth rates don't change the general trend at all.
+MISSING_TOPIC,a1,claim,We should go to the Baltic Sea on the weekend.
+MISSING_TOPIC,a2,premise,"According to the weather report it'll be perfect beach weather,"
+MISSING_TOPIC,a3,premise,"and one mustn't let this go to waste,"
+MISSING_TOPIC,a4,objection,even if I do have to prepare a presentation for Tuesday.
+MISSING_TOPIC,a5,premise,"Besides, I get to use my folks' big, comfy car."
+MISSING_TOPIC,a1,claim,I can only recommend the new smartphone XYZ-123 to everyone.
+MISSING_TOPIC,a2,objection,"Of course the camera could be better,"
+MISSING_TOPIC,a3,premise,as it only has mediocre resolution
+MISSING_TOPIC,a4,premise,and images in dark surroundings are often snowy.
+MISSING_TOPIC,a5,objection,But for snap shots that's still enough.
+MISSING_TOPIC,a1,premise,"Whenever Peter bumps into an ex-girlfriend at a party, he forgoes any further consumption of alcohol just in case."
+MISSING_TOPIC,a2,premise,When he got back from Ralf's party last night he was still stone-cold sober.
+MISSING_TOPIC,a3,claim,Thus one of his ex-girlfriends must have been there.
+MISSING_TOPIC,a4,objection,Ralf does insist that they drank advocaat together.
+MISSING_TOPIC,a5,objection,But even without an ex-girlfriend he would never touch that.
+MISSING_TOPIC,a1,claim,I think Fritz has never been in a fight in his life.
+MISSING_TOPIC,a2,objection,"As a boy he did use to scuffle with the other choirboys,"
+MISSING_TOPIC,a3,objection,but that hardly counts as a proper brawl.
+MISSING_TOPIC,a4,premise,And he always chickens out when things get dicey.
+MISSING_TOPIC,a5,claim,"Yesterday, when the bouncer wouldn't let us in, he was suddenly gone."
+MISSING_TOPIC,a1,premise,"Every day passengers are harassed by hooligans and drunks on the underground, trains and busses."
+MISSING_TOPIC,a2,premise,Also the rules of the public transportation services are rarely observed.
+MISSING_TOPIC,a3,claim,"This is why we need more police presence in public transport,"
+MISSING_TOPIC,a4,objection,even if there are actually designated in-house security forces.
+MISSING_TOPIC,a5,premise,Passengers would definitely feel safer then.
+MISSING_TOPIC,a1,objection,There are parliamentary elections soon
+MISSING_TOPIC,a2,premise,and traditionally the governing party is generous with popular promises in the run-up to federal elections.
+MISSING_TOPIC,a3,claim,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year."
+MISSING_TOPIC,a4,premise,Voters have become more sceptical.
+MISSING_TOPIC,a5,premise,Too many promises have not been kept.
+MISSING_TOPIC,a1,premise,Excessive consumption of meat is unhealthy.
+MISSING_TOPIC,a2,premise,"Furthermore, the production of meat is comparably resource-intensive."
+MISSING_TOPIC,a3,claim,We should thus all limit our consumption of meat rigorously.
+MISSING_TOPIC,a4,objection,One could worry that our farmers would then run into economic difficulties.
+MISSING_TOPIC,a5,objection,"However, no serious economist has confirmed this prediction to date."
+MISSING_TOPIC,a1,premise,Schweinsteiger has now been injured for three days.
+MISSING_TOPIC,a2,claim,We urgently need a midfield replacement for the coming match.
+MISSING_TOPIC,a3,objection,"The doctor was able to sign him off as fit for play with enough painkillers,"
+MISSING_TOPIC,a4,objection,but that would only make the injury worse in the long run.
+MISSING_TOPIC,a5,premise,And a young substitute always invigorates the team.
+MISSING_TOPIC,a1,premise,"A bank bailout is very, very costly."
+MISSING_TOPIC,a2,claim,"For instance, the taxpayer stood in for the failed bank 'Hypo Real Estate' with a three-figure billion amount."
+MISSING_TOPIC,a3,claim,That's why we should not allow any additional bank rescues.
+MISSING_TOPIC,a4,objection,The politicians are trying to appease us with the fact that actually only a tiny amount of all that money was really spent.
+MISSING_TOPIC,a5,objection,But even with that tiny amount you could do a lot of good elsewhere.
+MISSING_TOPIC,a1,claim,The prototype of Audi's new sports car has car lovers raving.
+MISSING_TOPIC,a2,objection,"The steering system may still need a bit of tweaking,"
+MISSING_TOPIC,a3,premise,"as the car jack-knifes at higher speeds,"
+MISSING_TOPIC,a4,premise,and surely you'll want to be speeding a lot with that beauty.
+MISSING_TOPIC,a5,premise,But aside from that the car caters to pretty much every wish.
+MISSING_TOPIC,a1,premise,Energy saving light bulbs contain a significant amount of toxins.
+MISSING_TOPIC,a2,claim,A commercially available bulb may contain for example up to five milligrams of mercury.
+MISSING_TOPIC,a3,claim,"That's why they should be taken off the market,"
+MISSING_TOPIC,a4,objection,unless they're unbreakable.
+MISSING_TOPIC,a5,objection,But precisely this is unfortunately not the case.
+MISSING_TOPIC,a1,premise,"Large events that stir national or even international attention attract many visitors,"
+MISSING_TOPIC,a2,premise,and nothing will get Berlin out of its financial jam more than a lot of spending visitors.
+MISSING_TOPIC,a3,claim,Hence the Mayor of Berlin ought to keep the hurdles for organizing such events as low as possible.
+MISSING_TOPIC,a4,objection,"Of course a higher federal subsidy would be even better for Berlin's coffers,"
+MISSING_TOPIC,a5,objection,but you shouldn't bother hoping for that.
+MISSING_TOPIC,a1,claim,Tomorrow I will skydive for the first time in my life.
+MISSING_TOPIC,a2,objection,"Yes, there is a certain risk to life."
+MISSING_TOPIC,a3,premise,But I want to experience this incredible moment of freedom that skydivers report time and again.
+MISSING_TOPIC,a4,premise,"Besides, Jochen was given a parachute jump the other day as a gift,"
+MISSING_TOPIC,a5,premise,and it mustn't be that this wannabe-adventurer has one up on me.
+public_broadcasting_fees_on_demand,a1,claim,Not everyone should be obliged to pay the TV & radio licence.
+public_broadcasting_fees_on_demand,a2,premise,Particularly the younger generations are no longer dependent on the programming of public broadcasters.
+public_broadcasting_fees_on_demand,a3,premise,"US series are preferred over “Tatort”,"
+public_broadcasting_fees_on_demand,a4,premise,and online magazines are turned to instead of the “Tagesthemen”.
+public_broadcasting_fees_on_demand,a5,objection,The TV & radio licence enables economically independent journalism.
+public_broadcasting_fees_on_demand,a6,objection,"But as long as the licence payers have no say in the distribution of the funds, the fee quite rightly annoys them."
+charge_tuition_fees,a1,claim,Actually it would be justified if all German universities charged tuition fees.
+charge_tuition_fees,a2,premise,"As long as it is ensured that the funds really benefit the universities directly, one can continue to regard this as social justice."
+charge_tuition_fees,a3,premise,"Those who study later decide this early on, anyway."
+charge_tuition_fees,a4,premise,It's always possible to take out a student loan or to earn a scholarship.
+charge_tuition_fees,a5,premise,"To oblige non-academics to finance others' degrees through taxes, however, is not just."
+increase_weight_of_BA_thesis_in_final_grade,a1,premise,Usually you only have eight weeks to complete a bachelor thesis in linguistics degrees.
+increase_weight_of_BA_thesis_in_final_grade,a2,premise,Adjusting the portion of the total grade upwards anyway would not be commensurate to other study assignments and examinations.
+increase_weight_of_BA_thesis_in_final_grade,a3,claim,Current regulations for the calculation of the total grade should therefore be maintained.
+increase_weight_of_BA_thesis_in_final_grade,a4,objection,Indeed the preparation of such a scientific work is a fundamental competency that must be acquired in philological degrees.
+increase_weight_of_BA_thesis_in_final_grade,a5,objection,"Throughout the six or seven semesters, however, topics are covered that likewise ought to carry weight."
+allow_shops_to_open_on_holidays_and_sundays,a1,claim,Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.
+allow_shops_to_open_on_holidays_and_sundays,a2,objection,This may be a change for the employees that cannot to be implemented easily.
+allow_shops_to_open_on_holidays_and_sundays,a3,objection,"However, especially for working customers this would mean greater flexibility and fewer nerve-racking peak times during the week."
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,"Considering the growing digitization of society, the traditional model of the weekend will soon be obsolete."
+allow_shops_to_open_on_holidays_and_sundays,a5,claim,"Many European countries, for instance the Netherlands, Sweden and Great Britain, have already understood this and successfully adjusted the opening hours for retailers."
+introduce_capital_punishment,a1,objection,"If Germany were to introduce the death penalty, convicted felons could not be paroled or break out of prison and commit new felonies."
+introduce_capital_punishment,a2,objection,"However, a death would not be of any more use to those affected and their relatives than if the felon receives a long sentence."
+introduce_capital_punishment,a3,premise,Plus we don't live in medieval times anymore.
+introduce_capital_punishment,a4,premise,Handing out capital punishment is unethical.
+introduce_capital_punishment,a5,claim,We don't need it.
+allow_shops_to_open_on_holidays_and_sundays,a1,claim,Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.
+allow_shops_to_open_on_holidays_and_sundays,a2,premise,"For in this way, Sunday shopping days would be better spread out through the year."
+allow_shops_to_open_on_holidays_and_sundays,a3,premise,Also streets and shops would presumably be emptier
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,as not everyone would be open on the same day.
+allow_shops_to_open_on_holidays_and_sundays,a5,objection,However then you'd have a worse overview of which shop is open on a given day.
+higher_dog_poo_fines,a1,claim,"If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,"
+higher_dog_poo_fines,a2,premise,which in turn would result in generally clean pavements.
+higher_dog_poo_fines,a3,objection,"Higher fines may not be ideal, particularly for financially weaker individuals,"
+higher_dog_poo_fines,a4,objection,but cleaning up after their dogs does happen to be the obligation of the owners.
+introduce_capital_punishment,a1,claim,Germany should by no means introduce capital punishment.
+introduce_capital_punishment,a2,premise,"If there were capital punishment, this would mean people are allowed to put themselves above others and rule over their lives."
+introduce_capital_punishment,a3,premise,Capital punishment would be murder and would have to be punished with the death penalty itself.
+introduce_capital_punishment,a4,premise,"What, then, ought to be done with criminals who have committed truly awful crimes such as murder or rape - should they simply be allowed to live on"
+introduce_capital_punishment,a5,objection,although they have taken or destroyed another life?
+introduce_capital_punishment,a6,objection,"Yes, for it is a much graver punishment to be imprisoned forever and be tortured by one's own thoughts than to be killed quickly and easily by an injection."
+public_broadcasting_fees_on_demand,a1,claim,"Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming."
+public_broadcasting_fees_on_demand,a2,premise,"In some cases there are only shows for older generations on at prime times, so why then should everyone pay for this?"
+public_broadcasting_fees_on_demand,a3,premise,"By now you have advertising on all channels,"
+public_broadcasting_fees_on_demand,a4,premise,so there's no advantage for the current paying viewers of the public broadcasters.
+public_broadcasting_fees_on_demand,a5,objection,Nevertheless one has to point out that there'd probably be way fewer stations if it weren’t the whole of Germany that’s obliged to pay.
+public_broadcasting_fees_on_demand,a6,objection,"That shouldn't be an issue though, given the sheer number of programmes and stations that essentially show the same things anyway."
+cap_rent_increases,a1,objection,"Rent increases upon re-letting aren't bad as such, if it's only a small amount,"
+cap_rent_increases,a2,premise,"they’re very bad however, if the rent suddenly climbs by €100 or €200."
+cap_rent_increases,a3,premise,With those kinds of amounts you think twice about whether you really want to stay in the flat.
+cap_rent_increases,a4,claim,"If there must be rent increases, there should also be a cap to avoid nasty surprises."
+cap_rent_increases,a5,premise,"This helps the landlords,"
+cap_rent_increases,a6,premise,"as they can adjust their expenses through the increase,"
+cap_rent_increases,a7,premise,"and also the tenants,"
+cap_rent_increases,a8,premise,as they can plan for a maximum rent increase.
+cap_rent_increases,a9,premise,"That the landlords are then slightly restricted in the administration of their property is not a problem,"
+cap_rent_increases,a10,premise,as they have more pull in the end anyway.
+charge_tuition_fees,a1,claim,German universities should on no account charge tuition fees.
+charge_tuition_fees,a2,premise,This would simply mean that only those people with wealthy parents or a previous education and a part-time job while studying would be able to apply for a degree programme in the first place.
+charge_tuition_fees,a3,premise,Even without tuition fees half of the student population has to work while studying and hence has less time for studying or recreation.
+charge_tuition_fees,a4,objection,One could argue that an increase in tuition fees would allow institutions to be better equipped.
+charge_tuition_fees,a5,objection,But what is the good of a wonderfully outfitted university if it doesn't actually allow the majority of clever people to broaden their horizons with all that great equipment?
+allow_shops_to_open_on_holidays_and_sundays,a1,premise,Supermarket employees and people who work in shopping centres also have the right to a Sunday off work.
+allow_shops_to_open_on_holidays_and_sundays,a2,premise,"Likewise public holidays should remain what they are: for some a day of introspection, for others a paid day off that is not taken away from the annual paid leave proper."
+allow_shops_to_open_on_holidays_and_sundays,a3,claim,Hence it is good when shops are not open on Sundays and public holidays.
+allow_shops_to_open_on_holidays_and_sundays,a4,objection,"People, however, who work during the week and on Saturdays then have a problem: everyone else can shop weekdays, but they can't."
+allow_shops_to_open_on_holidays_and_sundays,a5,objection,"For those people the late opening hours, which meanwhile already extend to 12:00 midnight, present a good alternative."
+stricter_regulation_of_intelligence_services,a1,claim,"Intelligence services should be more closely regulated by parliament,"
+stricter_regulation_of_intelligence_services,a2,premise,"for, as the most recent NSA wiretapping scandal has shown, the federal state government is allegedly not always familiar with the scope of operations of its intelligence services."
+stricter_regulation_of_intelligence_services,a3,premise,Checks could contribute to restricting the so far rather opaque scope of action of individual services.
+stricter_regulation_of_intelligence_services,a4,objection,"Yet it remains questionable whether the actual implementation of such supervision would at the same time lead to a stronger observance of laws,"
+stricter_regulation_of_intelligence_services,a5,premise,as ultimately this decision is in the hands of the respective government leaders.
+TXL_airport_remain_operational_after_BER_opening,a1,claim,"BER should be re-conceptualized from scratch,"
+TXL_airport_remain_operational_after_BER_opening,a2,objection,even if billions of Euros have already been invested in the existing airport project
+TXL_airport_remain_operational_after_BER_opening,a3,objection,and this would delay the date of completion indefinitely.
+TXL_airport_remain_operational_after_BER_opening,a4,premise,Both the drawn-out building operations and the mounting safety issues show clear shortcomings in the entire planning.
+EU_influence_on_political_events_in_Ukraine,a1,objection,"Despite the severe clashes in Kiev, which at times have threatened to escalate,"
+EU_influence_on_political_events_in_Ukraine,a2,claim,the EU should not intervene in local politics.
+EU_influence_on_political_events_in_Ukraine,a3,objection,"Although Ukraine is a European country,"
+EU_influence_on_political_events_in_Ukraine,a4,objection,"and the Ukrainian opposition is primarily interested in installing a robust democracy,"
+EU_influence_on_political_events_in_Ukraine,a5,premise,possible supporters face a considerably stronger opponent in the intervention of Russia in local politics.
+keep_retirement_at_63,a1,claim,"The implementation of retirement at 63 is no longer socially sustainable,"
+keep_retirement_at_63,a2,premise,"as the population in Germany has, viewed demographically, a disproportionate number of old people,"
+keep_retirement_at_63,a3,premise,and constantly declining birth rates are being recorded.
+keep_retirement_at_63,a4,objection,"Admittedly the number of immigrants is constantly rising in Germany,"
+keep_retirement_at_63,a5,objection,"but without sufficient, well-qualified junior employees there is hardly a possibility for adequate pension financing."
+allow_shops_to_open_on_holidays_and_sundays,a1,premise,Our society is in danger of overheating due to 'never clocking off'.
+allow_shops_to_open_on_holidays_and_sundays,a2,objection,"Even though politicians stress the Christian character of our country,"
+allow_shops_to_open_on_holidays_and_sundays,a3,premise,the last 20 years have seen the Sunday off work increasingly sacrificed to commerce.
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,"But after all, the purpose of having a day off is not just to make time to go to church."
+allow_shops_to_open_on_holidays_and_sundays,a5,premise,Rather it should give people the chance to have a mental break.
+allow_shops_to_open_on_holidays_and_sundays,a6,claim,That's why there ought to be one day a week when supermarkets and shopping centres stay closed.
+public_broadcasting_fees_on_demand,a1,premise,The thought of television exclusively made up of private channels scares me.
+public_broadcasting_fees_on_demand,a2,objection,Admittedly trash and turmoil are exactly what the majority of people want to see.
+public_broadcasting_fees_on_demand,a3,objection,But to therefore offer TV according to audience rates only would be dangerous.
+public_broadcasting_fees_on_demand,a4,premise,Only in public TV programmes can viewers get information that is not profit-oriented.
+public_broadcasting_fees_on_demand,a5,premise,"And since it is the duty of society to collectively finance certain areas that cannot hold their own in a market economy,"
+public_broadcasting_fees_on_demand,a6,claim,everyone should chip in.
+introduce_capital_punishment,a1,premise,Despite the death penalty there are significantly more homicides in the US than in Germany.
+introduce_capital_punishment,a2,premise,Fear of punishment hence does not deter murderers.
+introduce_capital_punishment,a3,premise,'An eye for an eye' seems to miss the point.
+introduce_capital_punishment,a4,claim,The state ought to prevent murder - not avenge it.
+introduce_capital_punishment,a5,premise,A re-introduction of capital punishment in Germany would be a step back into the Middle Ages.
+cap_rent_increases,a1,premise,'Property entails commitment' is one of the tenets of our social order.
+cap_rent_increases,a2,objection,Everyone should be able to get the utmost profit from his or her property.
+cap_rent_increases,a3,objection,"A fixing of rent prices according to the market alone, however, will lead to a further division of society."
+cap_rent_increases,a4,premise,The rich and poor live in different neighbourhoods.
+cap_rent_increases,a5,claim,A constant increase in rent upon a change of tenants hence cannot be desired by society.
+allow_shops_to_open_on_holidays_and_sundays,a1,claim,It is quite clear that Sunday should remain a day of rest.
+allow_shops_to_open_on_holidays_and_sundays,a2,premise,"For you can go shopping 6 days a week,"
+allow_shops_to_open_on_holidays_and_sundays,a3,premise,as shops are open till 10pm on some days.
+allow_shops_to_open_on_holidays_and_sundays,a4,premise,"Thus Sundays should remain a day for getting together with family,"
+allow_shops_to_open_on_holidays_and_sundays,a5,premise,otherwise there will be a new kind of leisure activity where people spend their time in supermarkets instead of outside or in conversation etc.
+allow_shops_to_open_on_holidays_and_sundays,a6,premise,"Furthermore, there's no need to keep shops open on Sundays."
+increase_weight_of_BA_thesis_in_final_grade,a1,claim,"The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it."
+increase_weight_of_BA_thesis_in_final_grade,a2,objection,"For a good overall grade opens many doors,"
+increase_weight_of_BA_thesis_in_final_grade,a3,objection,but is not of top priority for employers.
+increase_weight_of_BA_thesis_in_final_grade,a4,premise,"With a BA dissertation one can, however, demonstrate interests and subject matter expertise particularly well."
+increase_weight_of_BA_thesis_in_final_grade,a5,premise,After all one doesn't excel in every subject.
+higher_dog_poo_fines,a1,claim,"Dog owners should pay higher fines for dog dirt left on pavements,"
+higher_dog_poo_fines,a2,objection,although there aren't enough bins and bag-dispensers for dog dirt.
+higher_dog_poo_fines,a3,premise,One reason for this is that they have thus far hardly had to fear the consequences despite the obligation to clean up.
+higher_dog_poo_fines,a4,premise,"A higher fine, so dog owners would have to dig deeper into their pockets, is supposed to be a deterrent after all."
+higher_dog_poo_fines,a5,premise,"The city, especially the green spaces, should be kept tidy after all,"
+higher_dog_poo_fines,a6,premise,for they are there for our recreation.
+higher_dog_poo_fines,a7,premise,Besides you're not allowed to leave other rubbish without punishment.
+introduce_capital_punishment,a1,objection,"Capital punishment is not a solution,"
+introduce_capital_punishment,a2,premise,as it cannot be ruled out that the judicial process may make mistakes.
+introduce_capital_punishment,a3,premise,"Criminals should not be put in luxury prisons, though."
+introduce_capital_punishment,a4,premise,"After all there are criminals who enjoy 'living' in prison for its decent board, no taxes to be paid, no stress with work."
+introduce_capital_punishment,a5,claim,"Still, the state needs the death penalty as a deterrent to horrific crimes."
+public_broadcasting_fees_on_demand,a1,claim,The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.
+public_broadcasting_fees_on_demand,a2,premise,After all there are many people in Germany who pay the fee although they merely use a computer to work.
+public_broadcasting_fees_on_demand,a3,premise,"Yet the fees are demanded from everybody who does not apply for a waiver, no matter how many receiver devices actually exist in the household and how they are being used."
+public_broadcasting_fees_on_demand,a4,objection,However it is obvious that the license fee officers are not in a position to check the usage of every single device.
+over_the_counter_morning_after_pill,a1,claim,No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.
+over_the_counter_morning_after_pill,a2,objection,"Though there'd be the advantage of forgoing the embarrassment of a visit to the doctor or a nighttime trip to the walk-in clinic,"
+over_the_counter_morning_after_pill,a3,objection,women should still be informed about the risks and have a gynaecological examination before taking it.
+over_the_counter_morning_after_pill,a4,premise,Furthermore there's the risk that women could use the over-the-counter morning-after pill as a substitute for contraception.
+higher_dog_poo_fines,a1,premise,Pieces of dog poo on the pavements are a real danger.
+higher_dog_poo_fines,a2,premise,Time and again children or the elderly slip on them.
+higher_dog_poo_fines,a3,objection,"A fine for leaving dog waste behind admittedly seems rather authoritarian,"
+higher_dog_poo_fines,a4,objection,"but similar rules are often in place for bicycles on park paths, after all."
+higher_dog_poo_fines,a5,claim,Increasing penalties is therefore the right way.
+higher_dog_poo_fines,a6,premise,A dog dirt-free city will be more attractive not only for its residents but also for tourists!
