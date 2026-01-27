@@ -55,7 +55,7 @@ class SmatchScorer:
 
 def main():
     parser = argparse.ArgumentParser(description="Calculate AMR Similarity by Argument Type")
-    parser.add_argument("--input", required=True, help="Path to optimized XML/CSV (must contain 'graph')")
+    parser.add_argument("--input", required=True, help="Path to XML/CSV (must contain 'graph')")
     parser.add_argument("--topic", default="all", help="Process only this topic_id (default: all topics)")
     parser.add_argument("--type", choices=['claim', 'premise', 'objection', 'all'], default='all',
                         help="Filter analysis to a specific argument type.")
@@ -97,8 +97,16 @@ def main():
         df = df[df["topic_id"] == args.topic].copy()
         if df.empty:
             raise ValueError(f"No rows found for topic_id={args.topic!r}")
+        
+    if {'topic_id', 'type'}.issubset(df.columns):
+        group_cols = ['topic_id', 'type']
+    elif 'topic_id' in df.columns:
+        group_cols = ['topic_id']
+    elif 'id_pair' in df.columns:
+        group_cols = ['id_pair']
+    else:
+        raise ValueError("No valid grouping columns found.")
 
-    group_cols = ['topic_id', 'type'] if 'type' in df.columns else ['topic_id']
     grouped = df.groupby(group_cols)
 
     print(f"Calculating similarity across {len(grouped)} groups...")
@@ -107,32 +115,52 @@ def main():
         if len(group) < 2: continue
 
         # Extract text
-        
-        text_series = group["fragment_text"] if "fragment_text" in group.columns else group["text"]
+
+        text_series = group["fragment_text"] if "fragment_text" in group.columns else group["my_sentence"]
+
+        if group_cols == ['topic_id', 'type'] or group_cols == ['topic_id']:
     
-        items = list(zip(group['file_id'], text_series, group['graph']))
+            items = list(zip(group['file_id'], text_series, group['graph']))
 
-        for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations_with_replacement(items, 2):
-            score = scorer.calculate(g1, g2)
+            for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations_with_replacement(items, 2):
+                import ipdb; ipdb.set_trace()
+                score = scorer.calculate(g1, g2)
 
-            if score > 0.01:
-                results.append({
-                    'topic': group['topic_id'].iloc[0],
-                    'type': group['type'].iloc[0] if 'type' in group else 'unknown',
-                    'score': round(score, 3),
-                    'file_A': id1,
-                    'file_B': id2,
-                    # REMOVED SLICING [:60] HERE
-                    'text_A': txt1,
-                    'graph_A': g1,
-                    'text_B': txt2,
-                    'graph_B': g2
-                })
+                if score > 0.01:
+                    results.append({
+                        'topic': group['topic_id'].iloc[0],
+                        'type': group['type'].iloc[0] if 'type' in group else 'unknown',
+                        'score': round(score, 3),
+                        'file_A': id1,
+                        'file_B': id2,
+                        # REMOVED SLICING [:60] HERE
+                        'text_A': txt1,
+                        'graph_A': g1,
+                        'text_B': txt2,
+                        'graph_B': g2
+                    })
+        else: #if group_cols == [pair_id]
+            rows = list(zip(group['id_pair'], text_series, group['graph']))
+            items = [ (rows[0], rows[1]) ] 
+            for (id_pair, txt1, g1), (id_pair, txt2, g2) in items:
+                score = scorer.calculate(g1, g2)
+
+                if score > 0.01:
+                    results.append({
+                        'pair_id': id_pair,
+                        'score': round(score, 3),
+                        # REMOVED SLICING [:60] HERE
+                        'text_A': txt1,
+                        'graph_A': g1,
+                        'text_B': txt2,
+                        'graph_B': g2
+                    })
 
     # 5. Save Results
     if results:
         res_df = pd.DataFrame(results)
-        res_df = res_df.sort_values(by=['topic', 'file_A'])
+        if "topic_id" in group_cols:
+            res_df = res_df.sort_values(by=['topic', 'file_A'])
 
         out_ext = os.path.splitext(args.output)[1].lower()
         os.makedirs(os.path.dirname(os.path.abspath(args.output)), exist_ok=True)
