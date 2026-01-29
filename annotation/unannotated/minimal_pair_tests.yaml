@@ -1,0 +1,45 @@
+pairs:
+  - id: pair_1
+    sentences:
+      - text: "The statutory health insurance companies should subsidize alternative treatments."
+      - text: "The statutory health insurance companies should cover alternative treatments."
+
+  - id: pair_2
+    sentences:
+      - text: "The statutory health insurance companies should subsidize alternative treatments."
+      - text: "The statutory health insurance companies should fund alternative treatments."
+
+  - id: pair_3
+    sentences:
+      - text: "We should limit rent prices when there is a change of tenant."
+      - text: "We should impose a limit on rent prices when there is a change of tenant."
+
+  - id: pair_4
+    sentences:
+      - text: "Health insurance companies should cover alternative medical treatments."
+      - text: "Health insurance companies should cover medical treatments with alternative practitioners."
+
+  - id: pair_5
+    sentences:
+      - text: "Owners should pay higher fines for dog dirt left on pavements."
+      - text: "There should be higher fines for dog dirt left on pavements."
+
+  - id: pair_6
+    sentences:
+      - text: "Owners should pay higher fines for dog dirt left on pavements."
+      - text: "Higher fines for dog dirt left on pavements should be paid by owners."
+
+  - id: pair_7
+    sentences:
+      - text: "A limit must be imposed on rent increases when changing residences."
+      - text: "A limit must be imposed on rent increases when there is a change of residences."
+
+  - id: pair_8
+    sentences:
+      - text: "A limit must be imposed on rent increases when changing residences."
+      - text: "A limit must be imposed on rent increases when residences are changed."
+
+  - id: pair_9
+    sentences:
+      - text: "Dog owners should pay higher fines for dog dirt left on pavements."
+      - text: "For dog dirt left on pavements dog owners should pay higher fines."
