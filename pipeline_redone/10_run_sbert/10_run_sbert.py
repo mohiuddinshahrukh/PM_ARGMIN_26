@@ -36,7 +36,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run S-BERT Semantic Similarity")
     parser.add_argument("--input", required=True, help="Input CSV (e.g., results/1_extracted.csv)")
     parser.add_argument("--output", default="results/sbert_similarity.csv")
-    parser.add_argument("--threshold", type=float, default=0.60, help="Minimum score to save")
+    parser.add_argument("--threshold", type=float, default=0.00, help="Minimum score to save")
     args = parser.parse_args()
 
     # 1. Load Data
