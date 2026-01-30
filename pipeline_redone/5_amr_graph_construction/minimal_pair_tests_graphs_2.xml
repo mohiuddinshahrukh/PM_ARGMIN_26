@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<arguments>
+  <argument>
+    <id_pair>pair_1</id_pair>
+    <my_sentence>We should limit rent prices.</my_sentence>
+    <graph># ::snt We should limit rent prices.
+# ::tokens ["We", "should", "limit", "rent", "prices", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "NN", "NNS", "."]
+# ::lemmas ["we", "should", "limit", "rent", "price", "."]
+(r0 / recommend-01
+  :ARG1 (l0 / limit-01
+    :ARG0 (w0 / we)
+    :ARG1 (p0 / price-01
+      :ARG1 (r1 / rent))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_1</id_pair>
+    <my_sentence>We should impose a limit on rent prices.</my_sentence>
+    <graph># ::snt We should impose a limit on rent prices.
+# ::tokens ["We", "should", "impose", "a", "limit", "on", "rent", "prices", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "DT", "NN", "IN", "NN", "NNS", "."]
+# ::lemmas ["we", "should", "impose", "a", "limit", "on", "rent", "price", "."]
+(r0 / recommend-01
+  :ARG1 (i0 / impose-01
+    :ARG0 (w0 / we)
+    :ARG1 (l0 / limit-01
+      :ARG1 (p0 / price-01
+        :ARG1 (r1 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_2</id_pair>
+    <my_sentence>We should limit rent prices if there is a change of tenant.</my_sentence>
+    <graph># ::snt We should limit rent prices if there is a change of tenant.
+# ::tokens ["We", "should", "limit", "rent", "prices", "if", "there", "is", "a", "change", "of", "tenant", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "NN", "NNS", "IN", "EX", "VBZ", "DT", "NN", "IN", "NN", "."]
+# ::lemmas ["we", "should", "limit", "rent", "price", "if", "there", "be", "a", "change", "of", "tenant", "."]
+(h0 / have-condition-91
+  :ARG2 (c0 / change-01
+    :ARG1 (t0 / tenant))
+  :ARG1 (r0 / recommend-01
+    :ARG1 (l0 / limit-01
+      :ARG0 (w0 / we)
+      :ARG1 (p0 / price-01
+        :ARG1 (r1 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_2</id_pair>
+    <my_sentence>We should impose a limit on rent prices if there is a change of tenant.</my_sentence>
+    <graph># ::snt We should impose a limit on rent prices if there is a change of tenant.
+# ::tokens ["We", "should", "impose", "a", "limit", "on", "rent", "prices", "if", "there", "is", "a", "change", "of", "tenant", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "DT", "NN", "IN", "NN", "NNS", "IN", "EX", "VBZ", "DT", "NN", "IN", "NN", "."]
+# ::lemmas ["we", "should", "impose", "a", "limit", "on", "rent", "price", "if", "there", "be", "a", "change", "of", "tenant", "."]
+(r0 / recommend-01
+  :ARG2 (c0 / change-01
+    :ARG1 (p0 / person
+      :ARG0-of (r1 / rent-01)))
+  :ARG1 (i0 / impose-01
+    :ARG0 (w0 / we)
+    :ARG1 (l0 / limit-01
+      :ARG1 (p1 / price-01))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_3</id_pair>
+    <my_sentence>We should limit rent prices if there is a residence change.</my_sentence>
+    <graph># ::snt We should limit rent prices if there is a residence change.
+# ::tokens ["We", "should", "limit", "rent", "prices", "if", "there", "is", "a", "residence", "change", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "NN", "NNS", "IN", "EX", "VBZ", "DT", "NN", "NN", "."]
+# ::lemmas ["we", "should", "limit", "rent", "price", "if", "there", "be", "a", "residence", "change", "."]
+(h0 / have-condition-91
+  :ARG2 (c0 / change-01
+    :ARG1 (r1 / reside-01))
+  :ARG1 (r0 / recommend-01
+    :ARG1 (l0 / limit-01
+      :ARG0 (w0 / we)
+      :ARG1 (p0 / price-01
+        :ARG1 (r2 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_3</id_pair>
+    <my_sentence>We should impose a limit on rent prices if there is a residence change.</my_sentence>
+    <graph># ::snt We should impose a limit on rent prices if there is a residence change.
+# ::tokens ["We", "should", "impose", "a", "limit", "on", "rent", "prices", "if", "there", "is", "a", "residence", "change", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["PRP", "MD", "VB", "DT", "NN", "IN", "NN", "NNS", "IN", "EX", "VBZ", "DT", "NN", "NN", "."]
+# ::lemmas ["we", "should", "impose", "a", "limit", "on", "rent", "price", "if", "there", "be", "a", "residence", "change", "."]
+(r0 / recommend-01
+  :ARG2 (c0 / change-01
+    :ARG1 (r1 / reside-01))
+  :ARG1 (i0 / impose-01
+    :ARG0 (w0 / we)
+    :ARG1 (l0 / limit-01
+      :ARG1 (p0 / price-01
+        :ARG1 (r2 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_4</id_pair>
+    <my_sentence>Owners should pay higher fines for dog dirt left on pavements.</my_sentence>
+    <graph># ::snt Owners should pay higher fines for dog dirt left on pavements.
+# ::tokens ["Owners", "should", "pay", "higher", "fines", "for", "dog", "dirt", "left", "on", "pavements", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["NNS", "MD", "VB", "JJR", "NNS", "IN", "NN", "NN", "VBD", "IN", "NNS", "."]
+# ::lemmas ["owner", "should", "pay", "high", "fine", "for", "dog", "dirt", "leave", "on", "pavement", "."]
+(r0 / recommend-01
+  :ARG1 (p0 / pay-01
+    :ARG0 (p1 / person
+      :ARG2-of (f0 / fine-01
+        :ARG1-of (h1 / have-degree-91
+          :ARG2 (h0 / high-02)
+          :ARG3 (m0 / more))
+        :manner h0
+        :ARG1 (d0 / dirt
+          :ARG1-of (l0 / leave-14
+            :location (p2 / pavement))
+          :mod (d1 / dog)))
+      :ARG0-of (o0 / own-01))
+    :ARG1 f0))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_4</id_pair>
+    <my_sentence>By owners should be paid higher fines for dog dirt left on pavements.</my_sentence>
+    <graph># ::snt By owners should be paid higher fines for dog dirt left on pavements.
+# ::tokens ["By", "owners", "should", "be", "paid", "higher", "fines", "for", "dog", "dirt", "left", "on", "pavements", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["IN", "NNS", "MD", "VB", "VBN", "JJR", "NNS", "IN", "NN", "NN", "VBD", "IN", "NNS", "."]
+# ::lemmas ["by", "owner", "should", "be", "pay", "high", "fine", "for", "dog", "dirt", "leave", "on", "pavement", "."]
+(r0 / recommend-01
+  :ARG1 (p0 / pay-01
+    :ARG2 (p1 / person
+      :ARG2-of (f0 / fine-01
+        :ARG1-of (h1 / have-degree-91
+          :ARG2 (h0 / high-02)
+          :ARG3 (m0 / more))
+        :ARG1 h0
+        :ARG3 (d0 / dirt
+          :ARG1-of (l0 / leave-17
+            :ARG2 (p2 / pavement))
+          :mod (d1 / dog)))
+      :ARG0-of (o0 / own-01))
+    :ARG1 f0))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_5</id_pair>
+    <my_sentence>Higher fines for dog dirt left on pavements we should pay.</my_sentence>
+    <graph># ::snt Higher fines for dog dirt left on pavements we should pay.
+# ::tokens ["Higher", "fines", "for", "dog", "dirt", "left", "on", "pavements", "we", "should", "pay", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["JJR", "NNS", "IN", "NN", "NN", "VBN", "IN", "NNS", "PRP", "MD", "VB", "."]
+# ::lemmas ["high", "fine", "for", "dog", "dirt", "leave", "on", "pavement", "we", "should", "pay", "."]
+(r0 / recommend-01
+  :ARG1 (p0 / pay-01
+    :ARG3 (f0 / fine-01
+      :ARG1 (d0 / dirt
+        :ARG1-of (h0 / have-degree-91
+          :ARG1 f0
+          :ARG3 (m0 / more)
+          :ARG2 (h1 / high-02))
+        :ARG1-of (l0 / leave-02
+          :ARG2 (p1 / pavement))
+        :mod (d1 / dog)))
+    :ARG0 (w0 / we)))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_5</id_pair>
+    <my_sentence>Higher fines for dog dirt left on pavements should be paid.</my_sentence>
+    <graph># ::snt Higher fines for dog dirt left on pavements should be paid.
+# ::tokens ["Higher", "fines", "for", "dog", "dirt", "left", "on", "pavements", "should", "be", "paid", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["JJR", "NNS", "IN", "NN", "NN", "VBN", "IN", "NNS", "MD", "VB", "VBN", "."]
+# ::lemmas ["high", "fine", "for", "dog", "dirt", "leave", "on", "pavement", "should", "be", "pay", "."]
+(r0 / recommend-01
+  :ARG1 (p0 / pay-01
+    :ARG1 (f0 / fine-01
+      :ARG1-of (d0 / dirt
+        :ARG1-of (l0 / leave-12
+          :ARG2 (p1 / pavement))
+        :mod (d1 / dog))
+      :ARG1 (h0 / have-degree-91
+        :ARG3 (m0 / more)
+        :ARG2 (h1 / high-02)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_7</id_pair>
+    <my_sentence>A limit must be imposed on rent increases when changing residences.</my_sentence>
+    <graph># ::snt A limit must be imposed on rent increases when changing residences.
+# ::tokens ["A", "limit", "must", "be", "imposed", "on", "rent", "increases", "when", "changing", "residences", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["DT", "NN", "MD", "VB", "VBN", "IN", "NN", "NNS", "WRB", "VBG", "NNS", "."]
+# ::lemmas ["a", "limit", "must", "be", "impose", "on", "rent", "increase", "when", "change", "residence", "."]
+(o0 / obligate-01
+  :ARG2 (i0 / impose-01
+    :ARG1 (l0 / limit-01
+      :ARG1 (i1 / increase-01
+        :time (c0 / change-01
+          :ARG1 (t0 / thing
+            :ARG1-of (r1 / reside-01)))
+        :ARG1 (r0 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_7</id_pair>
+    <my_sentence>A limit must be imposed on rent increases when there is a change of residences.</my_sentence>
+    <graph># ::snt A limit must be imposed on rent increases when there is a change of residences.
+# ::tokens ["A", "limit", "must", "be", "imposed", "on", "rent", "increases", "when", "there", "is", "a", "change", "of", "residences", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["DT", "NN", "MD", "VB", "VBN", "IN", "NN", "NNS", "WRB", "EX", "VBZ", "DT", "NN", "IN", "NNS", "."]
+# ::lemmas ["a", "limit", "must", "be", "impose", "on", "rent", "increase", "when", "there", "be", "a", "change", "of", "residence", "."]
+(o0 / obligate-01
+  :ARG2 (i0 / impose-01
+    :time (c0 / change-01
+      :ARG1 (t0 / thing
+        :ARG1-of (r1 / reside-01)))
+    :ARG1 (l0 / limit-01
+      :ARG1 (i1 / increase-01
+        :ARG1 (r0 / rent-01)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_6</id_pair>
+    <my_sentence>A limit must be imposed on rent increases when changing residences.</my_sentence>
+    <graph># ::snt A limit must be imposed on rent increases when changing residences.
+# ::tokens ["A", "limit", "must", "be", "imposed", "on", "rent", "increases", "when", "changing", "residences", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["DT", "NN", "MD", "VB", "VBN", "IN", "NN", "NNS", "WRB", "VBG", "NNS", "."]
+# ::lemmas ["a", "limit", "must", "be", "impose", "on", "rent", "increase", "when", "change", "residence", "."]
+(o0 / obligate-01
+  :ARG2 (i0 / impose-01
+    :ARG1 (l0 / limit-01
+      :ARG1 (i1 / increase-01
+        :time (c0 / change-01
+          :ARG1 (t0 / thing
+            :ARG1-of (r1 / reside-01)))
+        :ARG1 (r0 / rent)))))</graph>
+  </argument>
+  <argument>
+    <id_pair>pair_6</id_pair>
+    <my_sentence>A limit must be imposed on rent increases when residences are changed.</my_sentence>
+    <graph># ::snt A limit must be imposed on rent increases when residences are changed.
+# ::tokens ["A", "limit", "must", "be", "imposed", "on", "rent", "increases", "when", "residences", "are", "changed", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["DT", "NN", "MD", "VB", "VBN", "IN", "NN", "NNS", "WRB", "NNS", "VBP", "VBN", "."]
+# ::lemmas ["a", "limit", "must", "be", "impose", "on", "rent", "increase", "when", "residence", "be", "change", "."]
+(o0 / obligate-01
+  :ARG2 (i0 / impose-01
+    :ARG1 (l0 / limit-01
+      :ARG1 (i1 / increase-01
+        :time (c0 / change-01
+          :ARG1 (t0 / thing
+            :ARG1-of (r1 / reside-01)))
+        :ARG1 (r0 / rent)))))</graph>
+  </argument>
+</arguments>
