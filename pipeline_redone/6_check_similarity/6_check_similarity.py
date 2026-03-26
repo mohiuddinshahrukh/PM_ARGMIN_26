@@ -119,7 +119,7 @@ def main():
         items = list(zip(group['file_id'], text_series, group['graph']))
 
         for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations_with_replacement(items, 2):
-            import ipdb; ipdb.set_trace()
+            
             score = scorer.calculate(g1, g2)
 
             if score > 0.01:

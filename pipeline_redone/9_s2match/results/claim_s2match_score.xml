@@ -1,0 +1,2273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <item>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>the EU should not intervene in local politics.</text_A>
+    <text_B>the EU should intervene right away.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5896</s2_score>
+  </item>
+  <item>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>The EU should exert influence on the political events in Ukraine.</text_A>
+    <text_B>the EU should intervene right away.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.479</s2_score>
+  </item>
+  <item>
+    <topic>EU_influence_on_political_events_in_Ukraine</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>the EU should not intervene in local politics.</text_A>
+    <text_B>The EU should exert influence on the political events in Ukraine.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4768</s2_score>
+  </item>
+  <item>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>After the new BER Airport has been commissioned, Tegel should definitely be closed.</text_A>
+    <text_B>As a central airport Berlin Tegel is particularly attractive for business travellers and should by all means remain operational.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3494</s2_score>
+  </item>
+  <item>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>After the new BER Airport has been commissioned, Tegel should definitely be closed.</text_A>
+    <text_B>BER should be re-conceptualized from scratch,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3138</s2_score>
+  </item>
+  <item>
+    <topic>TXL_airport_remain_operational_after_BER_opening</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>As a central airport Berlin Tegel is particularly attractive for business travellers and should by all means remain operational.</text_A>
+    <text_B>BER should be re-conceptualized from scratch,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1065</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.8542</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.8194</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_A>
+    <text_B>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.7079</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5891</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Hence it is good when shops are not open on Sundays and public holidays.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5204</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5116</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4528</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and public holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4498</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and public holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4462</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4443</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.422</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3813</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and public holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3809</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.372</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>It is quite clear that Sunday should remain a day of rest.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3141</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3134</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3068</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2973</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and public holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2846</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_A>
+    <text_B>Hence it is good when shops are not open on Sundays and public holidays.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2621</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2568</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2262</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>It is quite clear that Sunday should remain a day of rest.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2261</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_A>
+    <text_B>Opening on Sundays and holidays would therefore help both customers and shops.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2163</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Hence it is good when shops are not open on Sundays and public holidays.</text_A>
+    <text_B>That's why there ought to be one day a week when supermarkets and shopping centres stay closed.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2067</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open on any Sundays and holidays.</text_A>
+    <text_B>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1855</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Supermarkets and shopping centres should be allowed to open any Sundays and holidays at their discretion.</text_A>
+    <text_B>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1758</s2_score>
+  </item>
+  <item>
+    <topic>allow_shops_to_open_on_holidays_and_sundays</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For these reasons supermarkets and shopping centres should not be allowed to be open for business on arbitrary Sundays and holidays.</text_A>
+    <text_B>Well, I as an employee find it very practical to be able to shop at least on weekends.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1232</s2_score>
+  </item>
+  <item>
+    <topic>buy_tax_evader_data_from_dubious_sources</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>Tax data that are not made available for free should therefore not be acquired by the state.</text_A>
+    <text_B>Acquiring CDs with tax data of tax delinquents is therefore out of the question.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3297</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not to be supported.</text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence cannot be desired by society.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6177</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A constant increase in rent upon a change of tenants hence cannot be desired by society.</text_A>
+    <text_B>Rent prices should be limited by a cap when there's a change of tenant.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4301</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change of tenant.</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4273</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not to be supported.</text_A>
+    <text_B>If there must be rent increases, there should also be a cap to avoid nasty surprises.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4139</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>If there must be rent increases, there should also be a cap to avoid nasty surprises.</text_A>
+    <text_B>A constant increase in rent upon a change of tenants hence cannot be desired by society.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3169</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not to be supported.</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.305</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there must be rent increases, there should also be a cap to avoid nasty surprises.</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2935</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not to be supported.</text_A>
+    <text_B>Rent prices should be limited by a cap when there's a change of tenant.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2897</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there must be rent increases, there should also be a cap to avoid nasty surprises.</text_A>
+    <text_B>Rent prices should be limited by a cap when there's a change of tenant.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2765</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A constant increase in rent upon a change of tenants hence cannot be desired by society.</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2688</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there must be rent increases, there should also be a cap to avoid nasty surprises.</text_A>
+    <text_B>It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2539</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A constant increase in rent upon a change of tenants hence cannot be desired by society.</text_A>
+    <text_B>It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2132</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>A cap on rent increases upon tenant change is therefore not to be supported.</text_A>
+    <text_B>It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.208</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</text_A>
+    <text_B>A stop must be put to exorbitant rents by imposing a limit on rent increases when changing residences.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2051</s2_score>
+  </item>
+  <item>
+    <topic>cap_rent_increases</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Rent prices should be limited by a cap when there's a change of tenant.</text_A>
+    <text_B>It is unfair and unjustifiable that new tenants have to pay a much higher rent than previous residents.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1994</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Therefore universities should not charge tuition fees in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.7067</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>German universities should on no account charge tuition fees.</text_A>
+    <text_B>The universities in Germany should not under any circumstances charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6403</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities.</text_A>
+    <text_B>Therefore universities should not charge tuition fees in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6287</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities.</text_A>
+    <text_B>German universities should on no account charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6031</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore universities should not charge tuition fees in Germany.</text_A>
+    <text_B>German universities should on no account charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5764</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Tuition fees should not generally be charged by universities.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5621</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore universities should not charge tuition fees in Germany.</text_A>
+    <text_B>Actually it would be justified if all German universities charged tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5601</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities.</text_A>
+    <text_B>The universities in Germany should not under any circumstances charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5389</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore universities should not charge tuition fees in Germany.</text_A>
+    <text_B>The universities in Germany should not under any circumstances charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5386</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually it would be justified if all German universities charged tuition fees.</text_A>
+    <text_B>German universities should on no account charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5136</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>German universities should on no account charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5022</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Actually it would be justified if all German universities charged tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4663</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually it would be justified if all German universities charged tuition fees.</text_A>
+    <text_B>The universities in Germany should not under any circumstances charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4656</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not generally be charged by universities.</text_A>
+    <text_B>Actually it would be justified if all German universities charged tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4645</s2_score>
+  </item>
+  <item>
+    <topic>charge_tuition_fees</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>The universities in Germany should not under any circumstances charge tuition fees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.451</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>That's why the statutory health insurance companies should not cover such treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6938</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>Health insurance companies should naturally cover alternative medical treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6906</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>That's why the statutory health insurance companies should not cover such treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6108</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_A>
+    <text_B>That's why the statutory health insurance companies should not cover such treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5845</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_A>
+    <text_B>That's why the statutory health insurance companies should not cover such treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5722</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5344</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5341</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5194</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4644</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4235</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4171</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_A>
+    <text_B>Alternative treatments should be subsidized in the same way as conventional treatments,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3911</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>Alternative treatments should be subsidized in the same way as conventional treatments,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3596</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3532</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_A>
+    <text_B>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3506</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way as conventional treatments,</text_A>
+    <text_B>That's why the statutory health insurance companies should not cover such treatments.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3479</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why the statutory health insurance companies should not cover such treatments.</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3278</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>Alternative treatments should be subsidized in the same way as conventional treatments,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2725</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2385</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way as conventional treatments,</text_A>
+    <text_B>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2382</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_A>
+    <text_B>Alternative treatments should be subsidized in the same way as conventional treatments,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2255</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The health insurance companies ought to be enabled to recognize a doctor's decision for natural treatment and also to cover it.</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2096</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>That's why the statutory health insurance companies should not cover such treatments.</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2087</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The statutory health insurance companies should also cover treatments with non-medical and alternative practitioners.</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2042</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Health insurance companies should naturally cover alternative medical treatments.</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1974</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Health insurance companies should not cover treatment in complementary medicine</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.157</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Alternative treatments should be subsidized in the same way as conventional treatments,</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1303</s2_score>
+  </item>
+  <item>
+    <topic>health_insurance_cover_complementary_medicine</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Therefore no unproven and unrecognized treatments by naturopaths should be reimbursed by the insurance companies.</text_A>
+    <text_B>A reduction in the amount of chemically produced medication per person is most certainly desirable.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1209</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.638</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6135</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6096</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5439</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>There should be a higher fine for dog dirt on the pavement.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5093</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4903</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4774</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4765</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4461</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4179</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4136</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3816</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Dog owners should pay higher fines for dog dirt left on pavements,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3729</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3628</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3491</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3359</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>That's why causing such obstacles must to be more urgently punished.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3318</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3315</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3282</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.322</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.315</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2953</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2841</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>That's why causing such obstacles must to be more urgently punished.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2822</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2714</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2609</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2521</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>That's why causing such obstacles must to be more urgently punished.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2516</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Increasing penalties is therefore the right way.</text_A>
+    <text_B>There should be much higher fines for dog dirt left on pavements.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.233</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why causing such obstacles must to be more urgently punished.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2314</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Increasing penalties is therefore the right way.</text_A>
+    <text_B>For dog dirt left on the pavement dog owners should by all means pay a bit more.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1919</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Increasing penalties is therefore the right way.</text_A>
+    <text_B>Higher penalties for dog dirt are pointless as long as there is not enough personnel to enforce them.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1758</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>If there were higher fines for leaving dog dirt on pavements, there would presumably be less dog dirt,</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1745</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Higher fines are therefore the right measure against negligent, lazy or simply thoughtless dog owners.</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1571</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Dog owners should pay higher fines for dog dirt left on pavements,</text_A>
+    <text_B>Increasing penalties is therefore the right way.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1532</s2_score>
+  </item>
+  <item>
+    <topic>higher_dog_poo_fines</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Increasing penalties is therefore the right way.</text_A>
+    <text_B>There should be a higher fine for dog dirt on the pavement.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1474</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Due to the many random factors the bachelor thesis should not play a bigger role.</text_A>
+    <text_B>It would therefore be wise to adjust the required effort for final theses accordingly.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3946</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Due to the many random factors the bachelor thesis should not play a bigger role.</text_A>
+    <text_B>The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3567</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>It would therefore be wise to adjust the required effort for final theses accordingly.</text_A>
+    <text_B>Current regulations for the calculation of the total grade should therefore be maintained.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3147</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it.</text_A>
+    <text_B>Current regulations for the calculation of the total grade should therefore be maintained.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2309</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The BA dissertation should, if not make up the entire grade, then at least constitute a larger share of it.</text_A>
+    <text_B>It would therefore be wise to adjust the required effort for final theses accordingly.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2188</s2_score>
+  </item>
+  <item>
+    <topic>increase_weight_of_BA_thesis_in_final_grade</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Due to the many random factors the bachelor thesis should not play a bigger role.</text_A>
+    <text_B>Current regulations for the calculation of the total grade should therefore be maintained.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1971</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.7013</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6711</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>That's why Germany should not introduce capital punishment!</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6225</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5008</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Germany should by no means introduce capital punishment.</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4496</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4322</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>The death penalty is a legal means that as such is not practicable in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4068</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.402</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>The death penalty is a legal means that as such is not practicable in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3935</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Germany should by no means introduce capital punishment.</text_A>
+    <text_B>The death penalty is a legal means that as such is not practicable in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3283</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3099</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>We don't need it.</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2938</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2765</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The death penalty is a legal means that as such is not practicable in Germany.</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2664</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>The death penalty should be abandoned everywhere.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2601</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2582</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.252</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_A>
+    <text_B>The death penalty is a legal means that as such is not practicable in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2313</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2165</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>Still, the state needs the death penalty as a deterrent to horrific crimes.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1541</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>Germany should by no means introduce capital punishment.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1471</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>One should not re-introduce capital punishment in Germany,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.147</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>That's why Germany should not introduce capital punishment!</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.142</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>That's why Germany should not introduce capital punishment!</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1128</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>One should not re-introduce capital punishment in Germany,</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1116</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The state ought to prevent murder - not avenge it.</text_A>
+    <text_B>The death penalty is a legal means that as such is not practicable in Germany.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.0998</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Germany should by no means introduce capital punishment.</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.0942</s2_score>
+  </item>
+  <item>
+    <topic>introduce_capital_punishment</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The death penalty is a legal means that as such is not practicable in Germany.</text_A>
+    <text_B>We don't need it.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.09</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>I am not of the opinion that the retirement age should be set at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5988</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>the statutory retirement age should in the future not remain at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5365</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>I am not of the opinion that the retirement age should be set at 63 years.</text_A>
+    <text_B>the statutory retirement age should in the future not remain at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.514</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The implementation of retirement at 63 is no longer socially sustainable,</text_A>
+    <text_B>No, the retirement age should be raised to 65 again.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4683</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The implementation of retirement at 63 is no longer socially sustainable,</text_A>
+    <text_B>I am not of the opinion that the retirement age should be set at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4387</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The implementation of retirement at 63 is no longer socially sustainable,</text_A>
+    <text_B>the statutory retirement age should in the future not remain at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4301</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>No, the retirement age should be raised to 65 again.</text_A>
+    <text_B>Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4208</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>I am not of the opinion that the retirement age should be set at 63 years.</text_A>
+    <text_B>Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.407</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</text_A>
+    <text_B>No, the retirement age should be raised to 65 again.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2861</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The implementation of retirement at 63 is no longer socially sustainable,</text_A>
+    <text_B>Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2832</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</text_A>
+    <text_B>I am not of the opinion that the retirement age should be set at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2531</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>the statutory retirement age should in the future not remain at 63 years.</text_A>
+    <text_B>Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2418</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</text_A>
+    <text_B>the statutory retirement age should in the future not remain at 63 years.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2284</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>The implementation of retirement at 63 is no longer socially sustainable,</text_A>
+    <text_B>Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2177</s2_score>
+  </item>
+  <item>
+    <topic>keep_retirement_at_63</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Especially now, as there is a lack of skilled labour, it's irresponsible for the economy and prosperity to retire at 63.</text_A>
+    <text_B>Raising the relative retirement age on the basis of the physical fitness of the average citizen is fair.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1826</s2_score>
+  </item>
+  <item>
+    <topic>make_video_games_olympic</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>computer games should also not be recognized as Olympic events.</text_A>
+    <text_B>Video games ought to be included in the ranks of Olympic events.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5999</s2_score>
+  </item>
+  <item>
+    <topic>make_video_games_olympic</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>It would be fair to make them into an Olympic event.</text_A>
+    <text_B>Video games ought to be included in the ranks of Olympic events.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.599</s2_score>
+  </item>
+  <item>
+    <topic>make_video_games_olympic</topic>
+    <arg_A>a6</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>computer games should also not be recognized as Olympic events.</text_A>
+    <text_B>It would be fair to make them into an Olympic event.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5818</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counter in pharmacies.</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.641</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a2</arg_B>
+    <text_A>No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</text_A>
+    <text_B>I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6362</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counter in pharmacies.</text_A>
+    <text_B>No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6115</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</text_A>
+    <text_B>The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4832</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</text_A>
+    <text_B>The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4443</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counter in pharmacies.</text_A>
+    <text_B>The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4361</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</text_A>
+    <text_B>That's why a visit to the doctor and professional advice should remain mandatory.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3463</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</text_A>
+    <text_B>That's why a visit to the doctor and professional advice should remain mandatory.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2446</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counter in pharmacies.</text_A>
+    <text_B>That's why a visit to the doctor and professional advice should remain mandatory.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.214</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a5</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</text_A>
+    <text_B>That's why a visit to the doctor and professional advice should remain mandatory.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2079</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>No one should have the possibility to pick up the morning-after pill over the counter at the pharmacy.</text_A>
+    <text_B>dispensing it without medical advice would be inappropriate.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2028</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>dispensing it without medical advice would be inappropriate.</text_A>
+    <text_B>The morning-after pill should only be prescribed after counselling by a physician or pharmacist.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1848</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a4</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>dispensing it without medical advice would be inappropriate.</text_A>
+    <text_B>That's why a visit to the doctor and professional advice should remain mandatory.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1584</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>The morning-after pill ought to be available over-the-counter in pharmacies.</text_A>
+    <text_B>dispensing it without medical advice would be inappropriate.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1138</s2_score>
+  </item>
+  <item>
+    <topic>over_the_counter_morning_after_pill</topic>
+    <arg_A>a2</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>I argue categorically in favour of over-the-counter availability of the morning-after pill in pharmacies.</text_A>
+    <text_B>dispensing it without medical advice would be inappropriate.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1018</s2_score>
+  </item>
+  <item>
+    <topic>partial_housing_development_at_Tempelhofer_Feld</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>I find the peripheral housing development at Tempelhofer Feld right for urban planning reasons,</text_A>
+    <text_B>If however one could find a compromise between green space and housing, then Tempelhofer Feld should definitely be made available for residential construction.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3334</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_A>
+    <text_B>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.424</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_A>
+    <text_B>The TV/radio licence fee can only be required of all citizens/households equally.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4152</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3286</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_A>
+    <text_B>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3235</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_A>
+    <text_B>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3122</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizens/households equally.</text_A>
+    <text_B>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.3114</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_A>
+    <text_B>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2849</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_A>
+    <text_B>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2838</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_A>
+    <text_B>The TV/radio licence fee can only be required of all citizens/households equally.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2787</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>The TV/radio licence fee can only be required of all citizens/households equally.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2774</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizens/households equally.</text_A>
+    <text_B>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2774</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2311</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2113</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a3</arg_B>
+    <text_A>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_A>
+    <text_B>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.2092</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1816</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1465</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>The TV license fee should only be collected from those who actually make use of the programming of the public broadcasters.</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1435</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Not everyone should be obliged to pay the TV &amp; radio licence.</text_A>
+    <text_B>Considering what's on television these days, it would be appropriate to only have those people pay who actually (want to) follow the programming.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1408</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a3</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Nevertheless, everybody should contribute to the funding of the public broadcasters in equal measure,</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1142</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>Actually only those people should pay a TV &amp; radio licence fee who really watch ARD, ZDF, Arte etc.</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.0991</s2_score>
+  </item>
+  <item>
+    <topic>public_broadcasting_fees_on_demand</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a6</arg_B>
+    <text_A>The TV/radio licence fee can only be required of all citizens/households equally.</text_A>
+    <text_B>everyone should chip in.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.0707</s2_score>
+  </item>
+  <item>
+    <topic>school_uniforms</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>School uniforms should be introduced in our schools again.</text_A>
+    <text_B>School uniforms should not be worn in our schools.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.839</s2_score>
+  </item>
+  <item>
+    <topic>school_uniforms</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>School uniforms should be introduced in our schools again.</text_A>
+    <text_B>A simply designed practical outfit would even out the overall visual image of a school, and direct attention towards the character and achievements of the students - and not their buying power.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1897</s2_score>
+  </item>
+  <item>
+    <topic>school_uniforms</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a4</arg_B>
+    <text_A>School uniforms should not be worn in our schools.</text_A>
+    <text_B>A simply designed practical outfit would even out the overall visual image of a school, and direct attention towards the character and achievements of the students - and not their buying power.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.1237</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightly by parliament;</text_A>
+    <text_B>Secret services must be more tightly regulated in order to prevent excessive surveillance.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6532</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightly by parliament;</text_A>
+    <text_B>Intelligence services should be more closely regulated by parliament,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.6226</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Intelligence services must urgently be regulated more tightly by parliament;</text_A>
+    <text_B>That's why intelligence services must be regulated in the framework of parliamentary oversight committees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.5189</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a1</arg_B>
+    <text_A>Secret services must be more tightly regulated in order to prevent excessive surveillance.</text_A>
+    <text_B>Intelligence services should be more closely regulated by parliament,</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4212</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Intelligence services should be more closely regulated by parliament,</text_A>
+    <text_B>That's why intelligence services must be regulated in the framework of parliamentary oversight committees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4088</s2_score>
+  </item>
+  <item>
+    <topic>stricter_regulation_of_intelligence_services</topic>
+    <arg_A>a1</arg_A>
+    <arg_B>a5</arg_B>
+    <text_A>Secret services must be more tightly regulated in order to prevent excessive surveillance.</text_A>
+    <text_B>That's why intelligence services must be regulated in the framework of parliamentary oversight committees.</text_B>
+    <type_A>claim</type_A>
+    <type_B>claim</type_B>
+    <s2_score>0.4019</s2_score>
+  </item>
+</data>
