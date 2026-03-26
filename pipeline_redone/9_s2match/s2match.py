@@ -30,7 +30,7 @@ from modules.s2Match_utils import compute_s2match_score
 
 def main():
     parser = argparse.ArgumentParser(description="Run S2Match (Soft Similarity) Analysis")
-    parser.add_argument("--input", required=True, help="Input CSV/XML (must contain 'amr_penman')")
+    parser.add_argument("--input", required=True, help="Input CSV/XML (must contain 'graph')")
     parser.add_argument("--output", default="results/s2_similarity.csv")
     parser.add_argument("--threshold", type=float, default=0.00, help="Minimum score to save")
     args = parser.parse_args()
@@ -43,12 +43,12 @@ def main():
         print("Fixing column names: 'fragment_text' -> 'text'")
         df['text'] = df['fragment_text']
 
-    if 'amr_penman' not in df.columns:
-        print("Error: Input file missing 'amr_penman'. Run 2_process.py first.")
+    if 'graph' not in df.columns:
+        print("Error: Input file missing 'graph'.")
         return
 
     # Filter out empty AMRs
-    df = df[df['amr_penman'].notna() & (df['amr_penman'] != "")]
+    df = df[df['graph'].notna() & (df['graph'] != "")]
     print(f"Valid AMRs found: {len(df)}")
 
     results = []
@@ -64,7 +64,7 @@ def main():
         for (i, row_a), (j, row_b) in itertools.combinations(group.iterrows(), 2):
 
             # --- THE CORE CALL ---
-            score = compute_s2match_score(row_a['amr_penman'], row_b['amr_penman'])
+            score = compute_s2match_score(row_a['graph'], row_b['graph'])
             # ---------------------
 
             if score >= args.threshold:
