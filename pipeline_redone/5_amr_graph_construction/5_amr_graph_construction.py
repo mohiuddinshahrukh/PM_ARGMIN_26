@@ -143,35 +143,6 @@ def parse_microtext_xml_enhanced(filepath, target_types, stog):
 
     return results
 
-def parse_sentence_pair(data, stog):
-    results = []
-    pairs = data["pairs"]
-
-    for pair in pairs:
-        id_pair = pair["id"]
-        s1, s2 = pair["sentences"]
-        
-        texts = []
-        text1 = s1["text"]
-        text2 = s2["text"]
-        texts.append(text1)
-        texts.append(text2)
-
-        # generate AMRs
-        for text in texts:
-            graph_string = stog.parse_sents([text])
-            graph = penman.decode(graph_string[0])
-            pretty = penman.encode(graph, indent=2)
-            print(f"Building AMR graph for {text}")
-
-            results.append({
-                'id_pair': id_pair,
-                'my_sentence': text,
-                'graph': pretty
-            })
-
-    return results
-
 
 # --- Main CLI Execution ---
 def main():
