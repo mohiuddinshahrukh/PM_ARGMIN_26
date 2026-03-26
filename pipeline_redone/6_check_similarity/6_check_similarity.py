@@ -129,11 +129,8 @@ def main():
                     'score': round(score, 3),
                     'file_A': id1,
                     'file_B': id2,
-                    # REMOVED SLICING [:60] HERE
                     'text_A': txt1,
-                    'graph_A': g1,
-                    'text_B': txt2,
-                    'graph_B': g2
+                    'text_B': txt2
                 })
 
     # 5. Save Results
