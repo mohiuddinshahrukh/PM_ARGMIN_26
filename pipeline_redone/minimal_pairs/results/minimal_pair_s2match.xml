@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <item>
+    <pair_id>pair_1</pair_id>
+    <score>0.783</score>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <graph_A># ::snt Tuition fees should not be charged in Germany.
+# ::tokens ["Tuition", "fees", "should", "not", "be", "charged", "in", "Germany", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "GPE", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "B", "O"]
+# ::pos_tags ["NN", "NNS", "MD", "RB", "VB", "VBN", "IN", "NNP", "."]
+# ::lemmas ["tuition", "fee", "should", "not", "be", "charge", "in", "Germany", "."]
+(r0 / recommend-01
+  :polarity -
+  :ARG1 (c0 / charge-01
+    :location (c1 / country
+      :name (n0 / name
+        :op1 "Germany"))
+    :ARG1 (f0 / fee
+      :mod (t0 / tuition))))</graph_A>
+    <text_B>Tuition fees should not be introduced in Germany.</text_B>
+    <graph_B># ::snt Tuition fees should not be introduced in Germany.
+# ::tokens ["Tuition", "fees", "should", "not", "be", "introduced", "in", "Germany", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "GPE", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "B", "O"]
+# ::pos_tags ["NN", "NNS", "MD", "RB", "VB", "VBN", "IN", "NNP", "."]
+# ::lemmas ["tuition", "fee", "should", "not", "be", "introduce", "in", "Germany", "."]
+(r0 / recommend-01
+  :ARG1 (i0 / introduce-02
+    :location (c0 / country
+      :name (n0 / name
+        :op1 "Germany"))
+    :polarity -
+    :ARG1 (f0 / fee
+      :mod (t0 / tuition))))</graph_B>
+  </item>
+  <item>
+    <pair_id>pair_2</pair_id>
+    <score>0.904</score>
+    <text_A>Smoking should be banned in public places.</text_A>
+    <graph_A># ::snt Smoking should be banned in public places.
+# ::tokens ["Smoking", "should", "be", "banned", "in", "public", "places", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["NN", "MD", "VB", "VBN", "IN", "JJ", "NNS", "."]
+# ::lemmas ["smoking", "should", "be", "ban", "in", "public", "place", "."]
+(r0 / recommend-01
+  :ARG1 (b0 / ban-01
+    :location (p0 / place
+      :ARG1-of (p1 / public-02))
+    :ARG1 (s0 / smoke-02)))</graph_A>
+    <text_B>Smoking should not be allowed in public places.</text_B>
+    <graph_B># ::snt Smoking should not be allowed in public places.
+# ::tokens ["Smoking", "should", "not", "be", "allowed", "in", "public", "places", "."]
+# ::ner_tags ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::ner_iob ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+# ::pos_tags ["NN", "MD", "RB", "VB", "VBN", "IN", "JJ", "NNS", "."]
+# ::lemmas ["smoking", "should", "not", "be", "allow", "in", "public", "place", "."]
+(r0 / recommend-01
+  :ARG1 (a0 / allow-01
+    :polarity -
+    :ARG1 (s0 / smoke-02)
+    :location (p0 / place
+      :ARG1-of (p1 / public-02))))</graph_B>
+  </item>
+</data>
