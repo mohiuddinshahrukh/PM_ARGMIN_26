@@ -143,35 +143,6 @@ def parse_microtext_xml_enhanced(filepath, target_types, stog):
 
     return results
 
-def parse_sentence_pair(data, stog):
-    results = []
-    pairs = data["pairs"]
-
-    for pair in pairs:
-        id_pair = pair["id"]
-        s1, s2 = pair["sentences"]
-        
-        texts = []
-        text1 = s1["text"]
-        text2 = s2["text"]
-        texts.append(text1)
-        texts.append(text2)
-
-        # generate AMRs
-        for text in texts:
-            graph_string = stog.parse_sents([text])
-            graph = penman.decode(graph_string[0])
-            pretty = penman.encode(graph, indent=2)
-            print(f"Building AMR graph for {text}")
-
-            results.append({
-                'id_pair': id_pair,
-                'my_sentence': text,
-                'graph': pretty
-            })
-
-    return results
-
 
 # --- Main CLI Execution ---
 def main():
@@ -181,10 +152,6 @@ def main():
     parser.add_argument("--input_dir",
                         default=None,
                         help="Path to the folder containing microtext corpus with input CSV/XML files.")
-    
-    parser.add_argument("--input_pair",
-                        default=None,
-                        help="Path to yaml file with a pair of sentences.")
 
     parser.add_argument("--output",
                         required=True,
@@ -208,40 +175,18 @@ def main():
     # 1. Setup
     setup_nltk()
 
-    if args.input_dir:
+    # 2. Input Validation
+    if not os.path.exists(args.input_dir):
+        print(f"Error: Input directory '{args.input_dir}' does not exist.")
+        return
 
-        # 2. Input Validation
-        if not os.path.exists(args.input_dir):
-            print(f"Error: Input directory '{args.input_dir}' does not exist.")
-            return
+    xml_files = glob.glob(os.path.join(args.input_dir, "*.xml"))
+    if not xml_files:
+        print(f"Error: No .xml files found in '{args.input_dir}'.")
+        return
 
-        xml_files = glob.glob(os.path.join(args.input_dir, "*.xml"))
-        if not xml_files:
-            print(f"Error: No .xml files found in '{args.input_dir}'.")
-            return
-
-        print(f"Found {len(xml_files)} XML files in '{args.input_dir}'...")
-        print(f"Extracting types: {', '.join(args.types)}")
-
-    elif args.input_pair:
-
-        #2. Input Validation
-        #read yaml file
-
-        if not os.path.exists(args.input_pair):
-            print(f"Error: Input directory '{args.input_pair}' does not exist.")
-            return
-
-        with open(args.input_pair, "r") as f:
-            data = yaml.safe_load(f)
-
-        pairs = data.get("pairs", [])
-
-        if not pairs:
-            print(f"Error: No sentence pairs found in '{args.input_pair}'.")
-            return
-
-        print(f"Found {len(pairs)} sentence pairs in '{args.input_pair}'...")
+    print(f"Found {len(xml_files)} XML files in '{args.input_dir}'...")
+    print(f"Extracting types: {', '.join(args.types)}")
 
     # 3. Load AMR Model
     print("\nLoading AMR Model...")
@@ -257,46 +202,28 @@ def main():
         print(f"Critical Error loading AMR model: {e}")
         return
     
-    if args.input_dir:
         
-        # 4. Processing
-        all_claims = []
-        for xml_file in xml_files:
-            try:
-                # Pass the requested types to the parser
-                claims = parse_microtext_xml_enhanced(xml_file, args.types, stog)
-                if claims:
-                    all_claims.extend(claims)
-            except Exception as e:
-                print(f"Warning: Failed to parse {os.path.basename(xml_file)}: {e}")
-
-        if not all_claims:
-            print("No results found matching your criteria.")
-            return
-
-        df = pd.DataFrame(all_claims)
-        print(f"Successfully extracted {len(df)} items.")
-
-        # Show classification stats
-        print("\nExtraction Summary:")
-        print(df['type'].value_counts())
-
-    elif args.input_pair:
-        all_sentences = []
-
+    # 4. Processing
+    all_claims = []
+    for xml_file in xml_files:
         try:
-            sentences = parse_sentence_pair(data, stog)
-            if sentences:
-                all_sentences.extend(sentences)
+            # Pass the requested types to the parser
+            claims = parse_microtext_xml_enhanced(xml_file, args.types, stog)
+            if claims:
+                all_claims.extend(claims)
         except Exception as e:
-            print(f"Warning: Failed to parse your yaml file: {e}")
-        
-        if not all_sentences:
-            print("No results are obtained from your yaml file.")
-            return
-        
-        df = pd.DataFrame(all_sentences)
-        print(f"Successfully extracted {len(df)} sentences.")
+            print(f"Warning: Failed to parse {os.path.basename(xml_file)}: {e}")
+
+    if not all_claims:
+        print("No results found matching your criteria.")
+        return
+
+    df = pd.DataFrame(all_claims)
+    print(f"Successfully extracted {len(df)} items.")
+
+    # Show classification stats
+    print("\nExtraction Summary:")
+    print(df['type'].value_counts())
 
     # 5. Handle Output Directory
     output_path = Path(args.output)
@@ -319,7 +246,6 @@ def main():
 
     except Exception as e:
         print(f"Error saving file: {e}")
-
 
 if __name__ == "__main__":
     main()

@@ -39,10 +39,6 @@ def main():
     print(f"Loading data from {args.input}...")
     df = load_data(args.input)
 
-    if 'fragment_text' in df.columns and 'text' not in df.columns:
-        print("Fixing column names: 'fragment_text' -> 'text'")
-        df['text'] = df['fragment_text']
-
     if 'graph' not in df.columns:
         print("Error: Input file missing 'graph'.")
         return
@@ -53,45 +49,38 @@ def main():
 
     results = []
 
-    # 2. Group by Topic (Comparison Strategy)
-    grouped = df.groupby('topic_id')
+    # 2. Group by pairs
+    group_cols = ['id_pair']
+    grouped = df.groupby(group_cols)
 
     print("Calculating Soft Similarity (S2Match)...")
-    for topic, group in tqdm(grouped):
-        if len(group) < 2: continue
+    for _, group in tqdm(grouped):
 
-        # Compare all pairs within the topic
-        for (i, row_a), (j, row_b) in itertools.combinations(group.iterrows(), 2):
+        text_series = group["fragment_text"] if "fragment_text" in group.columns else group["my_sentence"]
 
-            # --- THE CORE CALL ---
-            score = compute_s2match_score(row_a['graph'], row_b['graph'])
-            # ---------------------
+        rows = list(zip(group['id_pair'], text_series, group['graph']))
+        items = [ (rows[0], rows[1]) ] 
+        for (id_pair, txt1, g1), (id_pair, txt2, g2) in items:
+            score = compute_s2match_score(g1, g2)
 
-            if score >= args.threshold:
+            if score > 0.01:
                 results.append({
-                    'topic': topic,
-                    'arg_A': row_a['adu_id'],
-                    'arg_B': row_b['adu_id'],
-                    'text_A': row_a['text'],
-                    'text_B': row_b['text'],
-                    'type_A': row_a['type'],
-                    'type_B': row_b['type'],
-                    's2_score': round(score, 4)
+                    'pair_id': id_pair,
+                    'score': round(score, 3),
+                    'text_A': txt1,
+                    'text_B': txt2
                 })
 
     # 3. Save Results
     if results:
         res_df = pd.DataFrame(results)
-        res_df = res_df.sort_values(by=['topic', 's2_score'], ascending=[True, False])
         save_data(res_df, args.output)
 
         # Print Stats
         print("\n--- Results Summary ---")
         print(f"Total Pairs Found: {len(res_df)}")
-        print(f"Average Score: {res_df['s2_score'].mean():.3f}")
         print("\nTop Match Example:")
         top = res_df.iloc[0]
-        print(f"Score: {top['s2_score']}")
         print(f"A: {top['text_A']}")
         print(f"B: {top['text_B']}")
     else:

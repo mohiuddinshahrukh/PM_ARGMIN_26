@@ -56,9 +56,6 @@ class SmatchScorer:
 def main():
     parser = argparse.ArgumentParser(description="Calculate AMR Similarity by Argument Type")
     parser.add_argument("--input", required=True, help="Path to XML/CSV (must contain 'graph')")
-    parser.add_argument("--topic", default="all", help="Process only this topic_id (default: all topics)")
-    parser.add_argument("--type", choices=['claim', 'premise', 'objection', 'all'], default='all',
-                        help="Filter analysis to a specific argument type.")
     parser.add_argument("--output", default="similarity_results.csv", help="Output filename")
 
     args = parser.parse_args()
@@ -80,64 +77,39 @@ def main():
         print("\nCRITICAL ERROR: Input file is missing AMR graphs.")
         return
 
-    # 3. Filter by Type
-    if args.type != 'all':
-        if 'type' in df.columns:
-            df = df[df['type'] == args.type]
-            print(f"Filtered to analyze '{args.type}' only ({len(df)} items).")
-        else:
-            print("Warning: 'type' column missing. Analyzing all rows.")
-
-    # 4. Run Analysis
+    # 3. Run Analysis
     scorer = SmatchScorer()
     results = []
 
     # args.topic comes from argparse
-    if args.topic != "all":
-        df = df[df["topic_id"] == args.topic].copy()
-        if df.empty:
-            raise ValueError(f"No rows found for topic_id={args.topic!r}")
         
-    if {'topic_id', 'type'}.issubset(df.columns):
-        group_cols = ['topic_id', 'type']
-    elif 'topic_id' in df.columns:
-        group_cols = ['topic_id']
-    else:
-        raise ValueError("No valid grouping columns found.")
-
+    group_cols = ['id_pair']
     grouped = df.groupby(group_cols)
 
     print(f"Calculating similarity across {len(grouped)} groups...")
 
     for name, group in tqdm(grouped):
-        if len(group) < 2: continue
 
         # Extract text
 
         text_series = group["fragment_text"] if "fragment_text" in group.columns else group["my_sentence"]
-    
-        items = list(zip(group['file_id'], text_series, group['graph']))
 
-        for (id1, txt1, g1), (id2, txt2, g2) in itertools.combinations_with_replacement(items, 2):
-            
+        rows = list(zip(group['id_pair'], text_series, group['graph']))
+        items = [ (rows[0], rows[1]) ] 
+        for (id_pair, txt1, g1), (id_pair, txt2, g2) in items:
             score = scorer.calculate(g1, g2)
 
             if score > 0.01:
                 results.append({
-                    'topic': group['topic_id'].iloc[0],
-                    'type': group['type'].iloc[0] if 'type' in group else 'unknown',
+                    'pair_id': id_pair,
                     'score': round(score, 3),
-                    'file_A': id1,
-                    'file_B': id2,
                     'text_A': txt1,
                     'text_B': txt2
                 })
 
-    # 5. Save Results
+    # 4. Save Results
     if results:
         res_df = pd.DataFrame(results)
-        if "topic_id" in group_cols:
-            res_df = res_df.sort_values(by=['topic', 'file_A'])
 
         out_ext = os.path.splitext(args.output)[1].lower()
         os.makedirs(os.path.dirname(os.path.abspath(args.output)), exist_ok=True)

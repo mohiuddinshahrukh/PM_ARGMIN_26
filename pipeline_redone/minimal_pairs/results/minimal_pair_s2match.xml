@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <item>
+    <pair_id>pair_1</pair_id>
+    <score>0.783</score>
+    <text_A>Tuition fees should not be charged in Germany.</text_A>
+    <text_B>Tuition fees should not be introduced in Germany.</text_B>
+  </item>
+  <item>
+    <pair_id>pair_2</pair_id>
+    <score>0.904</score>
+    <text_A>Smoking should be banned in public places.</text_A>
+    <text_B>Smoking should not be allowed in public places.</text_B>
+  </item>
+</data>
