@@ -21,29 +21,6 @@ def setup_nltk():
             nltk.download(pkg)
 
 
-# --- Classification Logic ---
-def determine_argument_type(adu_id, outgoing_edges):
-    """
-    Classifies an ADU as 'claim', 'objection', or 'premise' based on its outgoing edge.
-    """
-    # If no outgoing edges, it's the root node -> Major Claim
-    if adu_id not in outgoing_edges:
-        return 'claim'
-
-    edge_type = outgoing_edges[adu_id]
-
-    # Attack relations
-    if edge_type in ['reb', 'und']:
-        return 'objection'
-
-    # Support relations (sup) or linking relations (add, exa)
-    # Note: 'add' (addition) usually joins another node to form a support, effectively acting as a premise.
-    if edge_type in ['sup', 'add', 'exa']:
-        return 'premise'
-
-    return 'premise'  # Default fallback
-
-
 # --- Parsing Logic ---
 def parse_sentence_pair(data, stog):
     results = []

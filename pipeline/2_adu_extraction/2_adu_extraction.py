@@ -101,7 +101,6 @@ def write_csv(data, output_path):
         writer.writerows(data)
     print(f"Successfully wrote CSV to {output_path}")
 
-
 def write_xml(data, output_path):
     # Ensure folder exists before writing
     ensure_directory_exists(output_path)
@@ -121,9 +120,12 @@ def write_xml(data, output_path):
         content.text = entry['text']
 
     tree = ET.ElementTree(root)
+
+    # Pretty print
+    ET.indent(tree, space="  ", level=0)
+
     tree.write(output_path, encoding='utf-8', xml_declaration=True)
     print(f"Successfully wrote XML to {output_path}")
-
 
 def main():
     parser = argparse.ArgumentParser(description="Extract arguments from Microtext Corpus XMLs.")
