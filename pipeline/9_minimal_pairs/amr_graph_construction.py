@@ -1,5 +1,4 @@
 import os
-import glob
 import argparse
 import xml.etree.ElementTree as ET
 import pandas as pd

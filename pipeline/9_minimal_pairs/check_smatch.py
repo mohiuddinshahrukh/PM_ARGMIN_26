@@ -1,7 +1,6 @@
 import pandas as pd
 import argparse
 import os
-import itertools
 import sys
 from tqdm import tqdm
 

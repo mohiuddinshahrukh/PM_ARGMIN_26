@@ -7,7 +7,6 @@ import nltk
 from pathlib import Path
 import amrlib
 import penman
-import yaml
 
 
 # --- Setup NLTK ---
