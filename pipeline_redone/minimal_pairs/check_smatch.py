@@ -19,7 +19,6 @@ class SmatchScorer:
 
     def calculate(self, str1, str2):
         # 1. Safety check
-        import ipdb; ipdb.set_trace()
         if not isinstance(str1, str) or not isinstance(str2, str):
             return 0.0
 
@@ -46,8 +45,6 @@ class SmatchScorer:
 
         precision = best_match / float(test_total)
         recall = best_match / float(gold_total)
-
-        import ipdb; ipdb.set_trace()
 
         if precision + recall > 0:
             f_score = 2 * (precision * recall) / (precision + recall)
@@ -107,9 +104,7 @@ def main():
                     'pair_id': id_pair,
                     'score': round(score, 3),
                     'text_A': txt1,
-                    'graph_A': g1,
-                    'text_B': txt2,
-                    'graph_B': g2
+                    'text_B': txt2
                 })
 
     # 4. Save Results

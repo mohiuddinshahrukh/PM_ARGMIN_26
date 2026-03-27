@@ -68,9 +68,7 @@ def main():
                     'pair_id': id_pair,
                     'score': round(score, 3),
                     'text_A': txt1,
-                    'graph_A': g1,
-                    'text_B': txt2,
-                    'graph_B': g2
+                    'text_B': txt2
                 })
 
     # 3. Save Results
