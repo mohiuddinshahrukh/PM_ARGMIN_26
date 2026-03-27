@@ -4,7 +4,7 @@
 ```markdown
 # Advanced Microtext Argument Extractor
 
-A powerful Python tool designed to extract, aggregate, and analyze argument structures from the Microtext Corpus (XML). This script goes beyond simple text extraction by preserving the logical structure of arguments, tracking their source files, and providing complexity statistics.
+A script designed to extract, aggregate, and analyze argument structures from the Microtext Corpus (XML). This script goes beyond simple text extraction by preserving the logical structure of arguments, tracking their source files, and providing complexity statistics.
 
 ## Features
 
@@ -26,59 +26,16 @@ A powerful Python tool designed to extract, aggregate, and analyze argument stru
     `"Premise X" --supports--> "Claim Y"`
     This is essential for training AI models on argument structure rather than just content.
 
-## Installation
-
-1.  **Prerequisites:** Python 3.x
-2.  **Dependencies:** None (uses standard libraries `os`, `argparse`, `xml.etree.ElementTree`, `csv`, `sys`, `collections`).
-3.  **Setup:** Save the provided script as `advanced_extractor.py`.
-
 ## Usage
 
 Run the script from the command line:
 
 ```bash
-python advanced_extractor.py <input_dir> <output_file> [options]
+python advanced_extraction.py <input_dir> <output_file> [options]
 
 ```
 
-### Arguments
-
-| Argument | Type | Description |
-| --- | --- | --- |
-| `input_dir` | Positional | Path to the directory containing `.xml` files. |
-| `output_file` | Positional | Path for the output file. Must end in `.csv` or `.xml`. |
-| `--units` | Optional | Space-separated list of units to extract. Default: `claims premises objections`. |
-
-## Examples
-
-### 1. Generate a Rich CSV Dataset
-
-Creates a flat file perfect for DataFrames or Excel analysis. Includes all statistics and logical pairs.
-
-```bash
-python advanced_extractor.py ./corpus/en results/rich_data.csv
-
-```
-
-### 2. Generate Hierarchical XML
-
-Creates a structured XML file where arguments are nested under `<topic>` and `<stance>`.
-
-```bash
-python advanced_extractor.py ./corpus/en results/structure.xml
-
-```
-
-### 3. Extract Specific Units
-
-If you only want premises and ignore objections:
-
-```bash
-python advanced_extractor.py ./corpus/en results/premises_only.csv --units premises
-
-```
-
-## Output Format Explained
+## Output Format
 
 ### CSV Columns
 
@@ -91,7 +48,6 @@ python advanced_extractor.py ./corpus/en results/premises_only.csv --units premi
 
 * `relations`: Pipe-separated list of logical connections.
 * *Example:* `[micro_b001] "It's annoying..." --sup--> "We should stop separating"`
-
 
 
 ### XML Structure

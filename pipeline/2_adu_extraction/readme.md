@@ -2,53 +2,23 @@
 ```markdown
 # Microtext ADU Extractor
 
-This Python utility automates the extraction of **argumentative discourse units** (ADUs: Claims, Premises, and Objections) from the **Microtext Corpus** (XML format). It is designed to process directories of XML files, classify logical units based on their graph structure, and export the findings.
+This script automates the extraction of **argumentative discourse units** (ADUs: Claims, Premises, and Objections) from the **Microtext Corpus** (XML format). It is designed to process directories of XML files, classify logical units based on their graph structure, and export the findings.
 
-## 📌 Features
+## Features
 
 * **ADU Selection:** Selectively extract `claims`, `premises`, or `objections`.
 * **Batch Processing:** Scans an entire directory for `.xml` files.
 * **Flexible Output:** Supports both CSV and XML export formats.
 * **Automatic Path Handling:** Automatically creates missing output directories.
 
-## 🚀 Setup & Usage
-
-### Prerequisites
-* Python 3.x
-* The Microtext Corpus XML files (e.g., in a folder named `corpus/`)
-
 ### Command Syntax
 
 ```bash
-python extract_args.py <input_dir> --extract <ADUs> --output <output_file>
+python 2_adu_extraction.py <input_dir> --extract <ADUs> --output <output_file>
 
 ```
 
-| Argument | Description | Options |
-| --- | --- | --- |
-| `input_dir` | Directory containing the corpus XML files. | (e.g., `./corpus`) |
-| `--extract` | List of ADUs to extract (space-separated). | `claims` `premises` `objections` |
-| `--output` | Destination file path. Extension determines format. | `.csv` or `.xml` |
-
-### Examples
-
-**1. Extract Claims and Objections to CSV**
-Reads files from `arg-microtexts/corpus/en/` and saves results to a new folder `results/`.
-
-```bash
-python extract_args.py arg-microtexts/corpus/en/ --extract claims objections --output results/extraction.csv
-
-```
-
-**2. Extract All Data to XML**
-Extracts all ADUs and saves them as an XML file.
-
-```bash
-python extract_args.py data/ --extract claims premises objections --output analysis/full_dataset.xml
-
-```
-
-## 🧠 How It Works
+## How It Works
 
 The script parses the Argument Graph (`<arggraph>`) structure within each file to classify text segments:
 
@@ -61,7 +31,7 @@ The script parses the Argument Graph (`<arggraph>`) structure within each file t
 
 3. **Export:** Formatting the extracted text into the requested file type.
 
-## 📂 Output Format
+## Output Format
 
 **CSV Output Example:**
 
@@ -84,9 +54,3 @@ micro_b002.xml,claim,"Higher fines are therefore the right measure..."
 </extraction_results>
 
 ```
-
-## 🛠 Troubleshooting
-
-* **"No such file or directory"**: The script automatically handles *output* directory creation. If you see this error, check that your **input** directory path is correct and contains `.xml` files.
-* **Empty Output File**: Ensure the XML files follow the standard Microtext DTD structure (containing `<edu>`, `<adu>`, and `<edge>` tags).
-

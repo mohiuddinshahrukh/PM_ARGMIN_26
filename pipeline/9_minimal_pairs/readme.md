@@ -42,7 +42,7 @@ Outputs a CSV/XML with:
 
 Usage:
 ```
-python amr_graph_construction.py \
+python 9_amr_graph_construction.py \
   --input minimal_pair.yaml \
   --output minimal_pair_graphs.xml
 ```
@@ -57,7 +57,7 @@ Script: check_smatch.py
 
 Usage:
 ```
-python check_smatch.py \
+python 9_check_smatch.py \
   --input minimal_pair_graphs.xml \
   --output smatch_results.csv
 ```
@@ -73,7 +73,7 @@ Uses:
 
 Usage:
 ```
-python check_s2match.py \
+python 9_check_s2match.py \
   --input minimal_pair_graphs.xml \
   --output s2match_results.csv
 ```
@@ -88,7 +88,7 @@ Script: check_sbert.py
 
 Usage:
 ```
-python check_sbert.py \
+python 9_check_sbert.py \
   --input minimal_pair.yaml \
   --output sbert_results.csv
 ```
