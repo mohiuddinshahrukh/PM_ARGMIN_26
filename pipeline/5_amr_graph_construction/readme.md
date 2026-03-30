@@ -50,17 +50,9 @@ XML/CSV files where each `<argument>` element contains both:
   </argument>
 ```
 
-**Command line execution**
-Run the script from the command line:
+## Usage
 
 ```bash
-python 5_amr_graph_construction.py --input_dir <corpus_dir> --output <output_file> --types <unit_types>
+python 5_amr_graph_construction.py --input_dir <corpus_dir> --output <output_file> --types <ADU_type>
 
 ```
-
-**Arguments**:
-| Argument        | Type       | Description                                                                                    |
-| --------------- | ---------- | ---------------------------------------------------------------------------------------------- |
-| `input_file`    | Optional | The Microtext Corpus.                        |
-| `output_file`   | Positional | Output XML/CSV file with AMR graphs added.                                                         |
-| `types` | Optional   | Which ADU types  (claims, premises, etc.) to extract.                 

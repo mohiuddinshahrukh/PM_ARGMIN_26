@@ -56,14 +56,12 @@ In the second stage, textual ADUs are mapped to **Abstract Meaning Representatio
 
 ### Graph Generation
 
-* AMR graphs are constructed for different **ADU types** (primarily claims)
+* AMR graphs are constructed for different **ADU types**
 * The pipeline aligns ADU text and generates one AMR graph per ADU
-* Graph construction is skipped for ADUs with missing or ill-defined topics
 
 ### Design Choices
 
 * AMRs are built directly from ADUs (not full documents)
-* This keeps the semantic representation focused and comparable across pairs
 
 The resulting AMR graphs form the basis for graph-based similarity computation.
 
@@ -75,18 +73,13 @@ This stage evaluates semantic similarity **at the graph level**.
 
 ### Smatch
 
-* Standard **Smatch** is used as a baseline metric
-* Measures overlap between AMR triples under optimal node alignment
+* Standard **Smatch** measures overlap between AMR triples under optimal node alignment
 
 ### S2match
 
-* **S2match** is an extended similarity metric
+* **S2match** is an extended Smatch similarity metric
 * The implementation used here was **developed within this project**
-* It is designed to be more tolerant to:
-
-  * Lexical variation (e.g. synonyms)
-  * Paraphrasing
-  * Structural variation in AMR graphs
+* It is designed to be more tolerant to lexical variation (e.g. synonyms)
 
 ### Experimental Setup
 
@@ -94,7 +87,7 @@ This stage evaluates semantic similarity **at the graph level**.
 * Scores are analyzed against **human similarity annotations**
 * Discrepancies are further examined using **minimal pair tests**, where only one linguistic feature is varied (e.g. synonym choice or word order)
 
-This component is central for diagnosing *why* graph-based similarity may fail to match human judgments.
+This component is central for diagnosing *why* graph-based similarity may fail (or succeed) to match human judgments.
 
 ---
 
@@ -109,7 +102,7 @@ To complement graph-based methods, the project includes a **neural baseline**.
 
 ### Purpose
 
-* Provides a strong distributional baseline
+* Provides a baseline
 * Allows comparison between:
 
   * Symbolic semantic similarity (AMR-based)
@@ -126,7 +119,7 @@ A key methodological principle of the project is **controlled probing**:
 * When human and machine similarity scores diverge, we:
 
   1. Formulate a linguistic hypothesis (e.g. synonym sensitivity)
-  2. Construct **minimal sentence pairs** differing in exactly one feature
+  2. Construct **minimal sentence pairs** differing in exactly one feature to test the hypothesis
   3. Compare graph structures and similarity scores
 
 This approach allows precise attribution of errors to specific linguistic phenomena.
@@ -145,7 +138,7 @@ Together, these components contribute to a better understanding of semantic simi
 
 ## Installation & Requirements
 
-To run the pipeline, install the required dependencies listed in the requirements.txt file .
+To run the pipeline, install the required dependencies listed in the requirements.txt file.
 
 ### Install dependencies
 
@@ -153,27 +146,8 @@ To run the pipeline, install the required dependencies listed in the requirement
 pip install -r requirements.txt
 ```
 
-### Additional setup
-
-Some components require external resources:
-
-* SpaCy model (required for S2match):
-
-```bash
-python -m spacy download en_core_web_md
-```
-
-* AMR parsing (amrlib):
-
-Make sure the necessary AMR models are downloaded according to the amrlib documentation.
-
 ## Running the Pipeline
 
 Each stage of the pipeline is implemented as an independent script.
 
-👉 Instructions for running individual scripts are provided in the README file within each module or script directory.
-
-This modular design allows you to:
-
-* run specific stages independently (e.g., only SBERT or only AMR similarity),
-* debug or extend individual components without executing the full pipeline.
+👉 **Instructions for running individual scripts are provided in the README file within each module or script directory.**
