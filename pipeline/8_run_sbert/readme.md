@@ -6,7 +6,7 @@ This module computes semantic similarity between arguments using Sentence-BERT (
 
 ### 1. Data Preparation
 ```
-python 8_prep_data.py --input_dir data/arg-microtexts/corpus/en --output sbert_input.csv
+python 8_prep_data.py --input_dir <corpus_dir> --output sbert_input.csv
 ```
 - parses XML corpus
 - extracts arguments (topic_id, adu_id, type, text)

@@ -6,9 +6,14 @@ This script computes Smatch similarity between AMR graphs stored in an input XML
 
 The input file must be produced at the previous step (see amr generation script). The file contains a column named: graph - AMR
 
-**Usage Examples**
+**Usage**
 
-python ./6_check_smatch_similarity.py --input pipeline/5_amr_graph_construction/results/test.xml --type claim --output test_smatch.xml
+Run the script from the command line:
+
+```bash
+
+python 6_check_smatch_similarity.py --input <AMR_graphs> --output <output_file>
+```
 
 **Output Examples**
 

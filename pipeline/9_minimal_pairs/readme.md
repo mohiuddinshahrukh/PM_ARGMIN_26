@@ -59,7 +59,7 @@ Usage:
 ```
 python 9_check_smatch.py \
   --input minimal_pair_graphs.xml \
-  --output smatch_results.csv
+  --output smatch_results.xml
 ```
 
 ### 3. S2Match Similarity
@@ -75,7 +75,7 @@ Usage:
 ```
 python 9_check_s2match.py \
   --input minimal_pair_graphs.xml \
-  --output s2match_results.csv
+  --output s2match_results.xml
 ```
 
 ### 4. SBERT Similarity
@@ -90,7 +90,7 @@ Usage:
 ```
 python 9_check_sbert.py \
   --input minimal_pair.yaml \
-  --output sbert_results.csv
+  --output sbert_results.xml
 ```
 
 ## Output Format

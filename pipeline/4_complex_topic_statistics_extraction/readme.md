@@ -31,7 +31,7 @@ A script designed to extract, aggregate, and analyze argument structures from th
 Run the script from the command line:
 
 ```bash
-python advanced_extraction.py <input_dir> <output_file> [options]
+python advanced_extraction.py <input_dir> <output_file> --units <unit_types>
 
 ```
 

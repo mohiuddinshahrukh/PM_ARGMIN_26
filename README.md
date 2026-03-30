@@ -142,3 +142,38 @@ The project delivers:
 * Detailed empirical evidence on the strengths and limitations of AMR-based similarity for arguments
 
 Together, these components contribute to a better understanding of semantic similarity in argumentative text and the gap between symbolic meaning representations and human interpretation.
+
+## Installation & Requirements
+
+To run the pipeline, install the required dependencies listed in the requirements.txt file .
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Additional setup
+
+Some components require external resources:
+
+* SpaCy model (required for S2match):
+
+```bash
+python -m spacy download en_core_web_md
+```
+
+* AMR parsing (amrlib):
+
+Make sure the necessary AMR models are downloaded according to the amrlib documentation.
+
+## Running the Pipeline
+
+Each stage of the pipeline is implemented as an independent script.
+
+👉 Instructions for running individual scripts are provided in the README file within each module or script directory.
+
+This modular design allows you to:
+
+* run specific stages independently (e.g., only SBERT or only AMR similarity),
+* debug or extend individual components without executing the full pipeline.
