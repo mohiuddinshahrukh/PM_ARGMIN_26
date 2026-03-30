@@ -1,6 +1,6 @@
 # UP Microtext Corpus: AMR-Based Similarity Analysis
 
-This repository contains an end-to-end experimental pipeline for analyzing argumentative texts from the **UP Microtext Corpus**, with a particular focus on **semantic similarity between claims**. The project combines corpus analysis, AMR graph construction, graph-based similarity metrics, and neural sentence embeddings to study where and why human similarity judgments diverge from automatic measures.
+This repository contains an end-to-end experimental pipeline for analyzing argumentative texts from the **UP Argumentative Microtext Corpus**, with a particular focus on **semantic similarity between claims**. The project combines corpus analysis, AMR graph construction, graph-based similarity metrics, and neural sentence embeddings to study where and why human similarity judgments diverge from automatic measures.
 
 The core research question is:
 
@@ -47,6 +47,14 @@ This stage prepares and explores the argumentative data.
   * Claim pair counts per topic
 
 These statistics guide the selection of meaningful claim pairs for similarity analysis.
+
+**Corpus Source**
+
+The UP Argumentative Microtext Corpus is publicly available at:
+
+```bash
+https://github.com/peldszus/arg-microtexts
+```
 
 ---
 
