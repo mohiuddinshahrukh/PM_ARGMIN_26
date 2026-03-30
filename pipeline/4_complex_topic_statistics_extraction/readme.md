@@ -1,6 +1,6 @@
 # Advanced Microtext Argument Extractor
 
-A script designed to extract, aggregate, and analyze argument structures from the Microtext Corpus (XML).
+A script designed to extract, aggregate, and analyze argument structures from the UP Argumentative Microtext Corpus.
 
 ## Features
 
@@ -25,7 +25,7 @@ A script designed to extract, aggregate, and analyze argument structures from th
 ## Usage
 
 ```bash
-python advanced_extraction.py <corpus_dir> <output_file> --units <ADU_type>
+python 4_advanced_extraction.py <corpus_dir> <output_file> --units <ADU_type>
 
 ```
 

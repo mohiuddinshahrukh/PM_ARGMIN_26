@@ -1,6 +1,6 @@
 # AMR Graph Generation Module
 
-This module is responsible for constructing Abstract Meaning Representation (AMR) graphs for argument units (ADUs) in the Microtext Corpus.
+This module is responsible for constructing Abstract Meaning Representation (AMR) graphs for argument units (ADUs) in the UP Argumentative Microtext Corpus.
 
 The module consists of two sequential processing steps:
 1. Argument Discourse Units (ADUs) extraction

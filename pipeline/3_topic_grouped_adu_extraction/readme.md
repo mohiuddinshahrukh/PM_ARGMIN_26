@@ -1,12 +1,12 @@
 
 # Microtext Argument Grouping Tool
 
-This tool extracts argument units (claims, premises, and objections). It groups the units with a specific topic into a single entry.
+This tool extracts argument units (claims, premises, and objections) from the UP Argumentative Microtext Corpus. It groups the units with a specific topic into a single entry.
 
 ## Usage
 
 ```bash
-python unified_extractor.py <corpus_dir> <output_file> --units <ADU_type>
+python 3_unified_extractor.py <corpus_dir> <output_file> --units <ADU_type>
 
 ```
 
