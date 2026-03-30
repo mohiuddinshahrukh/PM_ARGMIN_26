@@ -51,7 +51,12 @@ XML/CSV files where each `<argument>` element contains both:
 ```
 
 **Command line execution**
-python 5_amr_graph_construction.py --input ../../../arg-microtexts/corpus/en/ --output ./results/test.xml --types claim
+Run the script from the command line:
+
+```bash
+python 5_amr_graph_construction.py --input_dir <corpus_dir> --output <output_file> --types <unit_types>
+
+```
 
 **Arguments**:
 | Argument        | Type       | Description                                                                                    |
