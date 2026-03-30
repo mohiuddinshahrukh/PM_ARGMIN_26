@@ -2,20 +2,20 @@
 
 This script computes S2match similarity between AMR graphs stored in an input XML or CSV file.
 
-**Input format**
+## Input format
 
 The input file must be produced at the previous step (see amr generation script). The file contains a column named: graph - AMR
 
-**Usage**
-
-Run the script from the command line:
+## Usage
 
 ```bash
 
-python 7_s2match.py --input <AMR_graphs> --output <output_file>
+python 7_s2match.py --input <AMR_graphs from the previous step №5> --output <output_file>
 ```
 
-**Output Examples**
+## Output Format
+
+### XML Example
 
 <item>
 <topic>allow_shops_to_open_on_holidays_and_sundays</topic>

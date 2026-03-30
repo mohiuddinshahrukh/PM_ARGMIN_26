@@ -3,10 +3,10 @@
 This module computes semantic similarity between minimal pairs of sentences using:
 
 - Smatch
-- S2Match
+- S2match
 - SBERT
 
-It also includes functionality for automatic AMR graph construction from raw text.
+It also includes functionality for automatic AMR graph construction of the sentence.
 
 ## Overview
 
