@@ -1,7 +1,7 @@
 
 # Microtext ADU Extractor
 
-This script automates the extraction of **argumentative discourse units** (ADUs: Claims, Premises, and Objections) from the **Microtext Corpus**. 
+This script automates the extraction of **argumentative discourse units** (ADUs: Claims, Premises, and Objections) from the UP Argumentative Microtext Corpus. 
 
 ## Usage
 

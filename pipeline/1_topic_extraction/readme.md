@@ -1,12 +1,12 @@
 
 # XML Attribute Extractor
 
-A command-line tool to scan a directory of XML files, extract specific attributes (like `topic_id`, `stance`, or `id`) from the `<arggraph>` tag, and generate a summary report in **CSV** or **XML** format.
+A command-line tool to scan the UP Argumentative Microtext Corpus, extract specific attributes (primarily `topic_id`) from it, and generate a summary report in CSV or XML format.
 
 ## Usage
 
 ```bash
-python 1_extract_all_topics.py <corpus_dir> <output_file> [--attribute <ATTRIBUTE_NAME>]
+python 1_extract_all_topics.py <corpus_dir> <output_file>
 ```
 
 ## Output Format
